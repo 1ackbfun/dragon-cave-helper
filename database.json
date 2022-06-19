@@ -1,0 +1,67 @@
+[
+  {
+    "breed": "Aeria Gloris",
+    "breed_chs": "至高荣誉龙",
+    "egg": "This crystalline egg almost looks like you could reach into its depths.",
+    "egg_chs": "这颗结晶化的蛋似是能让你看透其内侧。",
+    "rarity": "Normal",
+    "habitat": ["Alpine"],
+    "bsa": "None",
+    "elemental": ["Magi", "Lightning"],
+    "morphology": "Dragon (Amphiptere)",
+    "release_at": "2019-05-21",
+    "sprites": { "egg": "", "adult": [""] }
+  },
+  {
+    "breed": "Albino",
+    "breed_chs": "白化龙",
+    "egg": "You can see the baby dragon curled up inside this translucent egg.",
+    "egg_chs": "你能看到龙宝宝蜷缩在这个半透明的蛋里。",
+    "rarity": "Normal",
+    "habitat": ["Alpine", "Forest"],
+    "bsa": "None",
+    "elemental": ["Neutral"],
+    "morphology": "Dragon (Western)",
+    "release_at": "2009-07-15",
+    "sprites": { "egg": "", "adult": [""] }
+  },
+  {
+    "breed": "Aeon Wyvern",
+    "breed_chs": "永恒龙",
+    "egg": "It's almost like time is distorted around this egg.",
+    "egg_chs": "时间在这颗蛋周围似乎被扭曲了。",
+    "rarity": "NotNormal",
+    "habitat": ["Alpine", "Forest"],
+    "bsa": "Precognition",
+    "elemental": ["Time"],
+    "morphology": "Dragon (Wyvern)",
+    "release_at": "2016-08-21",
+    "sprites": { "egg": "", "adult": [""] }
+  },
+  {
+    "breed": "Aether Wyvern",
+    "breed_chs": "埃忒耳龙",
+    "egg": "Wind gusts around this egg.",
+    "egg_chs": "风在蛋的四周呼啸。",
+    "rarity": "",
+    "habitat": ["Alpine"],
+    "bsa": "None",
+    "elemental": ["Air"],
+    "morphology": "Dragon (Wyvern)",
+    "release_at": "2018-09-30",
+    "sprites": { "egg": "", "adult": [""] }
+  },
+  {
+    "breed": "Almerald",
+    "breed_chs": "祖姆绿龙",
+    "egg": "This glossy green egg is rather warm.",
+    "egg_chs": "这颗光滑的绿蛋挺温暖的。",
+    "rarity": "NotNormal",
+    "habitat": ["Alpine", "Forest"],
+    "bsa": "None",
+    "elemental": ["Light"],
+    "morphology": "Dragon (Eastern)",
+    "release_at": "2016-08-21",
+    "sprites": { "egg": "", "adult": [""] }
+  }
+]
