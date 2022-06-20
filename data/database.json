@@ -1,0 +1,8862 @@
+{
+  "Aeon Wyvern": {
+    "breed": [
+      "Aeon Wyvern",
+      "永恒龙"
+    ],
+    "egg": [
+      "It’s almost like time is distorted around this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aeria Gloris": {
+    "breed": [
+      "Aeria Gloris",
+      "至高荣誉龙"
+    ],
+    "egg": [
+      "This crystalline egg almost looks like you could reach into its depths.",
+      "这颗结晶化的蛋似是能让你看透其内侧。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aether Wyvern": {
+    "breed": [
+      "Aether Wyvern",
+      "埃忒耳龙"
+    ],
+    "egg": [
+      "Wind gusts around this egg.",
+      "风在蛋的四周呼啸。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Albino": {
+    "breed": [
+      "Albino",
+      "白化龙"
+    ],
+    "egg": [
+      "You can see the baby dragon curled up inside this translucent egg.",
+      "你能看到龙宝宝蜷缩在这个半透明的蛋里。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Alcedine Wyvern": {
+    "breed": [
+      "Alcedine Wyvern",
+      "Alcedine"
+    ],
+    "egg": [
+      "The brilliant blue spots on this egg stand out.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Almerald": {
+    "breed": [
+      "Almerald",
+      "祖姆绿龙"
+    ],
+    "egg": [
+      "This glossy green egg is rather warm.",
+      "这颗光滑的绿蛋挺温暖的。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Amalthean": {
+    "breed": [
+      "Amalthean",
+      "Amalthean"
+    ],
+    "egg": [
+      "This pristine egg sits in a clear pool of water.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Anagallis": {
+    "breed": [
+      "Anagallis",
+      "海绿龙"
+    ],
+    "egg": [
+      "This delicately patterned egg is sitting in the sunshine.",
+      "这颗图案精致的蛋躺在阳光下。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Antarean": {
+    "breed": [
+      "Antarean",
+      "安塔林龙"
+    ],
+    "egg": [
+      "This egg is surrounded by mysterious, reflective dust.",
+      "这颗蛋被神秘的反光尘埃环绕著。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aqualis": {
+    "breed": [
+      "Aqualis",
+      "水利司龙"
+    ],
+    "egg": [
+      "This drab egg rests far from the water’s edge.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aranoa": {
+    "breed": [
+      "Aranoa",
+      "艾拉诺亚龙"
+    ],
+    "egg": [
+      "The vibrant scales on this egg glisten in the sunlight",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aria": {
+    "breed": [
+      "Aria",
+      "咏叹龙"
+    ],
+    "egg": [
+      "This bright egg has a warm shell.",
+      "这颗明亮的蛋有著温暖的壳。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Astralophyne": {
+    "breed": [
+      "Astralophyne",
+      "Astralophyne"
+    ],
+    "egg": [
+      "This pleasant egg was placed in the path of a refreshing breeze.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ash": {
+    "breed": [
+      "Ash",
+      "阴灰龙"
+    ],
+    "egg": [
+      "This ashen egg is smooth to the touch﻿.",
+      "这颗阴灰的蛋触感光滑。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Astaarus": {
+    "breed": [
+      "Astaarus",
+      "Astaarus"
+    ],
+    "egg": [
+      "This egg reminds you of the night sky.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Avatar of Change": {
+    "breed": [
+      "Avatar of Change",
+      "变化的化身"
+    ],
+    "egg": [
+      "This iridescent egg radiates mysterious energy.",
+      "这颗有著闪亮虹彩的蛋散发出神秘的能量。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Avatar of Creation": {
+    "breed": [
+      "Avatar of Creation",
+      "创造的化身"
+    ],
+    "egg": [
+      "This shimmering egg radiates primordial energy.",
+      "这颗闪烁微光的蛋散发出原始的能量。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Avatar of Destruction": {
+    "breed": [
+      "Avatar of Destruction",
+      "毁灭的化身"
+    ],
+    "egg": [
+      "This smoldering egg radiates volatile energy.",
+      "这颗焖烧的蛋散释放着不稳定的能量。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Azure Glacewing": {
+    "breed": [
+      "Azure Glacewing",
+      "苍冰翅龙"
+    ],
+    "egg": [
+      "This large egg has a lustrous sheen and appears to be covered in scales.",
+      "这是颗散发著光泽且布满麟片的大蛋。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Balloon": {
+    "breed": [
+      "Balloon",
+      "气球龙"
+    ],
+    "egg": [
+      "This light egg is floating in the air.",
+      "这颗轻飘飘的蛋浮在空中。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Black": {
+    "breed": [
+      "Black",
+      "黑龙"
+    ],
+    "egg": [
+      "This egg has a faint green glow around it.",
+      "这颗蛋周围有淡淡的绿色光晕。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Black Capped Teimarr": {
+    "breed": [
+      "Black Capped Teimarr",
+      "黑帽泰马尔龙"
+    ],
+    "egg": [
+      "This egg has a black cap.",
+      "这颗蛋有一个黑尖儿。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Black Tea": {
+    "breed": [
+      "Black Tea",
+      "红茶龙"
+    ],
+    "egg": [
+      "This egg has a faintly exotic scent.",
+      "这颗蛋有种淡淡的异国情调的香味儿。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Black Truffle": {
+    "breed": [
+      "Black Truffle",
+      "黑松露龙"
+    ],
+    "egg": [
+      "This egg has a pleasant, musky smell.",
+      "这蛋带有一股令人愉悦的麝香味。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blacktip": {
+    "breed": [
+      "Blacktip",
+      "黑鳍龙"
+    ],
+    "egg": [
+      "This egg is off-white in color and smells a bit like salt.",
+      "这颗蛋是灰白色的，闻起来有些像盐。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blazeback": {
+    "breed": [
+      "Blazeback",
+      "Blazeback"
+    ],
+    "egg": [
+      "This egg has a dull metallic luster and is hot to the touch.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Bleeding Moon": {
+    "breed": [
+      "Bleeding Moon",
+      "血月龙"
+    ],
+    "egg": [
+      "This egg shines brilliantly in moonlight, and is covered in red spots.",
+      "这颗被红斑覆盖的蛋在月光下闪耀。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blue-Banded": {
+    "breed": [
+      "Blue-Banded",
+      "蓝纹龙"
+    ],
+    "egg": [
+      "This egg is covered in thick blue stripes.",
+      "这颗蛋上有密集的蓝色条纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blusang Lindwyrm": {
+    "breed": [
+      "Blusang Lindwyrm",
+      "Blusang Lindwyrm"
+    ],
+    "egg": [
+      "This egg smells faintly like brine.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Bolt": {
+    "breed": [
+      "Bolt",
+      "闪电龙"
+    ],
+    "egg": [
+      "This egg has a striking pattern.",
+      "这蛋有著引人注目的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Boreal": {
+    "breed": [
+      "Boreal",
+      "北方极龙"
+    ],
+    "egg": [
+      "This egg is covered in pale blue spots.",
+      "这颗蛋满布亮蓝色的斑点。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Bright-Breasted Wyvern": {
+    "breed": [
+      "Bright-Breasted Wyvern",
+      "Bright-Breasted"
+    ],
+    "egg": [
+      "This egg is covered in speckles.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Brimstone": {
+    "breed": [
+      "Brimstone",
+      "硫磺龙"
+    ],
+    "egg": [
+      "This egg smells rather rancid.",
+      "这颗蛋闻起来颇为腐臭。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Brute": {
+    "breed": [
+      "Brute",
+      "狂龙"
+    ],
+    "egg": [
+      "This egg is unusually large and heavy.",
+      "这颗蛋又大又重。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Candelabra": {
+    "breed": [
+      "Candelabra",
+      "枝状烛台龙"
+    ],
+    "egg": [
+      "This mottled red egg almost glows from within.",
+      "这颗斑驳的红蛋似乎自内而外散发著光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Canopy": {
+    "breed": [
+      "Canopy",
+      "林冠龙"
+    ],
+    "egg": [
+      "This egg is hidden by some leaves.",
+      "这颗蛋隐藏在叶子里。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Cantormaris Dragon": {
+    "breed": [
+      "Cantormaris Dragon",
+      "Cantormaris"
+    ],
+    "egg": [
+      "Something about this egg seems to lure you in.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Carina": {
+    "breed": [
+      "Carina",
+      "船底座龙"
+    ],
+    "egg": [
+      "This egg shimmers with dazzling constellations.",
+      "这蛋闪著耀眼的星座图案。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Carmine Wyvern": {
+    "breed": [
+      "Carmine Wyvern",
+      "胭脂红翼龙"
+    ],
+    "egg": [
+      "This pink and red egg wobbles occasionally.",
+      "这颗粉红相间的蛋时不时会摇晃。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Cassare": {
+    "breed": [
+      "Cassare",
+      "撤魔龙"
+    ],
+    "egg": [
+      "This egg makes you feel a bit uneasy.",
+      "这颗蛋让你感到有些不安。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Celestial": {
+    "breed": [
+      "Celestial",
+      "天龙"
+    ],
+    "egg": [
+      "This translucent egg shines like starlight.",
+      "这颗通透的蛋散发出如星辰的光芒。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Cloudplume": {
+    "breed": [
+      "Cloudplume",
+      "Cloudplume"
+    ],
+    "egg": [
+      "This soft egg was carefully nestled in feathers and snow.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Coastal Waverunner": {
+    "breed": [
+      "Coastal Waverunner",
+      "海岸浪奔龙"
+    ],
+    "egg": [
+      "This egg reminds you of the sea.",
+      "这颗蛋令你想起海洋。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Copper": {
+    "breed": [
+      "Copper",
+      "Copper liver of sulfur"
+    ],
+    "egg": [
+      "This egg gleams with a reddish shine.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Crystalline": {
+    "breed": [
+      "Crystalline",
+      "结晶龙"
+    ],
+    "egg": [
+      "This icy egg sparkles with frost.",
+      "这颗结冰的蛋因霜而闪闪发光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Dark Green": {
+    "breed": [
+      "Dark Green",
+      "深绿龙"
+    ],
+    "egg": [
+      "This egg is sitting in a patch of grass and small flowers even though there's no sun in the cave.",
+      "这颗蛋位于一片草与小花中，尽管洞穴里没有阳光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Dark Lumina": {
+    "breed": [
+      "Dark Lumina",
+      "黑暗绚光龙"
+    ],
+    "egg": [
+      "This egg shines coldly in the moonlight.",
+      "这颗蛋在月光下冷冷地发著光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Daydream": {
+    "breed": [
+      "Daydream",
+      "空想龙"
+    ],
+    "egg": [
+      "This egg is sitting on a cloud.",
+      "这颗蛋坐在云彩上。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Deep Sea": {
+    "breed": [
+      "Deep Sea",
+      "深海龙"
+    ],
+    "egg": [
+      "This egg appears to be covered in scales.",
+      "这颗蛋似乎覆着鳞。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Diamondwing": {
+    "breed": [
+      "Diamondwing",
+      "钻翼龙"
+    ],
+    "egg": [
+      "This egg shines like a diamond.",
+      "这蛋如钻石般闪亮。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Dorsal": {
+    "breed": [
+      "Dorsal",
+      "Purple Dorsal"
+    ],
+    "egg": [
+      "This egg has multiple bands of color on it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Electric": {
+    "breed": [
+      "Electric",
+      "电光龙"
+    ],
+    "egg": [
+      "Bright sparks glide across the surface of this egg’s shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Elux Lucis": {
+    "breed": [
+      "Elux Lucis",
+      "Elux Lucis"
+    ],
+    "egg": [
+      "Starlight shimmers across this egg’s iridescent shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ember": {
+    "breed": [
+      "Ember",
+      "馀焰龙"
+    ],
+    "egg": [
+      "This egg is really hot.",
+      "这颗蛋真的很烫。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Equinox": {
+    "breed": [
+      "Equinox",
+      "Equinox"
+    ],
+    "egg": [
+      "This egg shakes slightly when taken out of the light.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Volcano",
+      "Jungle",
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Fanalea": {
+    "breed": [
+      "Fanalea",
+      "Fanalea"
+    ],
+    "egg": [
+      "This egg has delicate markings that curl around its shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Falconiform Wyvern": {
+    "breed": [
+      "Falconiform Wyvern",
+      "隼形翼龙"
+    ],
+    "egg": [
+      "Cold flames dance across the surface of this egg.",
+      "冰冷的火焰跳跃在这颗蛋的表面上。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Fell": {
+    "breed": [
+      "Fell",
+      "猛龙"
+    ],
+    "egg": [
+      "This mottled egg looks positively ancient.",
+      "这颗斑驳的蛋看起来相当古老。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Fever Wyvern": {
+    "breed": [
+      "Fever Wyvern",
+      "热病翼龙"
+    ],
+    "egg": [
+      "This egg is patterned with an orange flare.",
+      "这颗蛋上有橘色的火焰纹样。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Fire Gem": {
+    "breed": [
+      "Fire Gem",
+      "Fire Gem blue"
+    ],
+    "egg": [
+      "This rough egg has shimmering veins of crystal running across its surface.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Flamingo Wyvern": {
+    "breed": [
+      "Flamingo Wyvern",
+      "Flamingo"
+    ],
+    "egg": [
+      "It's bright. And pink.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Iris Floret Wyvern": {
+    "breed": [
+      "Iris Floret Wyvern",
+      "Floret Iris gold"
+    ],
+    "egg": [
+      "This shiny egg smells faintly like flowers.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Floret Wyvern (Alstroemeria)": {
+    "breed": [
+      "Floret Wyvern (Alstroemeria)",
+      "Floret Alstro gold"
+    ],
+    "egg": [
+      "This shiny egg smells faintly like flowers.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No Habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Freckled": {
+    "breed": [
+      "Freckled",
+      "雀斑龙"
+    ],
+    "egg": [
+      "This egg is yellow with orange speckling.",
+      "这是颗带有橘斑的黄蛋。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Frilled": {
+    "breed": [
+      "Frilled",
+      "褶伞龙"
+    ],
+    "egg": [
+      "This egg has strange markings on it.",
+      "这颗蛋上有奇怪的花样。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Frostbite": {
+    "breed": [
+      "Frostbite",
+      "霜噬龙"
+    ],
+    "egg": [
+      "Frost is creeping over this cold egg.",
+      "这颗寒冷的蛋上爬满冰霜。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Galvanic Wyvern": {
+    "breed": [
+      "Galvanic Wyvern",
+      "Galvanic"
+    ],
+    "egg": [
+      "Powerful energy emanates from this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Gemshard": {
+    "breed": [
+      "Gemshard",
+      "碎宝石龙"
+    ],
+    "egg": [
+      "This egg is encrusted with colorful gemstones.",
+      "这颗蛋镶有色彩缤纷的宝石。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Geode": {
+    "breed": [
+      "Geode",
+      "晶岩龙"
+    ],
+    "egg": [
+      "This egg is heavy and rough, as if it were made out of rock.",
+      "这颗蛋重且粗糙，仿佛由岩石构成。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Gold": {
+    "breed": [
+      "Gold",
+      "金龙"
+    ],
+    "egg": [
+      "This egg is very reflective, almost metallic-looking.",
+      "这颗蛋有著近似金属的高反光外壳。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Gold-Horned Tangar": {
+    "breed": [
+      "Gold-Horned Tangar",
+      "Gold-horned Tangar"
+    ],
+    "egg": [
+      "This egg has bright orange and green markings.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Golden Wyvern": {
+    "breed": [
+      "Golden Wyvern",
+      "黄金翼龙"
+    ],
+    "egg": [
+      "This egg shimmers like gold.",
+      "这颗蛋像金子般闪耀。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Green": {
+    "breed": [
+      "Green",
+      "绿龙"
+    ],
+    "egg": [
+      "This egg is sitting in a pile of small pebbles.",
+      "这颗蛋位于一些小卵石之间。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Guardian": {
+    "breed": [
+      "Guardian",
+      "护卫龙"
+    ],
+    "egg": [
+      "This egg is sitting in front of the others.",
+      "这颗蛋立于其他蛋前方。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Guardian of Nature": {
+    "breed": [
+      "Guardian of Nature",
+      "自然守护龙"
+    ],
+    "egg": [
+      "This egg glows mysteriously.",
+      "这颗蛋发出神秘的光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Harvest": {
+    "breed": [
+      "Harvest",
+      "收获龙"
+    ],
+    "egg": [
+      "This heavy egg feels slightly warm.",
+      "这个沉重的蛋有微暖的感觉。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "[6]",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Hellfire Wyvern": {
+    "breed": [
+      "Hellfire Wyvern",
+      "地狱火龙"
+    ],
+    "egg": [
+      "This egg radiates the heat of a fell flame.",
+      "这颗蛋放出可怕的火焰热量。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Hellhorse": {
+    "breed": [
+      "Hellhorse",
+      "狱马龙"
+    ],
+    "egg": [
+      "This hot egg shakes violently when you touch it.",
+      "这颗灼热的蛋在你触碰它时暴烈地摇晃。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Hooded Murkling": {
+    "breed": [
+      "Hooded Murkling",
+      "Hooded Murkling"
+    ],
+    "egg": [
+      "This shady egg seems to be lurking just out of sight.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Horse": {
+    "breed": [
+      "Horse",
+      "悍马龙"
+    ],
+    "egg": [
+      "This egg has strange markings on it.",
+      "这颗蛋上有奇怪的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Hydrophidius": {
+    "breed": [
+      "Hydrophidius",
+      "Hydrophidius"
+    ],
+    "egg": [
+      "This striped egg is surprisingly heavy.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ice": {
+    "breed": [
+      "Ice",
+      "冰龙"
+    ],
+    "egg": [
+      "This egg has icicles forming on it.",
+      "这颗蛋上形成了冰柱。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Imperial Fleshcrowne": {
+    "breed": [
+      "Imperial Fleshcrowne",
+      "帝王肉冠龙"
+    ],
+    "egg": [
+      "This egg is hidden in the trees.",
+      "这颗蛋隐藏于树丛中。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Khusa": {
+    "breed": [
+      "Khusa",
+      "酷沙龙"
+    ],
+    "egg": [
+      "This egg is smooth and shiny.",
+      "这颗蛋光滑且闪闪发亮。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Kingcrowne": {
+    "breed": [
+      "Kingcrowne",
+      "王冠龙"
+    ],
+    "egg": [
+      "This shiny egg gives off an almost magical aura.",
+      "这闪闪发光的蛋散发出近似魔法的光圈。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Labradorite": {
+    "breed": [
+      "Labradorite",
+      "Labradorite"
+    ],
+    "egg": [
+      "This shimmering egg was hidden far from the others.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Lacula": {
+    "breed": [
+      "Lacula",
+      "拉库拉龙"
+    ],
+    "egg": [
+      "This green and silver egg lurks in the shadows, tempting you to steal it.",
+      "这颗银绿色蛋潜伏在暗处，诱使你去偷走它。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Leodon": {
+    "breed": [
+      "Leodon",
+      "烈傲龙"
+    ],
+    "egg": [
+      "This red and gold egg sits before the others, almost daring you to grab it.",
+      "这颗红金色的蛋坐在最前方，鼓励你大胆夺走他。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Lihnseyre": {
+    "breed": [
+      "Lihnseyre",
+      "宁视乐龙"
+    ],
+    "egg": [
+      "This glowing egg seems to tug at your very core.",
+      "这颗发著光的蛋似是在拉扯你的内在。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Lotaan": {
+    "breed": [
+      "Lotaan",
+      "Lotaan"
+    ],
+    "egg": [
+      "This scaly egg seems to disappear in the depths.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Lumina": {
+    "breed": [
+      "Lumina",
+      "绚光龙"
+    ],
+    "egg": [
+      "This egg shines brightly in the sunlight.",
+      "这颗蛋在阳光下明亮地闪耀。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Luminox Dragon": {
+    "breed": [
+      "Luminox Dragon",
+      "Luminox"
+    ],
+    "egg": [
+      "The markings on this egg glow brightly in the shadows.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Lunar Herald Dragon": {
+    "breed": [
+      "Lunar Herald Dragon",
+      "Lunar Herald gold"
+    ],
+    "egg": [
+      "This metallic egg shows faint iridescence in moonlight.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Magi": {
+    "breed": [
+      "Magi",
+      "贤龙"
+    ],
+    "egg": [
+      "This egg has an orange aura radiating from it.",
+      "这颗蛋放射出橙色魔力的光环。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Magma": {
+    "breed": [
+      "Magma",
+      "岩浆龙"
+    ],
+    "egg": [
+      "This egg is almost too hot to touch.",
+      "这颗蛋热到难以触碰。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Melismor": {
+    "breed": [
+      "Melismor",
+      "梅力斯莫龙"
+    ],
+    "egg": [
+      "This heavy egg has an earthy scent, like freshly-tilled soil.",
+      "这颗重蛋有股土味，像是新翻过的土壤。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mint": {
+    "breed": [
+      "Mint",
+      "薄荷龙"
+    ],
+    "egg": [
+      "This egg is hidden behind the others, as if it is shy.",
+      "这颗蛋藏在其他蛋后面，似乎很害羞。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mirisia Amphiptere": {
+    "breed": [
+      "Mirisia Amphiptere",
+      "Mirisia"
+    ],
+    "egg": [
+      "This egg emanates a peculiar smell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mistra": {
+    "breed": [
+      "Mistra",
+      "Mistra"
+    ],
+    "egg": [
+      "You hear a soft melody as you approach this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Monarch": {
+    "breed": [
+      "Monarch",
+      "帝王龙"
+    ],
+    "egg": [
+      "This egg is buried in leaf litter.",
+      "这颗蛋被埋在落叶堆里。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Moonstone": {
+    "breed": [
+      "Moonstone",
+      "月石龙"
+    ],
+    "egg": [
+      "This egg resembles a glowing stone.",
+      "这颗蛋像一颗闪闪发光的石头。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nebula": {
+    "breed": [
+      "Nebula",
+      "星云龙"
+    ],
+    "egg": [
+      "This egg glows with a brilliant radiance.",
+      "这颗蛋散发出灿烂的光辉。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Neglected": {
+    "breed": [
+      "Neglected",
+      "弃龙"
+    ],
+    "egg": [
+      "This egg is very sickly looking, like it's diseased.",
+      "这颗蛋看起来非常虚弱，似乎已经病变了。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Neotropical": {
+    "breed": [
+      "Neotropical",
+      "新热带龙"
+    ],
+    "egg": [
+      "This egg has strange yellow stripes.",
+      "这颗蛋有奇怪的黄色条纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nhiostrife Wyvern": {
+    "breed": [
+      "Nhiostrife Wyvern",
+      "霓纹翼龙"
+    ],
+    "egg": [
+      "This dull purple egg has two bright stripes on it.",
+      "这颗暗紫色的蛋上有两条明亮的纹路。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nobleshield Dragon": {
+    "breed": [
+      "Nobleshield Dragon",
+      "Nobleshield"
+    ],
+    "egg": [
+      "This tough egg has a protective ridge down its shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No Habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nocturne": {
+    "breed": [
+      "Nocturne",
+      "夜曲龙"
+    ],
+    "egg": [
+      "This egg appears to be made of limestone.",
+      "这颗蛋似乎由石灰石构成。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Olive": {
+    "breed": [
+      "Olive",
+      "橄榄龙"
+    ],
+    "egg": [
+      "This egg smells musty, like rotting leaves.",
+      "这颗蛋闻起来发霉了，像腐烂的树叶。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Oracle Wyrm": {
+    "breed": [
+      "Oracle Wyrm",
+      "Oracle"
+    ],
+    "egg": [
+      "It feels like this egg knew you were coming.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pillow": {
+    "breed": [
+      "Pillow",
+      "软枕龙"
+    ],
+    "egg": [
+      "This egg has a velvety texture.",
+      "这颗蛋有天鹅绒般的质地。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pink": {
+    "breed": [
+      "Pink",
+      "粉龙"
+    ],
+    "egg": [
+      "It's bright. And pink.",
+      "它是明亮的。而且是粉色的。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Plated Colossus": {
+    "breed": [
+      "Plated Colossus",
+      "装甲巨龙"
+    ],
+    "egg": [
+      "This massive egg is covered with thick plates.",
+      "这颗巨大的蛋被装甲包覆。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Purple": {
+    "breed": [
+      "Purple",
+      "紫龙"
+    ],
+    "egg": [
+      "Wow, purple isn't a color of egg you expected to see.",
+      "哇，紫色不是你想象中会在蛋上看到的颜色。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pyralspite": {
+    "breed": [
+      "Pyralspite",
+      "Pyralspite Almandine"
+    ],
+    "egg": [
+      "This egg feels like polished stone.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pyropellis Wyvern": {
+    "breed": [
+      "Pyropellis Wyvern",
+      "Pyropellis"
+    ],
+    "egg": [
+      "Tough ridges line the surface of this rough, mottled egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pyrovar": {
+    "breed": [
+      "Pyrovar",
+      "火沸龙"
+    ],
+    "egg": [
+      "This glassy egg is too hot to hold with your bare hands.",
+      "这颗玻璃蛋烫到不能直接用手拿著。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pyrrhichios": {
+    "breed": [
+      "Pyrrhichios",
+      "Pyrrhichios"
+    ],
+    "egg": [
+      "When you tap on this shell, the hatchling inside taps back.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Razorcrest Wyvern": {
+    "breed": [
+      "Razorcrest Wyvern",
+      "剃刀羽冠翼龙"
+    ],
+    "egg": [
+      "This blue and bronze egg piques your curiosity.",
+      "这颗蓝铜色蛋激起你的好奇心。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Red": {
+    "breed": [
+      "Red",
+      "红龙"
+    ],
+    "egg": [
+      "This egg is rather warm.",
+      "这颗蛋相当温暖。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ridgewing": {
+    "breed": [
+      "Ridgewing",
+      "Ridgewing purple"
+    ],
+    "egg": [
+      "A cool mountain breeze blows around this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Rift Wyrm": {
+    "breed": [
+      "Rift Wyrm",
+      "裂谷龙"
+    ],
+    "egg": [
+      "This egg radiates an otherworldly chill.",
+      "这颗蛋散发出超自然的寒意。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano",
+      "[8]"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Risensong": {
+    "breed": [
+      "Risensong",
+      "旭歌龙"
+    ],
+    "egg": [
+      "This bright egg shines in the morning sunlight.",
+      "这颗亮眼的蛋在朝曦中闪耀著光芒。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Royal Blue": {
+    "breed": [
+      "Royal Blue",
+      "皇家蓝龙"
+    ],
+    "egg": [
+      "This egg shines in the moonlight.",
+      "这颗蛋在月色下闪耀。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Royal Crimson": {
+    "breed": [
+      "Royal Crimson",
+      "皇家绯红龙"
+    ],
+    "egg": [
+      "This large egg is a dark crimson color.",
+      "这颗巨大的蛋有黯沉的绯红色。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Royal Eminence Dragon": {
+    "breed": [
+      "Royal Eminence Dragon",
+      "Royal Eminence"
+    ],
+    "egg": [
+      "This magnificent purple egg shimmers in the light.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No Habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sandwaste": {
+    "breed": [
+      "Sandwaste",
+      "沙荒龙"
+    ],
+    "egg": [
+      "This egg was buried in a sand dune.﻿",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sapo": {
+    "breed": [
+      "Sapo",
+      "Sapo"
+    ],
+    "egg": [
+      "This egg’s shell is slippery and clean.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sapphire": {
+    "breed": [
+      "Sapphire",
+      "蓝宝石龙"
+    ],
+    "egg": [
+      "This egg looks like a beautiful blue stone.",
+      "这颗蛋看起来像是颗漂亮的蓝石头。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sawtooth Dragon": {
+    "breed": [
+      "Sawtooth Dragon",
+      "Sawtooth"
+    ],
+    "egg": [
+      "Soft chirping sounds are coming from inside the egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Scimitar-wing Wyvern": {
+    "breed": [
+      "Scimitar-wing Wyvern",
+      "弯刀翼龙"
+    ],
+    "egg": [
+      "This egg seems quite harmless.",
+      "这颗蛋看起来很无害。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Script": {
+    "breed": [
+      "Script",
+      "符纹龙"
+    ],
+    "egg": [
+      "This egg is covered in mysterious patterns.",
+      "这颗蛋布满了神秘的符文。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Seasonal (Spring)": {
+    "breed": [
+      "Seasonal (Spring)",
+      "Spring"
+    ],
+    "egg": [
+      "The markings on this egg match the weather outside.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Seasonal (Summer)": {
+    "breed": [
+      "Seasonal (Summer)",
+      "Summer"
+    ],
+    "egg": [
+      "The markings on this egg match the weather outside.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Seasonal (Autumn)": {
+    "breed": [
+      "Seasonal (Autumn)",
+      "Autumn"
+    ],
+    "egg": [
+      "The markings on this egg match the weather outside.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Seasonal (Winter)": {
+    "breed": [
+      "Seasonal (Winter)",
+      "Winter"
+    ],
+    "egg": [
+      "The markings on this egg match the weather outside.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Serrati Wyvern": {
+    "breed": [
+      "Serrati Wyvern",
+      "Serrati"
+    ],
+    "egg": [
+      "This egg has striations marking its rough shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Setsong Dragon": {
+    "breed": [
+      "Setsong Dragon",
+      "Setsong"
+    ],
+    "egg": [
+      "This dark egg shines in the evening sunlight.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Shallow Water": {
+    "breed": [
+      "Shallow Water",
+      "浅水龙"
+    ],
+    "egg": [
+      "This egg appears to be covered in scales.",
+      "这颗蛋似乎覆着鳞。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Shimmer-scale": {
+    "breed": [
+      "Shimmer-scale",
+      "Gold Shimmer-scale"
+    ],
+    "egg": [
+      "This egg is very reflective, almost metallic looking.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Shumoga": {
+    "breed": [
+      "Shumoga",
+      "Shumoga"
+    ],
+    "egg": [
+      "This striped egg has a rough, ridged texture.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Silver": {
+    "breed": [
+      "Silver",
+      "银龙"
+    ],
+    "egg": [
+      "This egg gives off a beautiful glow.",
+      "这颗蛋散发出美丽的光芒。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sinii Krai": {
+    "breed": [
+      "Sinii Krai",
+      "青尼廓蓝龙"
+    ],
+    "egg": [
+      "This striped egg has a warm glow.",
+      "这颗条纹蛋散发著温和光芒。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Siyat": {
+    "breed": [
+      "Siyat",
+      "夏特龙"
+    ],
+    "egg": [
+      "This egg seems to be glowing in spots.",
+      "这颗蛋上的斑点看起来在发光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Skystrider": {
+    "breed": [
+      "Skystrider",
+      "Skystrider"
+    ],
+    "egg": [
+      "This plain blue egg almost seems to float.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Skysilk": {
+    "breed": [
+      "Skysilk",
+      "天丝龙"
+    ],
+    "egg": [
+      "This light egg has very vibrant colors.",
+      "这颗轻巧的蛋色彩斑斓。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Skywing": {
+    "breed": [
+      "Skywing",
+      "空翼龙"
+    ],
+    "egg": [
+      "This egg has strange markings on it.",
+      "这颗蛋上有奇怪的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sophrosyne": {
+    "breed": [
+      "Sophrosyne",
+      "Sophrosyne"
+    ],
+    "egg": [
+      "This egg gives off a beautiful glow.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Speckle-Throated": {
+    "breed": [
+      "Speckle-Throated",
+      "斑喉龙"
+    ],
+    "egg": [
+      "This egg has a rough—yet shiny—shell.",
+      "这颗蛋有个粗糙——然而闪亮的壳。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Spinel Wyvern": {
+    "breed": [
+      "Spinel Wyvern",
+      "Spinel Wyvern violet"
+    ],
+    "egg": [
+      "This glassy egg has a single stripe on it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Spirit Ward": {
+    "breed": [
+      "Spirit Ward",
+      "守灵龙"
+    ],
+    "egg": [
+      "This egg glows from within.",
+      "这颗蛋自内而外散发著光芒。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Spitfire": {
+    "breed": [
+      "Spitfire",
+      "烈火龙"
+    ],
+    "egg": [
+      "This egg has brightly colored markings on it.",
+      "这颗蛋上有色泽明亮的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Spotted Greenwing": {
+    "breed": [
+      "Spotted Greenwing",
+      "斑点绿翼龙"
+    ],
+    "egg": [
+      "This egg is covered in bright spots.",
+      "这颗蛋覆盖着明亮的斑点。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Stone": {
+    "breed": [
+      "Stone",
+      "石龙"
+    ],
+    "egg": [
+      "This egg is heavy and rough, as if it were made out of rock.",
+      "这颗蛋重且粗糙，仿佛由岩石构成。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Storm": {
+    "breed": [
+      "Storm",
+      "风暴龙"
+    ],
+    "egg": [
+      "This egg is surrounded by fog.",
+      "这颗蛋被雾笼罩。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Storm-Rider": {
+    "breed": [
+      "Storm-Rider",
+      "风暴驾驭龙"
+    ],
+    "egg": [
+      "You can feel the static electricity that surrounds this egg.",
+      "你可以感受到静电环绕著这颗蛋。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Stratos Dragon": {
+    "breed": [
+      "Stratos Dragon",
+      "Stratos"
+    ],
+    "egg": [
+      "This egg is very large, but light for its size.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Desert",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Striped": {
+    "breed": [
+      "Striped",
+      "Striped white"
+    ],
+    "egg": [
+      "This egg has brightly colored markings on it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Striped River": {
+    "breed": [
+      "Striped River",
+      "条纹河龙"
+    ],
+    "egg": [
+      "A small puddle of condensation has collected under this egg.",
+      "小小的水滩凝聚在这颗蛋下。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sunset": {
+    "breed": [
+      "Sunset",
+      "Sunrise-Sunset"
+    ],
+    "egg": [
+      "This egg is glowing as brightly as the sun.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sunsong Amphiptere": {
+    "breed": [
+      "Sunsong Amphiptere",
+      "日歌翼蛇"
+    ],
+    "egg": [
+      "This egg changes colors in the sunlight.",
+      "这颗蛋在阳光下变幻着颜色。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sunstone": {
+    "breed": [
+      "Sunstone",
+      "太阳石龙"
+    ],
+    "egg": [
+      "This egg resembles a glowing stone.",
+      "这颗蛋像一颗闪闪发光的石头。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Swallowtail": {
+    "breed": [
+      "Swallowtail",
+      "燕尾龙"
+    ],
+    "egg": [
+      "This egg has a very thin shell.",
+      "这颗蛋的壳非常薄。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tercorn": {
+    "breed": [
+      "Tercorn",
+      "三角龙"
+    ],
+    "egg": [
+      "Water glistens on this egg’s shimmering shell.",
+      "水珠在这颗蛋晶莹璀璨的壳上闪闪发光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Terrae": {
+    "breed": [
+      "Terrae",
+      "土壤龙"
+    ],
+    "egg": [
+      "This egg is a lush green hue.",
+      "这颗蛋有绿意盎然的色调。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tetra": {
+    "breed": [
+      "Tetra",
+      "灯鱼龙"
+    ],
+    "egg": [
+      "This egg has faint markings.",
+      "这颗蛋有著发出微光的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Thunder": {
+    "breed": [
+      "Thunder",
+      "雷龙"
+    ],
+    "egg": [
+      "Whenever you go near this egg your hair stands on end.",
+      "当你靠近这颗蛋时你的头发根根竖立。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Thundersnow": {
+    "breed": [
+      "Thundersnow",
+      "Thundersnow"
+    ],
+    "egg": [
+      "Cold lightning arcs out from this egg’s shell if you try to touch it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tideweaver": {
+    "breed": [
+      "Tideweaver",
+      "Tideweaver"
+    ],
+    "egg": [
+      "This egg has vivid red stripes, reminiscent of waves and flames at once.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tinsel": {
+    "breed": [
+      "Tinsel",
+      "Gold Tinsel"
+    ],
+    "egg": [
+      "This egg is very reflective, almost metallic looking.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tri-Horn Wyvern": {
+    "breed": [
+      "Tri-Horn Wyvern",
+      "三角翼龙"
+    ],
+    "egg": [
+      "This brown egg is covered in intricate designs.",
+      "这颗棕色的蛋覆盖在错综复杂的纹样下。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tsunami Wyvern": {
+    "breed": [
+      "Tsunami Wyvern",
+      "海啸翼龙"
+    ],
+    "egg": [
+      "This egg is rocking back and forth in a puddle, creating small waves.",
+      "这颗蛋在水坑里摇摇晃晃，引起了小小的波澜。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Turpentine": {
+    "breed": [
+      "Turpentine",
+      "松节油龙"
+    ],
+    "egg": [
+      "This egg smells strongly of turpentine.",
+      "这颗蛋闻起来有浓烈的松节油气味。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Two-Finned Bluna": {
+    "breed": [
+      "Two-Finned Bluna",
+      "双鳍布鲁纳"
+    ],
+    "egg": [
+      "This egg has colored speckles on it.",
+      "这颗蛋有彩色的斑纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ultraviolet": {
+    "breed": [
+      "Ultraviolet",
+      "紫外光龙"
+    ],
+    "egg": [
+      "This egg is very warm, as if it has been sitting out in strong sunlight.",
+      "这颗蛋非常温暖，仿佛一直位于强烈的阳光下。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Undine": {
+    "breed": [
+      "Undine",
+      "温蒂妮龙"
+    ],
+    "egg": [
+      "There is a thin layer of moisture coating this egg.",
+      "这颗蛋被一层薄薄的水膜包裹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Vampire": {
+    "breed": [
+      "Vampire",
+      "吸血龙"
+    ],
+    "egg": [
+      "This egg is stone cold and smells rotten.",
+      "这颗蛋冰冷而且有腐臭味。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat",
+      "[16]"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Venturis": {
+    "breed": [
+      "Venturis",
+      "文丘里斯龙"
+    ],
+    "egg": [
+      "An aura of serenity surrounds this iridescent egg.",
+      "宁静的氛围环绕在这颗虹蛋四周。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Water": {
+    "breed": [
+      "Water",
+      "水龙"
+    ],
+    "egg": [
+      "This egg is sitting in a shallow puddle.",
+      "这颗蛋位于一个浅浅的水坑中。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Water Walker": {
+    "breed": [
+      "Water Walker",
+      "水行龙"
+    ],
+    "egg": [
+      "This egg seems to be floating on a puddle.",
+      "这颗蛋似乎漂浮在水坑上。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Waterhorse": {
+    "breed": [
+      "Waterhorse",
+      "Waterhorse"
+    ],
+    "egg": [
+      "This egg is slimy and blue.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Whiptail": {
+    "breed": [
+      "Whiptail",
+      "鞭尾龙"
+    ],
+    "egg": [
+      "This egg shakes from time to time, as if it is eager to hatch.",
+      "这颗蛋不时地摇摆，似乎渴望孵化。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "White": {
+    "breed": [
+      "White",
+      "白龙"
+    ],
+    "egg": [
+      "This egg has a very clean look; it's completely devoid of dirt and scratches.",
+      "这颗蛋看起来非常洁净，没有一点污垢和划痕。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Wisteria": {
+    "breed": [
+      "Wisteria",
+      "Wisteria"
+    ],
+    "egg": [
+      "This egg is surrounded by beautiful flowers.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Aquilo)": {
+    "breed": [
+      "Xenowyrm (Aquilo)",
+      "Aquilo"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Aso)": {
+    "breed": [
+      "Xenowyrm (Aso)",
+      "Aso"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Astrapi)": {
+    "breed": [
+      "Xenowyrm (Astrapi)",
+      "Astrapi"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Chrono)": {
+    "breed": [
+      "Xenowyrm (Chrono)",
+      "Chrono"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Gaia)": {
+    "breed": [
+      "Xenowyrm (Gaia)",
+      "Gaia Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Ke'maro)": {
+    "breed": [
+      "Xenowyrm (Ke'maro)",
+      "Ke'maro Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Mageia)": {
+    "breed": [
+      "Xenowyrm (Mageia)",
+      "Mageia Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Obidar)": {
+    "breed": [
+      "Xenowyrm (Obidar)",
+      "Obidar Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Pharos)": {
+    "breed": [
+      "Xenowyrm (Pharos)",
+      "Pharos Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Pyro)": {
+    "breed": [
+      "Xenowyrm (Pyro)",
+      "Pyro Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Staterae)": {
+    "breed": [
+      "Xenowyrm (Staterae)",
+      "Staterae Xenowyrm"
+    ],
+    "egg": [
+      "Mana flows like a current through this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Thalassa)": {
+    "breed": [
+      "Xenowyrm (Thalassa)",
+      "Thalassa Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xenowyrm (Umbra)": {
+    "breed": [
+      "Xenowyrm (Umbra)",
+      "Umbra Xenowyrm"
+    ],
+    "egg": [
+      "Mana courses throughout this glassy egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Xol": {
+    "breed": [
+      "Xol",
+      "Xol blue"
+    ],
+    "egg": [
+      "This dull egg feels cozily warm.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Yellow-Crowned": {
+    "breed": [
+      "Yellow-Crowned",
+      "黄冠龙"
+    ],
+    "egg": [
+      "The air shimmers around this egg, as if from heat.",
+      "这颗蛋周遭的空气摇晃扭曲，仿佛蜃气楼。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Zyumorph": {
+    "breed": [
+      "Zyumorph",
+      "Zyumorph alpine"
+    ],
+    "egg": [
+      "This shiny egg seems to radiate power.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Baikala": {
+    "breed": [
+      "Baikala",
+      "Baikala blue"
+    ],
+    "egg": [
+      "This heavy egg has a soft, yielding shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Bauta": {
+    "breed": [
+      "Bauta",
+      "假面龙"
+    ],
+    "egg": [
+      "This egg has raised golden ridges.",
+      "这颗蛋上有著金色浮雕般的隆起。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blancblack": {
+    "breed": [
+      "Blancblack",
+      "白黑龙"
+    ],
+    "egg": [
+      "This egg is dark with light speckles...or maybe it’s light with dark speckles?",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Forest",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ciriax Lindwyrm": {
+    "breed": [
+      "Ciriax Lindwyrm",
+      "Ciriax blue"
+    ],
+    "egg": [
+      "This opalescent egg shimmers in the moonlight.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Duotone": {
+    "breed": [
+      "Duotone",
+      "双色龙"
+    ],
+    "egg": [
+      "This egg can’t seem to make up its mind what color it is.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Geminae": {
+    "breed": [
+      "Geminae",
+      "双子龙"
+    ],
+    "egg": [
+      "This shiny egg gives you a headache when you get close.",
+      "你靠近这颗发著光的蛋就头痛。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ghanser": {
+    "breed": [
+      "Ghanser",
+      "Ghanser"
+    ],
+    "egg": [
+      "This egg has spots that glow brightly when touched.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Gilded Bloodscale": {
+    "breed": [
+      "Gilded Bloodscale",
+      "镀金血鳞龙"
+    ],
+    "egg": [
+      "This egg glitters oddly in the light.",
+      "这颗蛋在光下奇异地闪烁。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Hooktalon": {
+    "breed": [
+      "Hooktalon",
+      "勾爪龙"
+    ],
+    "egg": [
+      "The surface of this egg is rough and sharp.",
+      "蛋的表面又粗糙又尖锐。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Jester": {
+    "breed": [
+      "Jester",
+      "Jester"
+    ],
+    "egg": [
+      "This egg has a checkered shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Magnesium Amphiptere": {
+    "breed": [
+      "Magnesium Amphiptere",
+      "Magnesium"
+    ],
+    "egg": [
+      "This shiny grey egg smells of burnt metal.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nexus": {
+    "breed": [
+      "Nexus",
+      "连龙"
+    ],
+    "egg": [
+      "This dense, crystalline egg seems dangerously unstable.",
+      "这颗高密度、如结晶般的蛋看起来极为不稳定。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Scourgekeeper": {
+    "breed": [
+      "Scourgekeeper",
+      "Scourgekeeper"
+    ],
+    "egg": [
+      "You feel a clawing dread the closer you get to this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Split": {
+    "breed": [
+      "Split",
+      "分龙"
+    ],
+    "egg": [
+      "This egg is split down the middle into two colors.",
+      "这颗蛋从中间分成两个颜色。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Temple Wyrm": {
+    "breed": [
+      "Temple Wyrm",
+      "Temple"
+    ],
+    "egg": [
+      "This egg has a winding pattern on it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Two-headed Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Avea Pygmy": {
+    "breed": [
+      "Avea Pygmy",
+      "阿维亚侏儒龙"
+    ],
+    "egg": [
+      "This tiny egg is rather light.",
+      "这个小蛋很轻。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano",
+      "[8]"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Avin Pygmy": {
+    "breed": [
+      "Avin Pygmy",
+      "Avin"
+    ],
+    "egg": [
+      "This tiny white egg shakes sometimes.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Common Pygmy": {
+    "breed": [
+      "Common Pygmy",
+      "Common Pygmy"
+    ],
+    "egg": [
+      "This egg is so tiny you almost didn't see it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Coral Pygmy Wyvern": {
+    "breed": [
+      "Coral Pygmy Wyvern",
+      "珊瑚侏儒翼龙"
+    ],
+    "egg": [
+      "This tiny egg is striped and feels coarse.",
+      "这颗有条纹的小蛋感觉很粗糙。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Crimson Flare Pygmy": {
+    "breed": [
+      "Crimson Flare Pygmy",
+      "红火侏儒龙"
+    ],
+    "egg": [
+      "This egg is tiny and brightly colored.",
+      "这颗蛋很小并有明亮的颜色。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Dusk Pygmy": {
+    "breed": [
+      "Dusk Pygmy",
+      "薄暮侏儒龙"
+    ],
+    "egg": [
+      "This tiny egg is cold to the touch.",
+      "这颗娇小的蛋触手冰凉。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Furor Pygmy": {
+    "breed": [
+      "Furor Pygmy",
+      "Furor"
+    ],
+    "egg": [
+      "Grabbing this tiny egg makes you feel reckless.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Glowback Pygmy": {
+    "breed": [
+      "Glowback Pygmy",
+      "曜背侏儒龙"
+    ],
+    "egg": [
+      "This tiny egg gives off a colorful glow.",
+      "这颗小蛋闪著彩光。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Kovos Pygmy": {
+    "breed": [
+      "Kovos Pygmy",
+      "克伏弑侏儒龙"
+    ],
+    "egg": [
+      "This tiny, dark egg fills you with existential dread.",
+      "这颗深色小蛋使你充满畏惧。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Kyanite Pygmy": {
+    "breed": [
+      "Kyanite Pygmy",
+      "蓝晶石侏儒龙"
+    ],
+    "egg": [
+      "This tiny cobalt egg has a crystalline sheen.",
+      "这颗钴蓝色的小蛋有著结晶的光泽。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Magelight Pygmy": {
+    "breed": [
+      "Magelight Pygmy",
+      "Magelight Pygmy Wyvern"
+    ],
+    "egg": [
+      "This small egg is engulfed in a cool, purple flame.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mariner Pygmy": {
+    "breed": [
+      "Mariner Pygmy",
+      "Mariner"
+    ],
+    "egg": [
+      "This tiny egg smells like the sea.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mimic Pygmy": {
+    "breed": [
+      "Mimic Pygmy",
+      "模仿侏儒龙"
+    ],
+    "egg": [
+      "This tiny glowing egg tempts you to follow its light.",
+      "这颗发光的小蛋诱使你跟著光线走。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Misfit Pygmy": {
+    "breed": [
+      "Misfit Pygmy",
+      "捣蛋侏儒龙"
+    ],
+    "egg": [
+      "This tiny egg has crazy swirls on it.",
+      "这颗小蛋上有繁复的漩涡纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mistlet Pygmy": {
+    "breed": [
+      "Mistlet Pygmy",
+      "Mistlet"
+    ],
+    "egg": [
+      "This tiny egg is mysterious and dark.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Nilia Pygmy": {
+    "breed": [
+      "Nilia Pygmy",
+      "妮莉亚侏儒龙"
+    ],
+    "egg": [
+      "This tiny egg is heavier than you expected.",
+      "这颗小小的蛋比你预期的要重。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pargulus Pygmy": {
+    "breed": [
+      "Pargulus Pygmy",
+      "Pargulus Pygmy"
+    ],
+    "egg": [
+      "This tiny egg resembles a seed.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano",
+      "[18]"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pipio Pygmy": {
+    "breed": [
+      "Pipio Pygmy",
+      "咕啾侏儒龙"
+    ],
+    "egg": [
+      "This little egg is soft with a few feathers stuck to it.",
+      "这颗轻柔的蛋上黏了些羽毛。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Red-Tailed Wyrm Pygmy": {
+    "breed": [
+      "Red-Tailed Wyrm Pygmy",
+      "Red-Tailed Wyrm"
+    ],
+    "egg": [
+      "This tiny egg has a bold red streak on it.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Scymrian Pygmy": {
+    "breed": [
+      "Scymrian Pygmy",
+      "Scymrian"
+    ],
+    "egg": [
+      "This tiny egg flashes in the sunlight.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Seawyrm Pygmy": {
+    "breed": [
+      "Seawyrm Pygmy",
+      "侏儒海龙"
+    ],
+    "egg": [
+      "This tiny egg shines like a pearl.",
+      "这颗小蛋有珍珠的光泽。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Pygmy Dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Glaucus Drake": {
+    "breed": [
+      "Glaucus Drake",
+      "海神德雷克"
+    ],
+    "egg": [
+      "This striped egg feels moist.",
+      "这颗条纹蛋感觉很潮湿。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Greater Spotted Drake": {
+    "breed": [
+      "Greater Spotted Drake",
+      "大斑德雷克"
+    ],
+    "egg": [
+      "This egg is speckled with rosette-like markings.",
+      "这颗蛋布满了玫瑰花纹般的班点。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Honey Drake": {
+    "breed": [
+      "Honey Drake",
+      "蜂蜜德雷克"
+    ],
+    "egg": [
+      "This egg is covered in tiny golden scales.",
+      "这颗蛋布满小小的黄金麟片。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Coast",
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Howler Drake": {
+    "breed": [
+      "Howler Drake",
+      "咆啸德雷克"
+    ],
+    "egg": [
+      "You hear strange noises coming from inside this egg.",
+      "你听到奇怪的声音从这颗蛋里传出。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Moonglow Drake": {
+    "breed": [
+      "Moonglow Drake",
+      "Sunbeam Moonglow"
+    ],
+    "egg": [
+      "This egg displays the colors of both dawn and dusk.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Morphodrake": {
+    "breed": [
+      "Morphodrake",
+      "闪蝶德雷克"
+    ],
+    "egg": [
+      "A few bright markings decorate this egg’s shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ochredrake": {
+    "breed": [
+      "Ochredrake",
+      "赭黄德雷克"
+    ],
+    "egg": [
+      "This egg has strange markings on it.",
+      "这颗蛋上有奇怪的花纹。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pseudo-wyvern Drake": {
+    "breed": [
+      "Pseudo-wyvern Drake",
+      "Pseudo-wyvern Drake"
+    ],
+    "egg": [
+      "It almost looks like there are claw marks on this egg.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sabertooth Bull Drake": {
+    "breed": [
+      "Sabertooth Bull Drake",
+      "Sabertooth Bull"
+    ],
+    "egg": [
+      "This striped egg is surprisingly heavy.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Spotted Teal Drake": {
+    "breed": [
+      "Spotted Teal Drake",
+      "Spotted Teal"
+    ],
+    "egg": [
+      "You almost didn’t see this egg among the plants.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "No habitat"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sunbeam Drake": {
+    "breed": [
+      "Sunbeam Drake",
+      "Sunbeam Moonglow"
+    ],
+    "egg": [
+      "This egg displays the colors of both dawn and dusk.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tarantula Hawk Drake": {
+    "breed": [
+      "Tarantula Hawk Drake",
+      "沙漠蛛蜂德雷克"
+    ],
+    "egg": [
+      "A delicate web-like pattern decorates this egg’s shell.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Desert"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Tatterdrake": {
+    "breed": [
+      "Tatterdrake",
+      "碎裂德雷克"
+    ],
+    "egg": [
+      "This egg has a rough shell.",
+      "这颗蛋有著粗糙的壳。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest",
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Vremya Drake": {
+    "breed": [
+      "Vremya Drake",
+      "Birthday 2019 green"
+    ],
+    "egg": [
+      "This smooth green egg looks vaguely familiar.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Forest"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Drake",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blue Dino": {
+    "breed": [
+      "Blue Dino",
+      "蓝恐龙"
+    ],
+    "egg": [
+      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+      "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Cheese": {
+    "breed": [
+      "Cheese",
+      "起司龙"
+    ],
+    "egg": [
+      "This egg is soft and smells uncannily like cheese.",
+      "这颗蛋是柔软的而且气味与乳酪惊人地相似。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Chicken": {
+    "breed": [
+      "Chicken",
+      "Chicken"
+    ],
+    "egg": [
+      "This egg is much smaller than the others.",
+      ""
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Green Dino": {
+    "breed": [
+      "Green Dino",
+      "绿恐龙"
+    ],
+    "egg": [
+      "This egg looks like it doesn't belong; it is brightly colored with white spots.",
+      "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Paper": {
+    "breed": [
+      "Paper",
+      "纸龙"
+    ],
+    "egg": [
+      "This egg is tiny and made out of several pieces of paper folded together.",
+      "这颗蛋很小，由几张纸叠在一起。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Alpine",
+      "Coast",
+      "Desert",
+      "Forest",
+      "Jungle",
+      "Volcano"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Purple Dino": {
+    "breed": [
+      "Purple Dino",
+      "紫恐龙"
+    ],
+    "egg": [
+      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+      "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Red Dino": {
+    "breed": [
+      "Red Dino",
+      "红恐龙"
+    ],
+    "egg": [
+      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much warmer than the rest of the eggs.",
+      "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其馀的蛋暖和很多。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Yellow Dino": {
+    "breed": [
+      "Yellow Dino",
+      "黄恐龙"
+    ],
+    "egg": [
+      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much heavier than the other eggs.",
+      "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其他的蛋重很多。"
+    ],
+    "rarity": "未知稀有度",
+    "habitat": [
+      "Jungle"
+    ],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "Non-dragon",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Valentine Dragon": {
+    "breed": [
+      "Valentine Dragon",
+      "Valentine"
+    ],
+    "egg": [
+      "This egg is speckled and very fragile.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sweetling": {
+    "breed": [
+      "Sweetling",
+      "甜心龙"
+    ],
+    "egg": [
+      "This egg looks delicate and sweet.",
+      "这颗蛋看起来精致而甜美。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Rosebud Dragon": {
+    "breed": [
+      "Rosebud Dragon",
+      "Rosebud"
+    ],
+    "egg": [
+      "This sweet smelling egg is covered by a ribbon.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Heartseeker Dragon": {
+    "breed": [
+      "Heartseeker Dragon",
+      "Heartseeker"
+    ],
+    "egg": [
+      "This scarlet egg has a faintly sweet aroma.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Arsani Dragon": {
+    "breed": [
+      "Arsani Dragon",
+      "Arsani"
+    ],
+    "egg": [
+      "This egg is a deep pink.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Radiant Angel Dragon": {
+    "breed": [
+      "Radiant Angel Dragon",
+      "Radiant Angel"
+    ],
+    "egg": [
+      "This radiant white egg has red and gold swirls on it.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Heartstealing Dragon": {
+    "breed": [
+      "Heartstealing Dragon",
+      "Heartstealing"
+    ],
+    "egg": [
+      "This egg is so shiny it makes you want to take it.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mutamore Dragon": {
+    "breed": [
+      "Mutamore Dragon",
+      "Mutamore"
+    ],
+    "egg": [
+      "This lovely egg has rolled off to the side.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Soulstone Dragon": {
+    "breed": [
+      "Soulstone Dragon",
+      "Soulstone"
+    ],
+    "egg": [
+      "This deep purple egg shimmers like a pearl.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Floral-Crowned Dragon": {
+    "breed": [
+      "Floral-Crowned Dragon",
+      "Floral-Crowned"
+    ],
+    "egg": [
+      "This egg has a sweet, floral scent.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Sakuhana Wyvern": {
+    "breed": [
+      "Sakuhana Wyvern",
+      "花绽双足翼龙"
+    ],
+    "egg": [
+      "This warm egg is surrounded by plants.",
+      "这颗温暖的蛋被植物环绕著。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Erador Lindwyrm": {
+    "breed": [
+      "Erador Lindwyrm",
+      "爱拉托麟龙"
+    ],
+    "egg": [
+      "This regal egg feels oddly light.",
+      "这颗华丽的蛋轻得令人难以置信。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Amarignis Dragon": {
+    "breed": [
+      "Amarignis Dragon",
+      "Amarignis"
+    ],
+    "egg": [
+      "Dim flames spark up from this egg whenever joy sparks up in you.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Vermeil Dragon": {
+    "breed": [
+      "Vermeil Dragon",
+      "Vermeil"
+    ],
+    "egg": [
+      "This egg smells pleasantly floral, maybe fruity.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Vampire Dragon": {
+    "breed": [
+      "Vampire Dragon",
+      "Vampire"
+    ],
+    "egg": [
+      "This egg is stone cold and smells rotten.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pumpkin Dragon": {
+    "breed": [
+      "Pumpkin Dragon",
+      "Pumpkin"
+    ],
+    "egg": [
+      "This egg smells like the autumn harvest.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Black Marrow": {
+    "breed": [
+      "Black Marrow",
+      "黑髓龙"
+    ],
+    "egg": [
+      "This egg is covered in a dark crust.",
+      "这颗蛋被黑暗的外壳覆盖。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Shadow Walker": {
+    "breed": [
+      "Shadow Walker",
+      "影行龙"
+    ],
+    "egg": [
+      "This egg fades into the shadows.",
+      "这颗蛋湮没在阴影中。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Cavern Lurker Dragon": {
+    "breed": [
+      "Cavern Lurker Dragon",
+      "Cavern Lurker"
+    ],
+    "egg": [
+      "This egg is wedged in a dark corner.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Grave Dragon": {
+    "breed": [
+      "Grave Dragon",
+      "Grave"
+    ],
+    "egg": [
+      "This egg appears to have an evil grin.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Desipis Dragon": {
+    "breed": [
+      "Desipis Dragon",
+      "Desipis"
+    ],
+    "egg": [
+      "Being near this egg makes it hard to think clearly.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Caligene Dragon": {
+    "breed": [
+      "Caligene Dragon",
+      "Caligene"
+    ],
+    "egg": [
+      "The pattern on this egg’s shell is unsettling.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Witchlight Dragon": {
+    "breed": [
+      "Witchlight Dragon",
+      "Witchlight"
+    ],
+    "egg": [
+      "This downy egg is hidden in brambles.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Omen Wyrm": {
+    "breed": [
+      "Omen Wyrm",
+      "恶兆龙"
+    ],
+    "egg": [
+      "This warm egg is tangled in the roots of a dead tree.",
+      "这颗温暖的蛋被枯木的树根裹著。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Arcana Dragon": {
+    "breed": [
+      "Arcana Dragon",
+      "Arcana"
+    ],
+    "egg": [
+      "This egg has reflective spots that remind you of gems, or eyes.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Kohraki Dragon": {
+    "breed": [
+      "Kohraki Dragon",
+      "Kohraki"
+    ],
+    "egg": [
+      "A fine mist rolls over this cool, scaly egg.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pitfire Dragon": {
+    "breed": [
+      "Pitfire Dragon",
+      "Pitfire"
+    ],
+    "egg": [
+      "Dead leaves obscure this egg’s scratched shell.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Iridichi Dragon": {
+    "breed": [
+      "Iridichi Dragon",
+      "Iridichi"
+    ],
+    "egg": [
+      "Your eyes struggle to completely focus on the light coming through this cloudy egg.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Holly Dragon": {
+    "breed": [
+      "Holly Dragon",
+      "Holly"
+    ],
+    "egg": [
+      "This egg has a holly leaf stuck to it.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Yulebuck": {
+    "breed": [
+      "Yulebuck",
+      "圣诞鹿龙"
+    ],
+    "egg": [
+      "This egg is covered with bright, festive stripes.",
+      "这颗蛋有着明亮的节日花纹。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Snow Angel": {
+    "breed": [
+      "Snow Angel",
+      "雪天使龙"
+    ],
+    "egg": [
+      "This egg fills you with holiday cheer.",
+      "这颗蛋使你充满节日的喜乐。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Ribbon Dancer": {
+    "breed": [
+      "Ribbon Dancer",
+      "缎带舞者龙"
+    ],
+    "egg": [
+      "This egg shines like a holiday ribbon.",
+      "这颗蛋耀眼得像是节日彩带。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Blizzard Wizard": {
+    "breed": [
+      "Blizzard Wizard",
+      "Blizzard Wizard"
+    ],
+    "egg": [
+      "This colorful egg is covered by a light layer of snow.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Wrapping-Wing": {
+    "breed": [
+      "Wrapping-Wing",
+      "彩纸龙"
+    ],
+    "egg": [
+      "This egg has a rich, shiny pattern on it.",
+      "这颗蛋有个丰富、闪亮的花样。"
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Solstice Dragon": {
+    "breed": [
+      "Solstice Dragon",
+      "Solstice"
+    ],
+    "egg": [
+      "This egg emits a soft, heartwarming glow.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Mistletoe Dragon": {
+    "breed": [
+      "Mistletoe Dragon",
+      "Mistletoe"
+    ],
+    "egg": [
+      "This colorful egg gleams in the light.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Aegis Dragon": {
+    "breed": [
+      "Aegis Dragon",
+      "Aegis"
+    ],
+    "egg": [
+      "A wintry chill swirls just beneath the surface of this egg.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Snow Dragon": {
+    "breed": [
+      "Snow Dragon",
+      "Snow"
+    ],
+    "egg": [
+      "This egg is surrounded by frost.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Garland Dragon": {
+    "breed": [
+      "Garland Dragon",
+      "Garland"
+    ],
+    "egg": [
+      "This festive egg gives off comforting warmth.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Starsinger Dragon": {
+    "breed": [
+      "Starsinger Dragon",
+      "Starsinger"
+    ],
+    "egg": [
+      "This egg glows with a soft, soothing light.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Wintertide Dragon": {
+    "breed": [
+      "Wintertide Dragon",
+      "Wintertide"
+    ],
+    "egg": [
+      "This egg emanates a gentle chime when met with the winter breeze.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Glystere Wyrm": {
+    "breed": [
+      "Glystere Wyrm",
+      "Glystere"
+    ],
+    "egg": [
+      "Colorful light twinkles within this frozen egg.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  },
+  "Pryanost Lindwyrm": {
+    "breed": [
+      "Pryanost Lindwyrm",
+      "Pryanost"
+    ],
+    "egg": [
+      "This warm brown egg smells faintly of spices.",
+      ""
+    ],
+    "rarity": "Holiday",
+    "habitat": [],
+    "bsa": "未知种族特性技能",
+    "elemental": [
+      "主要元素亲和力",
+      "次要元素亲和力"
+    ],
+    "morphology": "未知型态",
+    "release_at": "未知发布日期",
+    "sprites": {
+      "egg": [
+        ""
+      ],
+      "adult": [
+        ""
+      ]
+    }
+  }
+}
