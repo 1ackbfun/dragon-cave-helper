@@ -1,5 +1,5 @@
-{
-  "Aeon Wyvern": {
+[
+  {
     "breed": [
       "Aeon Wyvern",
       "永恒龙"
@@ -8,7 +8,11 @@
       "It’s almost like time is distorted around this egg.",
       "时间在这颗蛋周围似乎被扭曲了。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aeon_Wyvern",
+      "/zh/wiki/%E6%B0%B8%E6%81%86%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -29,7 +33,7 @@
       ]
     }
   },
-  "Aeria Gloris": {
+  {
     "breed": [
       "Aeria Gloris",
       "至高荣誉龙"
@@ -38,7 +42,11 @@
       "This crystalline egg almost looks like you could reach into its depths.",
       "这颗结晶化的蛋似是能让你看透其内侧。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aeria_Gloris_Dragon",
+      "/zh/wiki/%E8%87%B3%E9%AB%98%E6%A6%AE%E8%AD%BD%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -58,7 +66,7 @@
       ]
     }
   },
-  "Aether Wyvern": {
+  {
     "breed": [
       "Aether Wyvern",
       "埃忒耳龙"
@@ -67,7 +75,11 @@
       "Wind gusts around this egg.",
       "风在蛋的四周呼啸。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aether_Wyvern",
+      "/zh/wiki/%E5%9F%83%E5%BF%92%E8%80%B3%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -87,7 +99,7 @@
       ]
     }
   },
-  "Albino": {
+  {
     "breed": [
       "Albino",
       "白化龙"
@@ -96,7 +108,11 @@
       "You can see the baby dragon curled up inside this translucent egg.",
       "你能看到龙宝宝蜷缩在这个半透明的蛋里。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Albino_Dragon",
+      "/zh/wiki/%E7%99%BD%E5%8C%96%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -117,7 +133,7 @@
       ]
     }
   },
-  "Alcedine Wyvern": {
+  {
     "breed": [
       "Alcedine Wyvern",
       ""
@@ -126,7 +142,11 @@
       "The brilliant blue spots on this egg stand out.",
       ""
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Alcedine_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -151,7 +171,7 @@
       ]
     }
   },
-  "Almerald": {
+  {
     "breed": [
       "Almerald",
       "祖姆绿龙"
@@ -160,7 +180,11 @@
       "This glossy green egg is rather warm.",
       "这颗光滑的绿蛋挺温暖的。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Almerald_Dragon",
+      "/zh/wiki/%E7%A5%96%E5%A7%86%E7%B6%A0%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -181,7 +205,7 @@
       ]
     }
   },
-  "Amalthean": {
+  {
     "breed": [
       "Amalthean",
       ""
@@ -190,10 +214,12 @@
       "This pristine egg sits in a clear pool of water.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Amalthean_Dragon",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -210,7 +236,7 @@
       ]
     }
   },
-  "Anagallis": {
+  {
     "breed": [
       "Anagallis",
       "海绿龙"
@@ -219,7 +245,11 @@
       "This delicately patterned egg is sitting in the sunshine.",
       "这颗图案精致的蛋躺在阳光下。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Anagallis_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Forest",
@@ -241,7 +271,7 @@
       ]
     }
   },
-  "Antarean": {
+  {
     "breed": [
       "Antarean",
       "安塔林龙"
@@ -250,7 +280,11 @@
       "This egg is surrounded by mysterious, reflective dust.",
       "这颗蛋被神秘的反光尘埃环绕著。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Antarean_Dragon",
+      "/zh/wiki/%E5%AE%89%E5%A1%94%E6%9E%97%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -270,7 +304,7 @@
       ]
     }
   },
-  "Aqualis": {
+  {
     "breed": [
       "Aqualis",
       "水利司龙"
@@ -279,7 +313,11 @@
       "This drab egg rests far from the water’s edge.",
       "这颗蓝灰色的蛋离水边有一段距离。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aqualis_Dragon",
+      "/zh/wiki/%E6%B0%B4%E5%88%A9%E5%8F%B8%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -299,7 +337,7 @@
       ]
     }
   },
-  "Aranoa": {
+  {
     "breed": [
       "Aranoa",
       "艾拉诺亚龙"
@@ -308,7 +346,11 @@
       "The vibrant scales on this egg glisten in the sunlight",
       "这颗蛋的鳞片在阳光下闪闪发光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aranoa_Dragon",
+      "/zh/wiki/%E8%89%BE%E6%8B%89%E8%AB%BE%E4%BA%9E%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Jungle"
@@ -329,7 +371,7 @@
       ]
     }
   },
-  "Aria": {
+  {
     "breed": [
       "Aria",
       "咏叹龙"
@@ -338,7 +380,11 @@
       "This bright egg has a warm shell.",
       "这颗明亮的蛋有著温暖的壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Aria_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -358,7 +404,7 @@
       ]
     }
   },
-  "Astralophyne": {
+  {
     "breed": [
       "Astralophyne",
       ""
@@ -367,6 +413,10 @@
       "This pleasant egg was placed in the path of a refreshing breeze.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Astralophyne_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -387,16 +437,20 @@
       ]
     }
   },
-  "Ash": {
+  {
     "breed": [
       "Ash",
       "阴灰龙"
     ],
     "egg": [
-      "This ashen egg is smooth to the touch﻿.",
+      "This ashen egg is smooth to the touch.",
       "这颗阴灰的蛋触感光滑。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Ash_Dragon",
+      "/zh/wiki/%E9%99%B0%E7%81%B0%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Volcano"
@@ -417,7 +471,7 @@
       ]
     }
   },
-  "Astaarus": {
+  {
     "breed": [
       "Astaarus",
       ""
@@ -426,6 +480,10 @@
       "This egg reminds you of the night sky.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Astaarus_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -446,7 +504,7 @@
       ]
     }
   },
-  "Avatar of Change": {
+  {
     "breed": [
       "Avatar of Change",
       "变化的化身"
@@ -455,10 +513,12 @@
       "This iridescent egg radiates mysterious energy.",
       "这颗有著闪亮虹彩的蛋散发出神秘的能量。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Avatar_of_Change",
+      "/zh/wiki/%E8%AE%8A%E5%8C%96%E7%9A%84%E5%8C%96%E8%BA%AB"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -475,7 +535,7 @@
       ]
     }
   },
-  "Avatar of Creation": {
+  {
     "breed": [
       "Avatar of Creation",
       "创造的化身"
@@ -484,10 +544,12 @@
       "This shimmering egg radiates primordial energy.",
       "这颗闪烁微光的蛋散发出原始的能量。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Avatar_of_Creation",
+      "/zh/wiki/%E5%89%B5%E9%80%A0%E7%9A%84%E5%8C%96%E8%BA%AB"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -504,7 +566,7 @@
       ]
     }
   },
-  "Avatar of Destruction": {
+  {
     "breed": [
       "Avatar of Destruction",
       "毁灭的化身"
@@ -513,10 +575,12 @@
       "This smoldering egg radiates volatile energy.",
       "这颗焖烧的蛋散释放着不稳定的能量。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Avatar_of_Destruction",
+      "/zh/wiki/%E6%AF%80%E6%BB%85%E7%9A%84%E5%8C%96%E8%BA%AB"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -533,7 +597,7 @@
       ]
     }
   },
-  "Azure Glacewing": {
+  {
     "breed": [
       "Azure Glacewing",
       "苍冰翅龙"
@@ -542,7 +606,11 @@
       "This large egg has a lustrous sheen and appears to be covered in scales.",
       "这是颗散发著光泽且布满麟片的大蛋。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Azure_Glacewing_Dragon",
+      "/zh/wiki/%E8%92%BC%E5%86%B0%E7%BF%85%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -562,7 +630,7 @@
       ]
     }
   },
-  "Balloon": {
+  {
     "breed": [
       "Balloon",
       "气球龙"
@@ -571,7 +639,11 @@
       "This light egg is floating in the air.",
       "这颗轻飘飘的蛋浮在空中。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Balloon_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -594,7 +666,7 @@
       ]
     }
   },
-  "Black": {
+  {
     "breed": [
       "Black",
       "黑龙"
@@ -603,7 +675,11 @@
       "This egg has a faint green glow around it.",
       "这颗蛋周围有淡淡的绿色光晕。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Black_Dragon",
+      "/zh/wiki/%E9%BB%91%E9%BE%8D"
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Coast",
@@ -628,7 +704,7 @@
       ]
     }
   },
-  "Black Capped Teimarr": {
+  {
     "breed": [
       "Black Capped Teimarr",
       "黑帽泰马尔龙"
@@ -637,7 +713,11 @@
       "This egg has a black cap.",
       "这颗蛋有一个黑尖儿。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Black_Capped_Teimarr",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -657,7 +737,7 @@
       ]
     }
   },
-  "Black Tea": {
+  {
     "breed": [
       "Black Tea",
       "红茶龙"
@@ -666,7 +746,11 @@
       "This egg has a faintly exotic scent.",
       "这颗蛋有种淡淡的异国情调的香味儿。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Black_Tea_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -686,7 +770,7 @@
       ]
     }
   },
-  "Black Truffle": {
+  {
     "breed": [
       "Black Truffle",
       "黑松露龙"
@@ -695,7 +779,11 @@
       "This egg has a pleasant, musky smell.",
       "这蛋带有一股令人愉悦的麝香味。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Black_Truffle_Dragon",
+      "/zh/wiki/%E9%BB%91%E6%9D%BE%E9%9C%B2%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -720,7 +808,7 @@
       ]
     }
   },
-  "Blacktip": {
+  {
     "breed": [
       "Blacktip",
       "黑鳍龙"
@@ -729,7 +817,11 @@
       "This egg is off-white in color and smells a bit like salt.",
       "这颗蛋是灰白色的，闻起来有些像盐。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Blacktip_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -749,7 +841,7 @@
       ]
     }
   },
-  "Blazeback": {
+  {
     "breed": [
       "Blazeback",
       ""
@@ -758,6 +850,10 @@
       "This egg has a dull metallic luster and is hot to the touch.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Blazeback_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -778,7 +874,7 @@
       ]
     }
   },
-  "Bleeding Moon": {
+  {
     "breed": [
       "Bleeding Moon",
       "血月龙"
@@ -787,7 +883,11 @@
       "This egg shines brilliantly in moonlight, and is covered in red spots.",
       "这颗被红斑覆盖的蛋在月光下闪耀。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Bleeding_Moon_Dragon",
+      "/zh/wiki/%E8%A1%80%E6%9C%88%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -807,7 +907,7 @@
       ]
     }
   },
-  "Blue-Banded": {
+  {
     "breed": [
       "Blue-Banded",
       "蓝纹龙"
@@ -816,7 +916,11 @@
       "This egg is covered in thick blue stripes.",
       "这颗蛋上有密集的蓝色条纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Blue-Banded_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -836,16 +940,20 @@
       ]
     }
   },
-  "Blusang Lindwyrm": {
+  {
     "breed": [
       "Blusang Lindwyrm",
-      ""
+      "蓝桑鳞龙"
     ],
     "egg": [
       "This egg smells faintly like brine.",
       "这颗蛋闻起来有点儿像海水。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Blusang_Lindwyrm",
+      ""
+    ],
+    "rarity": "Rare",
     "habitat": [
       "Coast"
     ],
@@ -865,7 +973,7 @@
       ]
     }
   },
-  "Bolt": {
+  {
     "breed": [
       "Bolt",
       "闪电龙"
@@ -874,7 +982,11 @@
       "This egg has a striking pattern.",
       "这蛋有著引人注目的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Bolt_Dragon",
+      "/zh/wiki/%E9%96%83%E9%9B%BB%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -895,7 +1007,7 @@
       ]
     }
   },
-  "Boreal": {
+  {
     "breed": [
       "Boreal",
       "北方极龙"
@@ -904,7 +1016,11 @@
       "This egg is covered in pale blue spots.",
       "这颗蛋满布亮蓝色的斑点。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Boreal_Dragon",
+      "/zh/wiki/%E5%8C%97%E6%96%B9%E6%A5%B5%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -924,16 +1040,20 @@
       ]
     }
   },
-  "Bright-Breasted Wyvern": {
+  {
     "breed": [
       "Bright-Breasted Wyvern",
-      ""
+      "鲜胸纹翼龙"
     ],
     "egg": [
       "This egg is covered in speckles.",
       "这颗蛋覆盖在斑点下。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Bright-Breasted_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -953,7 +1073,7 @@
       ]
     }
   },
-  "Brimstone": {
+  {
     "breed": [
       "Brimstone",
       "硫磺龙"
@@ -962,7 +1082,11 @@
       "This egg smells rather rancid.",
       "这颗蛋闻起来颇为腐臭。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Brimstone_Dragon",
+      "/zh/wiki/%E7%A1%AB%E7%A3%BA%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Volcano"
@@ -983,7 +1107,7 @@
       ]
     }
   },
-  "Brute": {
+  {
     "breed": [
       "Brute",
       "狂龙"
@@ -992,7 +1116,11 @@
       "This egg is unusually large and heavy.",
       "这颗蛋又大又重。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Brute_Dragon",
+      "/zh/wiki/%E7%8B%82%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -1012,7 +1140,7 @@
       ]
     }
   },
-  "Candelabra": {
+  {
     "breed": [
       "Candelabra",
       "枝状烛台龙"
@@ -1021,7 +1149,11 @@
       "This mottled red egg almost glows from within.",
       "这颗斑驳的红蛋似乎自内而外散发著光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Candelabra_Dragon",
+      "/zh/wiki/%E6%9E%9D%E7%8B%80%E7%87%AD%E8%87%BA%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Jungle"
@@ -1042,7 +1174,7 @@
       ]
     }
   },
-  "Canopy": {
+  {
     "breed": [
       "Canopy",
       "林冠龙"
@@ -1051,7 +1183,11 @@
       "This egg is hidden by some leaves.",
       "这颗蛋隐藏在叶子里。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Canopy_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -1071,7 +1207,7 @@
       ]
     }
   },
-  "Cantormaris Dragon": {
+  {
     "breed": [
       "Cantormaris Dragon",
       ""
@@ -1080,6 +1216,10 @@
       "Something about this egg seems to lure you in.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Cantormaris_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast",
@@ -1102,7 +1242,7 @@
       ]
     }
   },
-  "Carina": {
+  {
     "breed": [
       "Carina",
       "船底座龙"
@@ -1111,10 +1251,12 @@
       "This egg shimmers with dazzling constellations.",
       "这蛋闪著耀眼的星座图案。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Carina_Dragon",
+      "/zh/wiki/%E8%88%B9%E5%BA%95%E5%BA%A7%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -1131,7 +1273,7 @@
       ]
     }
   },
-  "Carmine Wyvern": {
+  {
     "breed": [
       "Carmine Wyvern",
       "胭脂红翼龙"
@@ -1140,7 +1282,11 @@
       "This pink and red egg wobbles occasionally.",
       "这颗粉红相间的蛋时不时会摇晃。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Carmine_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -1160,7 +1306,7 @@
       ]
     }
   },
-  "Cassare": {
+  {
     "breed": [
       "Cassare",
       "撤魔龙"
@@ -1169,7 +1315,11 @@
       "This egg makes you feel a bit uneasy.",
       "这颗蛋让你感到有些不安。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Cassare_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -1194,7 +1344,7 @@
       ]
     }
   },
-  "Celestial": {
+  {
     "breed": [
       "Celestial",
       "天龙"
@@ -1203,7 +1353,11 @@
       "This translucent egg shines like starlight.",
       "这颗通透的蛋散发出如星辰的光芒。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Celestial_Dragon",
+      "/zh/wiki/%E5%A4%A9%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -1228,7 +1382,7 @@
       ]
     }
   },
-  "Cloudplume": {
+  {
     "breed": [
       "Cloudplume",
       ""
@@ -1237,6 +1391,10 @@
       "This soft egg was carefully nestled in feathers and snow.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Cloudplume_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -1257,7 +1415,7 @@
       ]
     }
   },
-  "Coastal Waverunner": {
+  {
     "breed": [
       "Coastal Waverunner",
       "海岸浪奔龙"
@@ -1266,7 +1424,11 @@
       "This egg reminds you of the sea.",
       "这颗蛋令你想起海洋。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Coastal_Waverunner",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -1286,16 +1448,20 @@
       ]
     }
   },
-  "Copper": {
+  {
     "breed": [
       "Copper",
-      ""
+      "铜龙"
     ],
     "egg": [
       "This egg gleams with a reddish shine.",
       "这颗蛋闪耀著淡红的光芒。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Copper_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Desert",
       "Volcano"
@@ -1316,7 +1482,7 @@
       ]
     }
   },
-  "Crystalline": {
+  {
     "breed": [
       "Crystalline",
       "结晶龙"
@@ -1325,7 +1491,11 @@
       "This icy egg sparkles with frost.",
       "这颗结冰的蛋因霜而闪闪发光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Crystalline_Dragon",
+      "/zh/wiki/%E7%B5%90%E6%99%B6%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -1345,16 +1515,20 @@
       ]
     }
   },
-  "Dark Green": {
+  {
     "breed": [
       "Dark Green",
       "深绿龙"
     ],
     "egg": [
-      "This egg is sitting in a patch of grass and small flowers even though there's no sun in the cave.",
+      "This egg is sitting in a patch of grass and small flowers even though there’s no sun in the cave.",
       "这颗蛋位于一片草与小花中，尽管洞穴里没有阳光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Dark_Green_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Forest",
       "Jungle"
@@ -1375,7 +1549,7 @@
       ]
     }
   },
-  "Dark Lumina": {
+  {
     "breed": [
       "Dark Lumina",
       "黑暗绚光龙"
@@ -1384,7 +1558,11 @@
       "This egg shines coldly in the moonlight.",
       "这颗蛋在月光下冷冷地发著光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Dark_Lumina_Dragon",
+      "/zh/wiki/%E9%BB%91%E6%9A%97%E7%B5%A2%E5%85%89%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -1409,7 +1587,7 @@
       ]
     }
   },
-  "Daydream": {
+  {
     "breed": [
       "Daydream",
       "空想龙"
@@ -1418,7 +1596,11 @@
       "This egg is sitting on a cloud.",
       "这颗蛋坐在云彩上。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Daydream_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Forest",
@@ -1440,7 +1622,7 @@
       ]
     }
   },
-  "Deep Sea": {
+  {
     "breed": [
       "Deep Sea",
       "深海龙"
@@ -1449,7 +1631,11 @@
       "This egg appears to be covered in scales.",
       "这颗蛋似乎覆着鳞。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Deep_Sea_Dragon",
+      "/zh/wiki/%E6%B7%B1%E6%B5%B7%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -1469,7 +1655,7 @@
       ]
     }
   },
-  "Diamondwing": {
+  {
     "breed": [
       "Diamondwing",
       "钻翼龙"
@@ -1478,7 +1664,11 @@
       "This egg shines like a diamond.",
       "这蛋如钻石般闪亮。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Diamondwing_Dragon",
+      "/zh/wiki/%E9%91%BD%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Volcano"
@@ -1499,16 +1689,20 @@
       ]
     }
   },
-  "Dorsal": {
+  {
     "breed": [
       "Dorsal",
-      ""
+      "脊背龙"
     ],
     "egg": [
       "This egg has multiple bands of color on it.",
       "这颗蛋上有多重颜色排列。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Dorsal_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -1528,7 +1722,7 @@
       ]
     }
   },
-  "Electric": {
+  {
     "breed": [
       "Electric",
       "电光龙"
@@ -1537,7 +1731,11 @@
       "Bright sparks glide across the surface of this egg’s shell.",
       ""
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Electric_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -1557,7 +1755,7 @@
       ]
     }
   },
-  "Elux Lucis": {
+  {
     "breed": [
       "Elux Lucis",
       ""
@@ -1566,6 +1764,10 @@
       "Starlight shimmers across this egg’s iridescent shell.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Elux_Lucis_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -1586,7 +1788,7 @@
       ]
     }
   },
-  "Ember": {
+  {
     "breed": [
       "Ember",
       "馀焰龙"
@@ -1595,7 +1797,11 @@
       "This egg is really hot.",
       "这颗蛋真的很烫。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Ember_Dragon",
+      "/zh/wiki/%E9%A4%98%E7%87%84%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -1615,7 +1821,7 @@
       ]
     }
   },
-  "Equinox": {
+  {
     "breed": [
       "Equinox",
       ""
@@ -1624,6 +1830,10 @@
       "This egg shakes slightly when taken out of the light.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Equinox_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest",
@@ -1647,7 +1857,7 @@
       ]
     }
   },
-  "Fanalea": {
+  {
     "breed": [
       "Fanalea",
       ""
@@ -1656,6 +1866,10 @@
       "This egg has delicate markings that curl around its shell.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Fanalea_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Jungle"
@@ -1676,7 +1890,7 @@
       ]
     }
   },
-  "Falconiform Wyvern": {
+  {
     "breed": [
       "Falconiform Wyvern",
       "隼形翼龙"
@@ -1685,7 +1899,11 @@
       "Cold flames dance across the surface of this egg.",
       "冰冷的火焰跳跃在这颗蛋的表面上。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Falconiform_Wyvern",
+      "/zh/wiki/%E9%9A%BC%E5%BD%A2%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -1705,7 +1923,7 @@
       ]
     }
   },
-  "Fell": {
+  {
     "breed": [
       "Fell",
       "猛龙"
@@ -1714,7 +1932,11 @@
       "This mottled egg looks positively ancient.",
       "这颗斑驳的蛋看起来相当古老。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Fell_Dragon",
+      "/zh/wiki/%E7%8C%9B%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -1739,7 +1961,7 @@
       ]
     }
   },
-  "Fever Wyvern": {
+  {
     "breed": [
       "Fever Wyvern",
       "热病翼龙"
@@ -1748,7 +1970,11 @@
       "This egg is patterned with an orange flare.",
       "这颗蛋上有橘色的火焰纹样。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Fever_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -1768,14 +1994,18 @@
       ]
     }
   },
-  "Fire Gem": {
+  {
     "breed": [
       "Fire Gem",
-      ""
+      "火晶龙"
     ],
     "egg": [
       "This rough egg has shimmering veins of crystal running across its surface.",
       "这粗糙蛋的表面爬满发著光的水晶脉。"
+    ],
+    "wiki_path": [
+      "/wiki/Fire_Gem_Dragon",
+      "/zh/wiki/%E7%81%AB%E6%99%B6%E9%BE%8D"
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -1797,16 +2027,20 @@
       ]
     }
   },
-  "Flamingo Wyvern": {
+  {
     "breed": [
       "Flamingo Wyvern",
-      ""
+      "火烈翼龙"
     ],
     "egg": [
-      "It's bright. And pink.",
+      "It’s bright. And pink.",
       "它是明亮的。而且是粉色的。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Flamingo_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Jungle"
@@ -1827,14 +2061,18 @@
       ]
     }
   },
-  "Iris Floret Wyvern": {
+  {
     "breed": [
       "Iris Floret Wyvern",
-      ""
+      "小花双足翼龙"
     ],
     "egg": [
       "This shiny egg smells faintly like flowers.",
       "这颗明亮的蛋带有些许花香。"
+    ],
+    "wiki_path": [
+      "/wiki/Floret_Wyvern_(Iris)",
+      "/zh/wiki/%E5%B0%8F%E8%8A%B1%E9%9B%99%E8%B6%B3%E7%BF%BC%E9%BE%8D"
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -1856,7 +2094,7 @@
       ]
     }
   },
-  "Floret Wyvern (Alstroemeria)": {
+  {
     "breed": [
       "Floret Wyvern (Alstroemeria)",
       ""
@@ -1865,10 +2103,12 @@
       "This shiny egg smells faintly like flowers.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No Habitat"
+    "wiki_path": [
+      "/wiki/Floret_Wyvern_(Alstroemeria)",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -1885,7 +2125,7 @@
       ]
     }
   },
-  "Freckled": {
+  {
     "breed": [
       "Freckled",
       "雀斑龙"
@@ -1894,6 +2134,10 @@
       "This egg is yellow with orange speckling.",
       "这是颗带有橘斑的黄蛋。"
     ],
+    "wiki_path": [
+      "/wiki/Freckled_Dragon",
+      "/zh/wiki/%E9%9B%80%E6%96%91%E9%BE%8D"
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert",
@@ -1915,7 +2159,7 @@
       ]
     }
   },
-  "Frilled": {
+  {
     "breed": [
       "Frilled",
       "褶伞龙"
@@ -1924,7 +2168,11 @@
       "This egg has strange markings on it.",
       "这颗蛋上有奇怪的花样。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Frilled_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -1944,7 +2192,7 @@
       ]
     }
   },
-  "Frostbite": {
+  {
     "breed": [
       "Frostbite",
       "霜噬龙"
@@ -1953,7 +2201,11 @@
       "Frost is creeping over this cold egg.",
       "这颗寒冷的蛋上爬满冰霜。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Frostbite_Dragon",
+      "/zh/wiki/%E9%9C%9C%E5%99%AC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -1973,16 +2225,20 @@
       ]
     }
   },
-  "Galvanic Wyvern": {
+  {
     "breed": [
       "Galvanic Wyvern",
-      ""
+      "双足流导翼龙"
     ],
     "egg": [
       "Powerful energy emanates from this egg.",
       "强烈的能量自这颗蛋发散而出。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Galvanic_Wyvern",
+      "/zh/wiki/%E9%9B%99%E8%B6%B3%E6%B5%81%E5%B0%8E%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -2002,7 +2258,7 @@
       ]
     }
   },
-  "Gemshard": {
+  {
     "breed": [
       "Gemshard",
       "碎宝石龙"
@@ -2011,7 +2267,11 @@
       "This egg is encrusted with colorful gemstones.",
       "这颗蛋镶有色彩缤纷的宝石。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Gemshard_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -2031,7 +2291,7 @@
       ]
     }
   },
-  "Geode": {
+  {
     "breed": [
       "Geode",
       "晶岩龙"
@@ -2040,10 +2300,12 @@
       "This egg is heavy and rough, as if it were made out of rock.",
       "这颗蛋重且粗糙，仿佛由岩石构成。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Geode_Dragon",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -2060,16 +2322,20 @@
       ]
     }
   },
-  "Gold": {
+  {
     "breed": [
       "Gold",
-      "金龙"
+      "饰龙"
     ],
     "egg": [
       "This egg is very reflective, almost metallic-looking.",
       "这颗蛋有著近似金属的高反光外壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Gold_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2094,14 +2360,18 @@
       ]
     }
   },
-  "Gold-Horned Tangar": {
+  {
     "breed": [
       "Gold-Horned Tangar",
-      ""
+      "金角坦加尔龙"
     ],
     "egg": [
       "This egg has bright orange and green markings.",
       "这颗蛋有明亮橙色与绿色花纹。"
+    ],
+    "wiki_path": [
+      "/wiki/Gold-Horned_Tangar",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -2123,7 +2393,7 @@
       ]
     }
   },
-  "Golden Wyvern": {
+  {
     "breed": [
       "Golden Wyvern",
       "黄金翼龙"
@@ -2132,7 +2402,11 @@
       "This egg shimmers like gold.",
       "这颗蛋像金子般闪耀。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Golden_Wyvern",
+      "/zh/wiki/%E9%BB%83%E9%87%91%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Rare",
     "habitat": [
       "Alpine"
     ],
@@ -2152,7 +2426,7 @@
       ]
     }
   },
-  "Green": {
+  {
     "breed": [
       "Green",
       "绿龙"
@@ -2161,7 +2435,11 @@
       "This egg is sitting in a pile of small pebbles.",
       "这颗蛋位于一些小卵石之间。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Green_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Volcano"
@@ -2182,7 +2460,7 @@
       ]
     }
   },
-  "Guardian": {
+  {
     "breed": [
       "Guardian",
       "护卫龙"
@@ -2191,7 +2469,11 @@
       "This egg is sitting in front of the others.",
       "这颗蛋立于其他蛋前方。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Guardian_Dragon",
+      "/zh/wiki/%E8%AD%B7%E8%A1%9B%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -2211,7 +2493,7 @@
       ]
     }
   },
-  "Guardian of Nature": {
+  {
     "breed": [
       "Guardian of Nature",
       "自然守护龙"
@@ -2220,10 +2502,12 @@
       "This egg glows mysteriously.",
       "这颗蛋发出神秘的光。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Guardian_of_Nature",
+      "/zh/wiki/%E8%87%AA%E7%84%B6%E5%AE%88%E8%AD%B7%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -2240,7 +2524,7 @@
       ]
     }
   },
-  "Harvest": {
+  {
     "breed": [
       "Harvest",
       "收获龙"
@@ -2249,10 +2533,13 @@
       "This heavy egg feels slightly warm.",
       "这个沉重的蛋有微暖的感觉。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Harvest_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
-      "[6]",
       "Forest"
     ],
     "bsa": "未知种族特性技能",
@@ -2271,7 +2558,7 @@
       ]
     }
   },
-  "Hellfire Wyvern": {
+  {
     "breed": [
       "Hellfire Wyvern",
       "地狱火龙"
@@ -2280,7 +2567,11 @@
       "This egg radiates the heat of a fell flame.",
       "这颗蛋放出可怕的火焰热量。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Hellfire_Wyvern",
+      "/zh/wiki/%E5%9C%B0%E7%8D%84%E7%81%AB%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -2300,7 +2591,7 @@
       ]
     }
   },
-  "Hellhorse": {
+  {
     "breed": [
       "Hellhorse",
       "狱马龙"
@@ -2309,10 +2600,12 @@
       "This hot egg shakes violently when you touch it.",
       "这颗灼热的蛋在你触碰它时暴烈地摇晃。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Hellhorse_Dragon",
+      "/zh/wiki/%E7%8B%B1%E9%A9%AC%E9%BE%99"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -2329,7 +2622,7 @@
       ]
     }
   },
-  "Hooded Murkling": {
+  {
     "breed": [
       "Hooded Murkling",
       ""
@@ -2338,6 +2631,10 @@
       "This shady egg seems to be lurking just out of sight.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Hooded_Murkling_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -2358,7 +2655,7 @@
       ]
     }
   },
-  "Horse": {
+  {
     "breed": [
       "Horse",
       "悍马龙"
@@ -2367,7 +2664,11 @@
       "This egg has strange markings on it.",
       "这颗蛋上有奇怪的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Horse_Dragon",
+      "/zh/wiki/%E6%82%8D%E9%A6%AC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -2387,7 +2688,7 @@
       ]
     }
   },
-  "Hydrophidius": {
+  {
     "breed": [
       "Hydrophidius",
       ""
@@ -2396,6 +2697,10 @@
       "This striped egg is surprisingly heavy.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Hydrophidius_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -2416,7 +2721,7 @@
       ]
     }
   },
-  "Ice": {
+  {
     "breed": [
       "Ice",
       "冰龙"
@@ -2425,7 +2730,11 @@
       "This egg has icicles forming on it.",
       "这颗蛋上形成了冰柱。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Ice_Dragon",
+      "/zh/wiki/%E5%86%B0%E9%BE%8D"
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine"
     ],
@@ -2445,7 +2754,7 @@
       ]
     }
   },
-  "Imperial Fleshcrowne": {
+  {
     "breed": [
       "Imperial Fleshcrowne",
       "帝王肉冠龙"
@@ -2454,7 +2763,11 @@
       "This egg is hidden in the trees.",
       "这颗蛋隐藏于树丛中。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Imperial_Fleshcrowne",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2479,7 +2792,7 @@
       ]
     }
   },
-  "Khusa": {
+  {
     "breed": [
       "Khusa",
       "酷沙龙"
@@ -2488,7 +2801,11 @@
       "This egg is smooth and shiny.",
       "这颗蛋光滑且闪闪发亮。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Khusa_Dragon",
+      "/zh/wiki/%E9%85%B7%E6%B2%99%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Desert"
@@ -2509,7 +2826,7 @@
       ]
     }
   },
-  "Kingcrowne": {
+  {
     "breed": [
       "Kingcrowne",
       "王冠龙"
@@ -2518,7 +2835,11 @@
       "This shiny egg gives off an almost magical aura.",
       "这闪闪发光的蛋散发出近似魔法的光圈。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Kingcrowne_Dragon",
+      "/zh/wiki/%E7%8E%8B%E5%86%A0%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2543,7 +2864,7 @@
       ]
     }
   },
-  "Labradorite": {
+  {
     "breed": [
       "Labradorite",
       ""
@@ -2552,6 +2873,10 @@
       "This shimmering egg was hidden far from the others.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Labradorite_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -2577,7 +2902,7 @@
       ]
     }
   },
-  "Lacula": {
+  {
     "breed": [
       "Lacula",
       "拉库拉龙"
@@ -2586,7 +2911,11 @@
       "This green and silver egg lurks in the shadows, tempting you to steal it.",
       "这颗银绿色蛋潜伏在暗处，诱使你去偷走它。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Lacula_Dragon",
+      "/zh/wiki/%E6%8B%89%E5%BA%AB%E6%8B%89%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -2606,7 +2935,7 @@
       ]
     }
   },
-  "Leodon": {
+  {
     "breed": [
       "Leodon",
       "烈傲龙"
@@ -2615,7 +2944,11 @@
       "This red and gold egg sits before the others, almost daring you to grab it.",
       "这颗红金色的蛋坐在最前方，鼓励你大胆夺走他。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Leodon_Dragon",
+      "/zh/wiki/%E7%83%88%E5%82%B2%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -2635,7 +2968,7 @@
       ]
     }
   },
-  "Lihnseyre": {
+  {
     "breed": [
       "Lihnseyre",
       "宁视乐龙"
@@ -2644,7 +2977,11 @@
       "This glowing egg seems to tug at your very core.",
       "这颗发著光的蛋似是在拉扯你的内在。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Lihnseyre_Dragon",
+      "/zh/wiki/%E5%AF%A7%E8%A6%96%E6%A8%82%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -2664,7 +3001,7 @@
       ]
     }
   },
-  "Lotaan": {
+  {
     "breed": [
       "Lotaan",
       ""
@@ -2673,6 +3010,10 @@
       "This scaly egg seems to disappear in the depths.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Lotaan_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -2693,7 +3034,7 @@
       ]
     }
   },
-  "Lumina": {
+  {
     "breed": [
       "Lumina",
       "绚光龙"
@@ -2702,7 +3043,11 @@
       "This egg shines brightly in the sunlight.",
       "这颗蛋在阳光下明亮地闪耀。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Lumina_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2727,14 +3072,18 @@
       ]
     }
   },
-  "Luminox Dragon": {
+  {
     "breed": [
       "Luminox Dragon",
-      ""
+      "夜明龙"
     ],
     "egg": [
       "The markings on this egg glow brightly in the shadows.",
       "这颗蛋上的斑点在阴影中闪闪发光。"
+    ],
+    "wiki_path": [
+      "/wiki/Luminox_Dragon",
+      "/zh/wiki/%E5%A4%9C%E6%98%8E%E9%BE%8D"
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -2756,14 +3105,18 @@
       ]
     }
   },
-  "Lunar Herald Dragon": {
+  {
     "breed": [
       "Lunar Herald Dragon",
-      ""
+      "月亮使者龙"
     ],
     "egg": [
       "This metallic egg shows faint iridescence in moonlight.",
       "这颗金属光泽的蛋在月光下发出微弱的虹光。"
+    ],
+    "wiki_path": [
+      "/wiki/Lunar_Herald_Dragon",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -2787,7 +3140,7 @@
       ]
     }
   },
-  "Magi": {
+  {
     "breed": [
       "Magi",
       "贤龙"
@@ -2796,7 +3149,11 @@
       "This egg has an orange aura radiating from it.",
       "这颗蛋放射出橙色魔力的光环。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Magi_Dragon",
+      "/zh/wiki/%E8%B3%A2%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2821,7 +3178,7 @@
       ]
     }
   },
-  "Magma": {
+  {
     "breed": [
       "Magma",
       "岩浆龙"
@@ -2830,7 +3187,11 @@
       "This egg is almost too hot to touch.",
       "这颗蛋热到难以触碰。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Magma_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Volcano"
     ],
@@ -2850,7 +3211,7 @@
       ]
     }
   },
-  "Melismor": {
+  {
     "breed": [
       "Melismor",
       "梅力斯莫龙"
@@ -2859,7 +3220,11 @@
       "This heavy egg has an earthy scent, like freshly-tilled soil.",
       "这颗重蛋有股土味，像是新翻过的土壤。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Melismor_Dragon",
+      "/zh/wiki/%E6%A2%85%E5%8A%9B%E6%96%AF%E8%8E%AB%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -2879,7 +3244,7 @@
       ]
     }
   },
-  "Mint": {
+  {
     "breed": [
       "Mint",
       "薄荷龙"
@@ -2888,7 +3253,11 @@
       "This egg is hidden behind the others, as if it is shy.",
       "这颗蛋藏在其他蛋后面，似乎很害羞。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Mint_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -2912,7 +3281,7 @@
       ]
     }
   },
-  "Mirisia Amphiptere": {
+  {
     "breed": [
       "Mirisia Amphiptere",
       ""
@@ -2921,6 +3290,10 @@
       "This egg emanates a peculiar smell.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Mirisia_Amphiptere",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -2943,7 +3316,7 @@
       ]
     }
   },
-  "Mistra": {
+  {
     "breed": [
       "Mistra",
       ""
@@ -2952,6 +3325,10 @@
       "You hear a soft melody as you approach this egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Mistra_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast",
@@ -2973,7 +3350,7 @@
       ]
     }
   },
-  "Monarch": {
+  {
     "breed": [
       "Monarch",
       "帝王龙"
@@ -2982,7 +3359,11 @@
       "This egg is buried in leaf litter.",
       "这颗蛋被埋在落叶堆里。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Monarch_Dragon",
+      "/zh/wiki/%E5%B8%9D%E7%8E%8B%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Forest",
@@ -3004,7 +3385,7 @@
       ]
     }
   },
-  "Moonstone": {
+  {
     "breed": [
       "Moonstone",
       "月石龙"
@@ -3013,7 +3394,11 @@
       "This egg resembles a glowing stone.",
       "这颗蛋像一颗闪闪发光的石头。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Moonstone_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -3033,7 +3418,7 @@
       ]
     }
   },
-  "Nebula": {
+  {
     "breed": [
       "Nebula",
       "星云龙"
@@ -3042,7 +3427,11 @@
       "This egg glows with a brilliant radiance.",
       "这颗蛋散发出灿烂的光辉。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Nebula_Dragon",
+      "/zh/wiki/%E6%98%9F%E9%9B%B2%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Desert"
@@ -3063,19 +3452,21 @@
       ]
     }
   },
-  "Neglected": {
+  {
     "breed": [
       "Neglected",
       "弃龙"
     ],
     "egg": [
-      "This egg is very sickly looking, like it's diseased.",
+      "This egg is very sickly looking, like it’s diseased.",
       "这颗蛋看起来非常虚弱，似乎已经病变了。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Neglected_Dragon",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -3092,7 +3483,7 @@
       ]
     }
   },
-  "Neotropical": {
+  {
     "breed": [
       "Neotropical",
       "新热带龙"
@@ -3101,7 +3492,11 @@
       "This egg has strange yellow stripes.",
       "这颗蛋有奇怪的黄色条纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Neotropical_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -3121,7 +3516,7 @@
       ]
     }
   },
-  "Nhiostrife Wyvern": {
+  {
     "breed": [
       "Nhiostrife Wyvern",
       "霓纹翼龙"
@@ -3130,7 +3525,11 @@
       "This dull purple egg has two bright stripes on it.",
       "这颗暗紫色的蛋上有两条明亮的纹路。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Nhiostrife_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -3150,7 +3549,7 @@
       ]
     }
   },
-  "Nobleshield Dragon": {
+  {
     "breed": [
       "Nobleshield Dragon",
       ""
@@ -3159,10 +3558,12 @@
       "This tough egg has a protective ridge down its shell.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No Habitat"
+    "wiki_path": [
+      "/wiki/Nobleshield_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -3179,7 +3580,7 @@
       ]
     }
   },
-  "Nocturne": {
+  {
     "breed": [
       "Nocturne",
       "夜曲龙"
@@ -3188,7 +3589,11 @@
       "This egg appears to be made of limestone.",
       "这颗蛋似乎由石灰石构成。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Nocturne_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -3209,7 +3614,7 @@
       ]
     }
   },
-  "Olive": {
+  {
     "breed": [
       "Olive",
       "橄榄龙"
@@ -3218,7 +3623,11 @@
       "This egg smells musty, like rotting leaves.",
       "这颗蛋闻起来发霉了，像腐烂的树叶。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Olive_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -3238,7 +3647,7 @@
       ]
     }
   },
-  "Oracle Wyrm": {
+  {
     "breed": [
       "Oracle Wyrm",
       ""
@@ -3247,6 +3656,10 @@
       "It feels like this egg knew you were coming.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Oracle_Wyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -3270,7 +3683,7 @@
       ]
     }
   },
-  "Pillow": {
+  {
     "breed": [
       "Pillow",
       "软枕龙"
@@ -3279,7 +3692,11 @@
       "This egg has a velvety texture.",
       "这颗蛋有天鹅绒般的质地。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Pillow_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -3299,16 +3716,20 @@
       ]
     }
   },
-  "Pink": {
+  {
     "breed": [
       "Pink",
       "粉龙"
     ],
     "egg": [
-      "It's bright. And pink.",
+      "It’s bright. And pink.",
       "它是明亮的。而且是粉色的。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Pink_Dragon",
+      "/zh/wiki/%E7%B2%89%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -3333,7 +3754,7 @@
       ]
     }
   },
-  "Plated Colossus": {
+  {
     "breed": [
       "Plated Colossus",
       "装甲巨龙"
@@ -3342,7 +3763,11 @@
       "This massive egg is covered with thick plates.",
       "这颗巨大的蛋被装甲包覆。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Plated_Colossus_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -3363,16 +3788,20 @@
       ]
     }
   },
-  "Purple": {
+  {
     "breed": [
       "Purple",
       "紫龙"
     ],
     "egg": [
-      "Wow, purple isn't a color of egg you expected to see.",
+      "Wow, purple isn’t a color of egg you expected to see.",
       "哇，紫色不是你想象中会在蛋上看到的颜色。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Purple_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -3397,16 +3826,20 @@
       ]
     }
   },
-  "Pyralspite": {
+  {
     "breed": [
       "Pyralspite",
-      ""
+      "铝榴石龙"
     ],
     "egg": [
       "This egg feels like polished stone.",
       "这颗蛋就像是剖光过的宝石。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Pyralspite_Dragon",
+      ""
+    ],
+    "rarity": "Rare",
     "habitat": [
       "Alpine"
     ],
@@ -3426,7 +3859,7 @@
       ]
     }
   },
-  "Pyropellis Wyvern": {
+  {
     "breed": [
       "Pyropellis Wyvern",
       ""
@@ -3435,6 +3868,10 @@
       "Tough ridges line the surface of this rough, mottled egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pyropellis_Wyvern",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -3455,7 +3892,7 @@
       ]
     }
   },
-  "Pyrovar": {
+  {
     "breed": [
       "Pyrovar",
       "火沸龙"
@@ -3464,7 +3901,11 @@
       "This glassy egg is too hot to hold with your bare hands.",
       "这颗玻璃蛋烫到不能直接用手拿著。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Pyrovar_Dragon",
+      "/zh/wiki/%E7%81%AB%E6%B2%B8%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -3484,7 +3925,7 @@
       ]
     }
   },
-  "Pyrrhichios": {
+  {
     "breed": [
       "Pyrrhichios",
       ""
@@ -3493,6 +3934,10 @@
       "When you tap on this shell, the hatchling inside taps back.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pyrrhichios_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -3513,7 +3958,7 @@
       ]
     }
   },
-  "Razorcrest Wyvern": {
+  {
     "breed": [
       "Razorcrest Wyvern",
       "剃刀羽冠翼龙"
@@ -3522,7 +3967,11 @@
       "This blue and bronze egg piques your curiosity.",
       "这颗蓝铜色蛋激起你的好奇心。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Razorcrest_Wyvern",
+      "/zh/wiki/%E5%89%83%E5%88%80%E7%BE%BD%E5%86%A0%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -3542,7 +3991,7 @@
       ]
     }
   },
-  "Red": {
+  {
     "breed": [
       "Red",
       "红龙"
@@ -3551,7 +4000,11 @@
       "This egg is rather warm.",
       "这颗蛋相当温暖。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Red_Dragon",
+      "/zh/wiki/%E7%B4%85%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Volcano"
@@ -3572,16 +4025,20 @@
       ]
     }
   },
-  "Ridgewing": {
+  {
     "breed": [
       "Ridgewing",
-      ""
+      "脊翼龙"
     ],
     "egg": [
       "A cool mountain breeze blows around this egg.",
       "清凉的山风在这颗蛋四周吹拂。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Ridgewing_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -3601,7 +4058,7 @@
       ]
     }
   },
-  "Rift Wyrm": {
+  {
     "breed": [
       "Rift Wyrm",
       "裂谷龙"
@@ -3610,15 +4067,18 @@
       "This egg radiates an otherworldly chill.",
       "这颗蛋散发出超自然的寒意。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Rift_Wyrm",
+      "/zh/wiki/%E8%A3%82%E8%B0%B7%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
       "Desert",
       "Forest",
       "Jungle",
-      "Volcano",
-      "[8]"
+      "Volcano"
     ],
     "bsa": "未知种族特性技能",
     "elemental": [
@@ -3636,7 +4096,7 @@
       ]
     }
   },
-  "Risensong": {
+  {
     "breed": [
       "Risensong",
       "旭歌龙"
@@ -3645,10 +4105,12 @@
       "This bright egg shines in the morning sunlight.",
       "这颗亮眼的蛋在朝曦中闪耀著光芒。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Risensong_Dragon",
+      "/zh/wiki/%E6%97%AD%E6%AD%8C%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -3665,7 +4127,7 @@
       ]
     }
   },
-  "Royal Blue": {
+  {
     "breed": [
       "Royal Blue",
       "皇家蓝龙"
@@ -3674,7 +4136,11 @@
       "This egg shines in the moonlight.",
       "这颗蛋在月色下闪耀。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Royal_Blue_Dragon",
+      "/zh/wiki/%E7%9A%87%E5%AE%B6%E8%97%8D%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -3694,7 +4160,7 @@
       ]
     }
   },
-  "Royal Crimson": {
+  {
     "breed": [
       "Royal Crimson",
       "皇家绯红龙"
@@ -3703,7 +4169,11 @@
       "This large egg is a dark crimson color.",
       "这颗巨大的蛋有黯沉的绯红色。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Royal_Crimson_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -3723,7 +4193,7 @@
       ]
     }
   },
-  "Royal Eminence Dragon": {
+  {
     "breed": [
       "Royal Eminence Dragon",
       ""
@@ -3732,10 +4202,12 @@
       "This magnificent purple egg shimmers in the light.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No Habitat"
+    "wiki_path": [
+      "/wiki/Royal_Eminence_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -3752,16 +4224,20 @@
       ]
     }
   },
-  "Sandwaste": {
+  {
     "breed": [
       "Sandwaste",
       "沙荒龙"
     ],
     "egg": [
-      "This egg was buried in a sand dune.﻿",
+      "This egg was buried in a sand dune.",
       "这颗蛋被埋在沙堆下。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sandwaste_Dragon",
+      "/zh/wiki/%E6%B2%99%E8%8D%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -3781,7 +4257,7 @@
       ]
     }
   },
-  "Sapo": {
+  {
     "breed": [
       "Sapo",
       ""
@@ -3790,7 +4266,11 @@
       "This egg’s shell is slippery and clean.",
       ""
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sapo_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -3811,7 +4291,7 @@
       ]
     }
   },
-  "Sapphire": {
+  {
     "breed": [
       "Sapphire",
       "蓝宝石龙"
@@ -3820,7 +4300,11 @@
       "This egg looks like a beautiful blue stone.",
       "这颗蛋看起来像是颗漂亮的蓝石头。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sapphire_Dragon",
+      "/zh/wiki/%E8%97%8D%E5%AF%B6%E7%9F%B3%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -3845,7 +4329,7 @@
       ]
     }
   },
-  "Sawtooth Dragon": {
+  {
     "breed": [
       "Sawtooth Dragon",
       ""
@@ -3854,6 +4338,10 @@
       "Soft chirping sounds are coming from inside the egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Sawtooth_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Jungle"
@@ -3874,7 +4362,7 @@
       ]
     }
   },
-  "Scimitar-wing Wyvern": {
+  {
     "breed": [
       "Scimitar-wing Wyvern",
       "弯刀翼龙"
@@ -3883,7 +4371,11 @@
       "This egg seems quite harmless.",
       "这颗蛋看起来很无害。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Scimitar-wing_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Volcano"
@@ -3904,7 +4396,7 @@
       ]
     }
   },
-  "Script": {
+  {
     "breed": [
       "Script",
       "符纹龙"
@@ -3913,7 +4405,11 @@
       "This egg is covered in mysterious patterns.",
       "这颗蛋布满了神秘的符文。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Script_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -3933,14 +4429,18 @@
       ]
     }
   },
-  "Seasonal (Spring)": {
+  {
     "breed": [
       "Seasonal (Spring)",
-      ""
+      "季龙"
     ],
     "egg": [
       "The markings on this egg match the weather outside.",
       "这颗蛋上的花纹与外面的季节相对应。"
+    ],
+    "wiki_path": [
+      "/wiki/Seasonal_Dragon_(Spring)",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -3962,7 +4462,7 @@
       ]
     }
   },
-  "Seasonal (Summer)": {
+  {
     "breed": [
       "Seasonal (Summer)",
       ""
@@ -3971,6 +4471,10 @@
       "The markings on this egg match the weather outside.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Seasonal_Dragon_(Summer)",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -3991,7 +4495,7 @@
       ]
     }
   },
-  "Seasonal (Autumn)": {
+  {
     "breed": [
       "Seasonal (Autumn)",
       ""
@@ -4000,6 +4504,10 @@
       "The markings on this egg match the weather outside.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Seasonal_Dragon_(Autumn)",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -4020,7 +4528,7 @@
       ]
     }
   },
-  "Seasonal (Winter)": {
+  {
     "breed": [
       "Seasonal (Winter)",
       ""
@@ -4029,6 +4537,10 @@
       "The markings on this egg match the weather outside.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Seasonal_Dragon_(Winter)",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -4049,7 +4561,7 @@
       ]
     }
   },
-  "Serrati Wyvern": {
+  {
     "breed": [
       "Serrati Wyvern",
       ""
@@ -4058,6 +4570,10 @@
       "This egg has striations marking its rough shell.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Serrati_Wyvern",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -4078,19 +4594,21 @@
       ]
     }
   },
-  "Setsong Dragon": {
+  {
     "breed": [
       "Setsong Dragon",
-      ""
+      "暮歌龙"
     ],
     "egg": [
       "This dark egg shines in the evening sunlight.",
       "这颗暗沉的蛋在暮色中闪耀著光芒。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Setsong_Dragon",
+      "/zh/wiki/%E6%9A%AE%E6%AD%8C%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -4107,7 +4625,7 @@
       ]
     }
   },
-  "Shallow Water": {
+  {
     "breed": [
       "Shallow Water",
       "浅水龙"
@@ -4116,10 +4634,12 @@
       "This egg appears to be covered in scales.",
       "这颗蛋似乎覆着鳞。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Shallow_Water_Dragon",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -4136,7 +4656,7 @@
       ]
     }
   },
-  "Shimmer-scale": {
+  {
     "breed": [
       "Shimmer-scale",
       ""
@@ -4145,10 +4665,12 @@
       "This egg is very reflective, almost metallic looking.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Shimmer-scale_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -4165,7 +4687,7 @@
       ]
     }
   },
-  "Shumoga": {
+  {
     "breed": [
       "Shumoga",
       ""
@@ -4174,6 +4696,10 @@
       "This striped egg has a rough, ridged texture.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Shumoga_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -4195,16 +4721,20 @@
       ]
     }
   },
-  "Silver": {
+  {
     "breed": [
       "Silver",
-      "银龙"
+      "安魂龙"
     ],
     "egg": [
       "This egg gives off a beautiful glow.",
       "这颗蛋散发出美丽的光芒。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Silver_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Coast",
@@ -4229,7 +4759,7 @@
       ]
     }
   },
-  "Sinii Krai": {
+  {
     "breed": [
       "Sinii Krai",
       "青尼廓蓝龙"
@@ -4238,7 +4768,11 @@
       "This striped egg has a warm glow.",
       "这颗条纹蛋散发著温和光芒。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sinii_Krai_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -4258,7 +4792,7 @@
       ]
     }
   },
-  "Siyat": {
+  {
     "breed": [
       "Siyat",
       "夏特龙"
@@ -4267,7 +4801,11 @@
       "This egg seems to be glowing in spots.",
       "这颗蛋上的斑点看起来在发光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Siyat_Dragon",
+      "/zh/wiki/%E5%A4%8F%E7%89%B9%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -4289,7 +4827,7 @@
       ]
     }
   },
-  "Skystrider": {
+  {
     "breed": [
       "Skystrider",
       ""
@@ -4298,6 +4836,10 @@
       "This plain blue egg almost seems to float.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Skystrider_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -4320,7 +4862,7 @@
       ]
     }
   },
-  "Skysilk": {
+  {
     "breed": [
       "Skysilk",
       "天丝龙"
@@ -4329,7 +4871,11 @@
       "This light egg has very vibrant colors.",
       "这颗轻巧的蛋色彩斑斓。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Skysilk_Dragon",
+      "/zh/wiki/%E5%A4%A9%E7%B5%B2%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Jungle"
@@ -4350,7 +4896,7 @@
       ]
     }
   },
-  "Skywing": {
+  {
     "breed": [
       "Skywing",
       "空翼龙"
@@ -4359,7 +4905,11 @@
       "This egg has strange markings on it.",
       "这颗蛋上有奇怪的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Skywing_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -4379,7 +4929,7 @@
       ]
     }
   },
-  "Sophrosyne": {
+  {
     "breed": [
       "Sophrosyne",
       ""
@@ -4388,10 +4938,12 @@
       "This egg gives off a beautiful glow.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Sophrosyne_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -4408,7 +4960,7 @@
       ]
     }
   },
-  "Speckle-Throated": {
+  {
     "breed": [
       "Speckle-Throated",
       "斑喉龙"
@@ -4417,7 +4969,11 @@
       "This egg has a rough—yet shiny—shell.",
       "这颗蛋有个粗糙——然而闪亮的壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Speckle-Throated_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -4437,16 +4993,20 @@
       ]
     }
   },
-  "Spinel Wyvern": {
+  {
     "breed": [
       "Spinel Wyvern",
-      ""
+      "尖晶石翼龙"
     ],
     "egg": [
       "This glassy egg has a single stripe on it.",
       "这颗玻璃般的蛋上有一道条纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Spinel_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Volcano"
@@ -4467,7 +5027,7 @@
       ]
     }
   },
-  "Spirit Ward": {
+  {
     "breed": [
       "Spirit Ward",
       "守灵龙"
@@ -4476,7 +5036,11 @@
       "This egg glows from within.",
       "这颗蛋自内而外散发著光芒。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Spirit_Ward_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest"
@@ -4497,16 +5061,20 @@
       ]
     }
   },
-  "Spitfire": {
+  {
     "breed": [
       "Spitfire",
-      "烈火龙"
+      "条纹龙"
     ],
     "egg": [
       "This egg has brightly colored markings on it.",
       "这颗蛋上有色泽明亮的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Spitfire_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -4526,7 +5094,7 @@
       ]
     }
   },
-  "Spotted Greenwing": {
+  {
     "breed": [
       "Spotted Greenwing",
       "斑点绿翼龙"
@@ -4535,7 +5103,11 @@
       "This egg is covered in bright spots.",
       "这颗蛋覆盖着明亮的斑点。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Spotted_Greenwing",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -4555,7 +5127,7 @@
       ]
     }
   },
-  "Stone": {
+  {
     "breed": [
       "Stone",
       "石龙"
@@ -4564,7 +5136,11 @@
       "This egg is heavy and rough, as if it were made out of rock.",
       "这颗蛋重且粗糙，仿佛由岩石构成。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Stone_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Desert",
@@ -4586,7 +5162,7 @@
       ]
     }
   },
-  "Storm": {
+  {
     "breed": [
       "Storm",
       "风暴龙"
@@ -4595,7 +5171,11 @@
       "This egg is surrounded by fog.",
       "这颗蛋被雾笼罩。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Storm_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -4620,7 +5200,7 @@
       ]
     }
   },
-  "Storm-Rider": {
+  {
     "breed": [
       "Storm-Rider",
       "风暴驾驭龙"
@@ -4629,10 +5209,12 @@
       "You can feel the static electricity that surrounds this egg.",
       "你可以感受到静电环绕著这颗蛋。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Storm-Rider_Dragon",
+      "/zh/wiki/%E9%A2%A8%E6%9A%B4%E9%A7%95%E9%A6%AD%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -4649,16 +5231,20 @@
       ]
     }
   },
-  "Stratos Dragon": {
+  {
     "breed": [
       "Stratos Dragon",
-      ""
+      "斯特拉托斯龙"
     ],
     "egg": [
       "This egg is very large, but light for its size.",
       "这蛋虽大，却没那么重。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Stratos_Dragon",
+      "/zh/wiki/%E6%96%AF%E7%89%B9%E6%8B%89%E6%89%98%E6%96%AF%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Desert",
@@ -4680,7 +5266,7 @@
       ]
     }
   },
-  "Striped": {
+  {
     "breed": [
       "Striped",
       ""
@@ -4689,7 +5275,11 @@
       "This egg has brightly colored markings on it.",
       ""
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Striped_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -4710,7 +5300,7 @@
       ]
     }
   },
-  "Striped River": {
+  {
     "breed": [
       "Striped River",
       "条纹河龙"
@@ -4719,7 +5309,11 @@
       "A small puddle of condensation has collected under this egg.",
       "小小的水滩凝聚在这颗蛋下。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Striped_River_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -4739,16 +5333,20 @@
       ]
     }
   },
-  "Sunset": {
+  {
     "breed": [
       "Sunset",
-      ""
+      "落日龙"
     ],
     "egg": [
       "This egg is glowing as brightly as the sun.",
       "这颗蛋闪耀得像太阳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sunset_Dragon",
+      "#cite_note-sunrise-sunset-13"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -4768,7 +5366,7 @@
       ]
     }
   },
-  "Sunsong Amphiptere": {
+  {
     "breed": [
       "Sunsong Amphiptere",
       "日歌翼蛇"
@@ -4777,7 +5375,11 @@
       "This egg changes colors in the sunlight.",
       "这颗蛋在阳光下变幻着颜色。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sunsong_Amphiptere",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -4797,7 +5399,7 @@
       ]
     }
   },
-  "Sunstone": {
+  {
     "breed": [
       "Sunstone",
       "太阳石龙"
@@ -4806,7 +5408,11 @@
       "This egg resembles a glowing stone.",
       "这颗蛋像一颗闪闪发光的石头。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Sunstone_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -4826,7 +5432,7 @@
       ]
     }
   },
-  "Swallowtail": {
+  {
     "breed": [
       "Swallowtail",
       "燕尾龙"
@@ -4835,7 +5441,11 @@
       "This egg has a very thin shell.",
       "这颗蛋的壳非常薄。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Swallowtail_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -4855,7 +5465,7 @@
       ]
     }
   },
-  "Tercorn": {
+  {
     "breed": [
       "Tercorn",
       "三角龙"
@@ -4864,7 +5474,11 @@
       "Water glistens on this egg’s shimmering shell.",
       "水珠在这颗蛋晶莹璀璨的壳上闪闪发光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tercorn_Dragon",
+      "/zh/wiki/%E4%B8%89%E8%A7%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -4884,7 +5498,7 @@
       ]
     }
   },
-  "Terrae": {
+  {
     "breed": [
       "Terrae",
       "土壤龙"
@@ -4893,7 +5507,11 @@
       "This egg is a lush green hue.",
       "这颗蛋有绿意盎然的色调。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Terrae_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -4913,7 +5531,7 @@
       ]
     }
   },
-  "Tetra": {
+  {
     "breed": [
       "Tetra",
       "灯鱼龙"
@@ -4922,7 +5540,11 @@
       "This egg has faint markings.",
       "这颗蛋有著发出微光的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tetra_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Jungle"
@@ -4943,7 +5565,7 @@
       ]
     }
   },
-  "Thunder": {
+  {
     "breed": [
       "Thunder",
       "雷龙"
@@ -4952,7 +5574,11 @@
       "Whenever you go near this egg your hair stands on end.",
       "当你靠近这颗蛋时你的头发根根竖立。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Thunder_Dragon",
+      "/zh/wiki/%E9%9B%B7%E9%BE%8D"
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Desert"
     ],
@@ -4972,7 +5598,7 @@
       ]
     }
   },
-  "Thundersnow": {
+  {
     "breed": [
       "Thundersnow",
       ""
@@ -4981,6 +5607,10 @@
       "Cold lightning arcs out from this egg’s shell if you try to touch it.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Thundersnow_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -5001,7 +5631,7 @@
       ]
     }
   },
-  "Tideweaver": {
+  {
     "breed": [
       "Tideweaver",
       ""
@@ -5010,6 +5640,10 @@
       "This egg has vivid red stripes, reminiscent of waves and flames at once.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Tideweaver_Lindwyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -5030,7 +5664,7 @@
       ]
     }
   },
-  "Tinsel": {
+  {
     "breed": [
       "Tinsel",
       ""
@@ -5039,10 +5673,12 @@
       "This egg is very reflective, almost metallic looking.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Tinsel_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -5059,7 +5695,7 @@
       ]
     }
   },
-  "Tri-Horn Wyvern": {
+  {
     "breed": [
       "Tri-Horn Wyvern",
       "三角翼龙"
@@ -5068,7 +5704,11 @@
       "This brown egg is covered in intricate designs.",
       "这颗棕色的蛋覆盖在错综复杂的纹样下。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tri-Horn_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -5088,7 +5728,7 @@
       ]
     }
   },
-  "Tsunami Wyvern": {
+  {
     "breed": [
       "Tsunami Wyvern",
       "海啸翼龙"
@@ -5097,7 +5737,11 @@
       "This egg is rocking back and forth in a puddle, creating small waves.",
       "这颗蛋在水坑里摇摇晃晃，引起了小小的波澜。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tsunami_Wyvern",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -5117,7 +5761,7 @@
       ]
     }
   },
-  "Turpentine": {
+  {
     "breed": [
       "Turpentine",
       "松节油龙"
@@ -5126,7 +5770,11 @@
       "This egg smells strongly of turpentine.",
       "这颗蛋闻起来有浓烈的松节油气味。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Turpentine_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -5146,7 +5794,7 @@
       ]
     }
   },
-  "Two-Finned Bluna": {
+  {
     "breed": [
       "Two-Finned Bluna",
       "双鳍布鲁纳"
@@ -5155,10 +5803,12 @@
       "This egg has colored speckles on it.",
       "这颗蛋有彩色的斑纹。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Two-Finned_Bluna",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -5175,7 +5825,7 @@
       ]
     }
   },
-  "Ultraviolet": {
+  {
     "breed": [
       "Ultraviolet",
       "紫外光龙"
@@ -5184,10 +5834,12 @@
       "This egg is very warm, as if it has been sitting out in strong sunlight.",
       "这颗蛋非常温暖，仿佛一直位于强烈的阳光下。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Ultraviolet_Dragon",
+      "/zh/wiki/%E7%B4%AB%E5%A4%96%E5%85%89%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -5204,7 +5856,7 @@
       ]
     }
   },
-  "Undine": {
+  {
     "breed": [
       "Undine",
       "温蒂妮龙"
@@ -5213,7 +5865,11 @@
       "There is a thin layer of moisture coating this egg.",
       "这颗蛋被一层薄薄的水膜包裹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Undine_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Forest"
@@ -5234,7 +5890,7 @@
       ]
     }
   },
-  "Vampire": {
+  {
     "breed": [
       "Vampire",
       "吸血龙"
@@ -5243,11 +5899,12 @@
       "This egg is stone cold and smells rotten.",
       "这颗蛋冰冷而且有腐臭味。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat",
-      "[16]"
+    "wiki_path": [
+      "/wiki/Vampire_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -5264,7 +5921,7 @@
       ]
     }
   },
-  "Venturis": {
+  {
     "breed": [
       "Venturis",
       "文丘里斯龙"
@@ -5273,6 +5930,10 @@
       "An aura of serenity surrounds this iridescent egg.",
       "宁静的氛围环绕在这颗虹蛋四周。"
     ],
+    "wiki_path": [
+      "/wiki/Venturis_Dragon",
+      "/zh/wiki/%E6%96%87%E4%B8%98%E9%87%8C%E6%96%AF%E9%BE%8D"
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -5293,7 +5954,7 @@
       ]
     }
   },
-  "Water": {
+  {
     "breed": [
       "Water",
       "水龙"
@@ -5302,7 +5963,11 @@
       "This egg is sitting in a shallow puddle.",
       "这颗蛋位于一个浅浅的水坑中。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Water_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -5322,7 +5987,7 @@
       ]
     }
   },
-  "Water Walker": {
+  {
     "breed": [
       "Water Walker",
       "水行龙"
@@ -5331,7 +5996,11 @@
       "This egg seems to be floating on a puddle.",
       "这颗蛋似乎漂浮在水坑上。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Water_Walker_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Forest",
@@ -5353,16 +6022,20 @@
       ]
     }
   },
-  "Waterhorse": {
+  {
     "breed": [
       "Waterhorse",
-      ""
+      "水马龙"
     ],
     "egg": [
       "This egg is slimy and blue.",
       "这颗蛋又光滑又蓝。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Waterhorse_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -5382,7 +6055,7 @@
       ]
     }
   },
-  "Whiptail": {
+  {
     "breed": [
       "Whiptail",
       "鞭尾龙"
@@ -5391,7 +6064,11 @@
       "This egg shakes from time to time, as if it is eager to hatch.",
       "这颗蛋不时地摇摆，似乎渴望孵化。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Whiptail_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -5411,16 +6088,20 @@
       ]
     }
   },
-  "White": {
+  {
     "breed": [
       "White",
       "白龙"
     ],
     "egg": [
-      "This egg has a very clean look; it's completely devoid of dirt and scratches.",
+      "This egg has a very clean look; it’s completely devoid of dirt and scratches.",
       "这颗蛋看起来非常洁净，没有一点污垢和划痕。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/White_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -5445,7 +6126,7 @@
       ]
     }
   },
-  "Wisteria": {
+  {
     "breed": [
       "Wisteria",
       ""
@@ -5454,6 +6135,10 @@
       "This egg is surrounded by beautiful flowers.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Wisteria_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -5474,14 +6159,18 @@
       ]
     }
   },
-  "Xenowyrm (Aquilo)": {
+  {
     "breed": [
       "Xenowyrm (Aquilo)",
-      ""
+      "海岸"
     ],
     "egg": [
       "Mana courses throughout this glassy egg.",
       "魔力从这玻璃般的蛋散发出来。"
+    ],
+    "wiki_path": [
+      "/wiki/Aquilo_Xenowyrm",
+      "/zh/wiki/Category:%E6%B5%B7%E5%B2%B8"
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -5503,7 +6192,7 @@
       ]
     }
   },
-  "Xenowyrm (Aso)": {
+  {
     "breed": [
       "Xenowyrm (Aso)",
       ""
@@ -5512,6 +6201,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Aso_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -5532,7 +6225,7 @@
       ]
     }
   },
-  "Xenowyrm (Astrapi)": {
+  {
     "breed": [
       "Xenowyrm (Astrapi)",
       ""
@@ -5541,6 +6234,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Astrapi_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine"
@@ -5561,7 +6258,7 @@
       ]
     }
   },
-  "Xenowyrm (Chrono)": {
+  {
     "breed": [
       "Xenowyrm (Chrono)",
       ""
@@ -5570,6 +6267,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Chrono_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -5590,7 +6291,7 @@
       ]
     }
   },
-  "Xenowyrm (Gaia)": {
+  {
     "breed": [
       "Xenowyrm (Gaia)",
       ""
@@ -5599,6 +6300,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Gaia_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Jungle"
@@ -5619,7 +6324,7 @@
       ]
     }
   },
-  "Xenowyrm (Ke'maro)": {
+  {
     "breed": [
       "Xenowyrm (Ke'maro)",
       ""
@@ -5628,6 +6333,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Ke%E2%80%99maro_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -5648,7 +6357,7 @@
       ]
     }
   },
-  "Xenowyrm (Mageia)": {
+  {
     "breed": [
       "Xenowyrm (Mageia)",
       ""
@@ -5657,6 +6366,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Mageia_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert"
@@ -5677,7 +6390,7 @@
       ]
     }
   },
-  "Xenowyrm (Obidar)": {
+  {
     "breed": [
       "Xenowyrm (Obidar)",
       ""
@@ -5686,6 +6399,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Obidar_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest"
@@ -5706,7 +6423,7 @@
       ]
     }
   },
-  "Xenowyrm (Pharos)": {
+  {
     "breed": [
       "Xenowyrm (Pharos)",
       ""
@@ -5715,6 +6432,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pharos_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert"
@@ -5735,7 +6456,7 @@
       ]
     }
   },
-  "Xenowyrm (Pyro)": {
+  {
     "breed": [
       "Xenowyrm (Pyro)",
       ""
@@ -5744,6 +6465,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pyro_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -5764,7 +6489,7 @@
       ]
     }
   },
-  "Xenowyrm (Staterae)": {
+  {
     "breed": [
       "Xenowyrm (Staterae)",
       ""
@@ -5773,6 +6498,10 @@
       "Mana flows like a current through this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Staterae_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -5798,7 +6527,7 @@
       ]
     }
   },
-  "Xenowyrm (Thalassa)": {
+  {
     "breed": [
       "Xenowyrm (Thalassa)",
       ""
@@ -5807,6 +6536,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Thalassa_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Coast"
@@ -5827,7 +6560,7 @@
       ]
     }
   },
-  "Xenowyrm (Umbra)": {
+  {
     "breed": [
       "Xenowyrm (Umbra)",
       ""
@@ -5836,6 +6569,10 @@
       "Mana courses throughout this glassy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Umbra_Xenowyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Jungle"
@@ -5856,14 +6593,18 @@
       ]
     }
   },
-  "Xol": {
+  {
     "breed": [
       "Xol",
-      ""
+      "柯索龙"
     ],
     "egg": [
       "This dull egg feels cozily warm.",
       "这颗色彩不鲜明蛋让人感到舒适温和。"
+    ],
+    "wiki_path": [
+      "/wiki/Xol_Dragon",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -5885,7 +6626,7 @@
       ]
     }
   },
-  "Yellow-Crowned": {
+  {
     "breed": [
       "Yellow-Crowned",
       "黄冠龙"
@@ -5894,7 +6635,11 @@
       "The air shimmers around this egg, as if from heat.",
       "这颗蛋周遭的空气摇晃扭曲，仿佛蜃气楼。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Yellow-Crowned_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -5914,16 +6659,20 @@
       ]
     }
   },
-  "Zyumorph": {
+  {
     "breed": [
       "Zyumorph",
-      ""
+      "赛尔莫夫龙"
     ],
     "egg": [
       "This shiny egg seems to radiate power.",
       "这颗闪亮的蛋似乎正放射出能量。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Zyumorph",
+      "/zh/wiki/%E8%B3%BD%E7%88%BE%E8%8E%AB%E5%A4%AB%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -5943,16 +6692,20 @@
       ]
     }
   },
-  "Baikala": {
+  {
     "breed": [
       "Baikala",
-      ""
+      "贝加尔龙"
     ],
     "egg": [
       "This heavy egg has a soft, yielding shell.",
       "这颗沉重的蛋外壳柔软。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Baikala_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -5972,7 +6725,7 @@
       ]
     }
   },
-  "Bauta": {
+  {
     "breed": [
       "Bauta",
       "假面龙"
@@ -5981,7 +6734,11 @@
       "This egg has raised golden ridges.",
       "这颗蛋上有著金色浮雕般的隆起。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Bauta_Dragon",
+      "/zh/wiki/Bauta_Dragon"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -6001,7 +6758,7 @@
       ]
     }
   },
-  "Blancblack": {
+  {
     "breed": [
       "Blancblack",
       "白黑龙"
@@ -6010,7 +6767,11 @@
       "This egg is dark with light speckles...or maybe it’s light with dark speckles?",
       "这颗深色的蛋上有浅色斑点……还是浅色蛋上有暗色斑点呢？"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Blancblack_Dragon",
+      "/zh/wiki/%E7%99%BD%E9%BB%91%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Forest",
@@ -6032,14 +6793,18 @@
       ]
     }
   },
-  "Ciriax Lindwyrm": {
+  {
     "breed": [
       "Ciriax Lindwyrm",
-      ""
+      "双头鳞龙"
     ],
     "egg": [
       "This opalescent egg shimmers in the moonlight.",
       "这种发着乳白色光的蛋在月光下闪闪发光。"
+    ],
+    "wiki_path": [
+      "/wiki/Ciriax_Lindwyrm",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -6061,7 +6826,7 @@
       ]
     }
   },
-  "Duotone": {
+  {
     "breed": [
       "Duotone",
       "双色龙"
@@ -6070,7 +6835,11 @@
       "This egg can’t seem to make up its mind what color it is.",
       ""
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Duotone_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -6095,7 +6864,7 @@
       ]
     }
   },
-  "Geminae": {
+  {
     "breed": [
       "Geminae",
       "双子龙"
@@ -6104,7 +6873,11 @@
       "This shiny egg gives you a headache when you get close.",
       "你靠近这颗发著光的蛋就头痛。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Geminae_Dragon",
+      "/zh/wiki/%E9%9B%99%E5%AD%90%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -6124,7 +6897,7 @@
       ]
     }
   },
-  "Ghanser": {
+  {
     "breed": [
       "Ghanser",
       ""
@@ -6133,6 +6906,10 @@
       "This egg has spots that glow brightly when touched.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Ghanser_Dragon",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Forest",
@@ -6154,7 +6931,7 @@
       ]
     }
   },
-  "Gilded Bloodscale": {
+  {
     "breed": [
       "Gilded Bloodscale",
       "镀金血鳞龙"
@@ -6163,7 +6940,11 @@
       "This egg glitters oddly in the light.",
       "这颗蛋在光下奇异地闪烁。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Gilded_Bloodscale_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -6183,7 +6964,7 @@
       ]
     }
   },
-  "Hooktalon": {
+  {
     "breed": [
       "Hooktalon",
       "勾爪龙"
@@ -6192,7 +6973,11 @@
       "The surface of this egg is rough and sharp.",
       "蛋的表面又粗糙又尖锐。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Hooktalon_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -6212,7 +6997,7 @@
       ]
     }
   },
-  "Jester": {
+  {
     "breed": [
       "Jester",
       ""
@@ -6221,10 +7006,12 @@
       "This egg has a checkered shell.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Jester_Dragon",
+      ""
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -6241,7 +7028,7 @@
       ]
     }
   },
-  "Magnesium Amphiptere": {
+  {
     "breed": [
       "Magnesium Amphiptere",
       ""
@@ -6250,6 +7037,10 @@
       "This shiny grey egg smells of burnt metal.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Magnesium_Amphiptere",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert",
@@ -6271,7 +7062,7 @@
       ]
     }
   },
-  "Nexus": {
+  {
     "breed": [
       "Nexus",
       "连龙"
@@ -6280,7 +7071,11 @@
       "This dense, crystalline egg seems dangerously unstable.",
       "这颗高密度、如结晶般的蛋看起来极为不稳定。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Nexus_Dragon",
+      "/zh/wiki/%E9%80%A3%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Volcano"
@@ -6301,7 +7096,7 @@
       ]
     }
   },
-  "Scourgekeeper": {
+  {
     "breed": [
       "Scourgekeeper",
       ""
@@ -6310,10 +7105,12 @@
       "You feel a clawing dread the closer you get to this egg.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Scourgekeeper_Dragon",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -6330,7 +7127,7 @@
       ]
     }
   },
-  "Split": {
+  {
     "breed": [
       "Split",
       "分龙"
@@ -6339,7 +7136,11 @@
       "This egg is split down the middle into two colors.",
       "这颗蛋从中间分成两个颜色。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Split_Dragon",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -6364,7 +7165,7 @@
       ]
     }
   },
-  "Temple Wyrm": {
+  {
     "breed": [
       "Temple Wyrm",
       ""
@@ -6373,6 +7174,10 @@
       "This egg has a winding pattern on it.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Temple_Wyrm",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert",
@@ -6394,7 +7199,7 @@
       ]
     }
   },
-  "Avea Pygmy": {
+  {
     "breed": [
       "Avea Pygmy",
       "阿维亚侏儒龙"
@@ -6403,15 +7208,18 @@
       "This tiny egg is rather light.",
       "这个小蛋很轻。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Avea_Pygmy",
+      "/zh/wiki/%E9%98%BF%E7%B6%AD%E4%BA%9E%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
       "Desert",
       "Forest",
       "Jungle",
-      "Volcano",
-      "[8]"
+      "Volcano"
     ],
     "bsa": "未知种族特性技能",
     "elemental": [
@@ -6429,7 +7237,7 @@
       ]
     }
   },
-  "Avin Pygmy": {
+  {
     "breed": [
       "Avin Pygmy",
       ""
@@ -6438,6 +7246,10 @@
       "This tiny white egg shakes sometimes.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Avin_Pygmy",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -6463,16 +7275,20 @@
       ]
     }
   },
-  "Common Pygmy": {
+  {
     "breed": [
       "Common Pygmy",
-      ""
+      "侏儒龙"
     ],
     "egg": [
-      "This egg is so tiny you almost didn't see it.",
+      "This egg is so tiny you almost didn’t see it.",
       "这颗蛋太小了以至于你几乎没有看到它。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Common_Pygmy",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Forest",
@@ -6494,7 +7310,7 @@
       ]
     }
   },
-  "Coral Pygmy Wyvern": {
+  {
     "breed": [
       "Coral Pygmy Wyvern",
       "珊瑚侏儒翼龙"
@@ -6503,7 +7319,11 @@
       "This tiny egg is striped and feels coarse.",
       "这颗有条纹的小蛋感觉很粗糙。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Coral_Pygmy_Wyvern",
+      "/zh/wiki/%E7%8F%8A%E7%91%9A%E4%BE%8F%E5%84%92%E7%BF%BC%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -6523,7 +7343,7 @@
       ]
     }
   },
-  "Crimson Flare Pygmy": {
+  {
     "breed": [
       "Crimson Flare Pygmy",
       "红火侏儒龙"
@@ -6532,7 +7352,11 @@
       "This egg is tiny and brightly colored.",
       "这颗蛋很小并有明亮的颜色。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Crimson_Flare_Pygmy",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Volcano"
     ],
@@ -6552,7 +7376,7 @@
       ]
     }
   },
-  "Dusk Pygmy": {
+  {
     "breed": [
       "Dusk Pygmy",
       "薄暮侏儒龙"
@@ -6561,10 +7385,12 @@
       "This tiny egg is cold to the touch.",
       "这颗娇小的蛋触手冰凉。"
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Dusk_Pygmy",
+      "/zh/wiki/%E8%96%84%E6%9A%AE%E4%BE%8F%E5%84%92%E9%BE%8D"
     ],
+    "rarity": "SuperRare",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -6581,7 +7407,7 @@
       ]
     }
   },
-  "Furor Pygmy": {
+  {
     "breed": [
       "Furor Pygmy",
       ""
@@ -6590,6 +7416,10 @@
       "Grabbing this tiny egg makes you feel reckless.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Furor_Pygmy",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert"
@@ -6610,7 +7440,7 @@
       ]
     }
   },
-  "Glowback Pygmy": {
+  {
     "breed": [
       "Glowback Pygmy",
       "曜背侏儒龙"
@@ -6619,7 +7449,11 @@
       "This tiny egg gives off a colorful glow.",
       "这颗小蛋闪著彩光。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Glowback_Pygmy",
+      "/zh/wiki/%E6%9B%9C%E8%83%8C%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -6640,7 +7474,7 @@
       ]
     }
   },
-  "Kovos Pygmy": {
+  {
     "breed": [
       "Kovos Pygmy",
       "克伏弑侏儒龙"
@@ -6649,7 +7483,11 @@
       "This tiny, dark egg fills you with existential dread.",
       "这颗深色小蛋使你充满畏惧。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Kovos_Pygmy",
+      "/zh/wiki/%E5%85%8B%E4%BC%8F%E5%BC%92%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -6669,7 +7507,7 @@
       ]
     }
   },
-  "Kyanite Pygmy": {
+  {
     "breed": [
       "Kyanite Pygmy",
       "蓝晶石侏儒龙"
@@ -6678,7 +7516,11 @@
       "This tiny cobalt egg has a crystalline sheen.",
       "这颗钴蓝色的小蛋有著结晶的光泽。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Kyanite_Pygmy",
+      "/zh/wiki/%E8%97%8D%E6%99%B6%E7%9F%B3%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -6703,16 +7545,20 @@
       ]
     }
   },
-  "Magelight Pygmy": {
+  {
     "breed": [
       "Magelight Pygmy",
-      ""
+      "魔光侏儒龙"
     ],
     "egg": [
       "This small egg is engulfed in a cool, purple flame.",
       "这枚小蛋被包裹在清凉的紫色火焰中。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Magelight_Pygmy",
+      "/zh/wiki/%E9%AD%94%E5%85%89%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -6732,16 +7578,20 @@
       ]
     }
   },
-  "Mariner Pygmy": {
+  {
     "breed": [
       "Mariner Pygmy",
-      ""
+      "水手侏儒龙"
     ],
     "egg": [
       "This tiny egg smells like the sea.",
       "这颗小蛋闻起来像是大海。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Mariner_Pygmy",
+      "/zh/wiki/%E6%B0%B4%E6%89%8B%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -6761,7 +7611,7 @@
       ]
     }
   },
-  "Mimic Pygmy": {
+  {
     "breed": [
       "Mimic Pygmy",
       "模仿侏儒龙"
@@ -6770,7 +7620,11 @@
       "This tiny glowing egg tempts you to follow its light.",
       "这颗发光的小蛋诱使你跟著光线走。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Mimic_Pygmy",
+      "/zh/wiki/%E6%A8%A1%E4%BB%BF%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -6791,7 +7645,7 @@
       ]
     }
   },
-  "Misfit Pygmy": {
+  {
     "breed": [
       "Misfit Pygmy",
       "捣蛋侏儒龙"
@@ -6800,7 +7654,11 @@
       "This tiny egg has crazy swirls on it.",
       "这颗小蛋上有繁复的漩涡纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Misfit_Pygmy",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -6820,14 +7678,18 @@
       ]
     }
   },
-  "Mistlet Pygmy": {
+  {
     "breed": [
       "Mistlet Pygmy",
-      ""
+      "黑雾侏儒龙"
     ],
     "egg": [
       "This tiny egg is mysterious and dark.",
       "这颗小蛋神秘而黑暗。"
+    ],
+    "wiki_path": [
+      "/wiki/Mistlet_Pygmy",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -6850,7 +7712,7 @@
       ]
     }
   },
-  "Nilia Pygmy": {
+  {
     "breed": [
       "Nilia Pygmy",
       "妮莉亚侏儒龙"
@@ -6859,7 +7721,11 @@
       "This tiny egg is heavier than you expected.",
       "这颗小小的蛋比你预期的要重。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Nilia_Pygmy",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine"
     ],
@@ -6879,7 +7745,7 @@
       ]
     }
   },
-  "Pargulus Pygmy": {
+  {
     "breed": [
       "Pargulus Pygmy",
       ""
@@ -6888,6 +7754,10 @@
       "This tiny egg resembles a seed.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pargulus_Pygmy",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -6895,8 +7765,7 @@
       "Desert",
       "Forest",
       "Jungle",
-      "Volcano",
-      "[18]"
+      "Volcano"
     ],
     "bsa": "未知种族特性技能",
     "elemental": [
@@ -6914,7 +7783,7 @@
       ]
     }
   },
-  "Pipio Pygmy": {
+  {
     "breed": [
       "Pipio Pygmy",
       "咕啾侏儒龙"
@@ -6923,7 +7792,11 @@
       "This little egg is soft with a few feathers stuck to it.",
       "这颗轻柔的蛋上黏了些羽毛。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Pipio_Pygmy",
+      "/zh/wiki/%E5%92%95%E5%95%BE%E4%BE%8F%E5%84%92%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Alpine",
       "Coast",
@@ -6948,16 +7821,20 @@
       ]
     }
   },
-  "Red-Tailed Wyrm Pygmy": {
+  {
     "breed": [
       "Red-Tailed Wyrm Pygmy",
-      ""
+      "红尾长龙"
     ],
     "egg": [
       "This tiny egg has a bold red streak on it.",
       "这颗小蛋上面有道醒目的红色凸起。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Red-Tailed_Wyrm_Pygmy",
+      "/zh/wiki/%E7%B4%85%E5%B0%BE%E9%95%B7%E9%BE%8D"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert",
       "Forest",
@@ -6979,7 +7856,7 @@
       ]
     }
   },
-  "Scymrian Pygmy": {
+  {
     "breed": [
       "Scymrian Pygmy",
       ""
@@ -6988,6 +7865,10 @@
       "This tiny egg flashes in the sunlight.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Scymrian_Pygmy",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Alpine",
@@ -7013,7 +7894,7 @@
       ]
     }
   },
-  "Seawyrm Pygmy": {
+  {
     "breed": [
       "Seawyrm Pygmy",
       "侏儒海龙"
@@ -7022,7 +7903,11 @@
       "This tiny egg shines like a pearl.",
       "这颗小蛋有珍珠的光泽。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Seawyrm_Pygmy",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -7042,7 +7927,7 @@
       ]
     }
   },
-  "Glaucus Drake": {
+  {
     "breed": [
       "Glaucus Drake",
       "海神德雷克"
@@ -7051,7 +7936,11 @@
       "This striped egg feels moist.",
       "这颗条纹蛋感觉很潮湿。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Glaucus_Drake",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast"
     ],
@@ -7071,7 +7960,7 @@
       ]
     }
   },
-  "Greater Spotted Drake": {
+  {
     "breed": [
       "Greater Spotted Drake",
       "大斑德雷克"
@@ -7080,7 +7969,11 @@
       "This egg is speckled with rosette-like markings.",
       "这颗蛋布满了玫瑰花纹般的班点。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Greater_Spotted_Drake",
+      "/zh/wiki/%E5%A4%A7%E6%96%91%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -7100,7 +7993,7 @@
       ]
     }
   },
-  "Honey Drake": {
+  {
     "breed": [
       "Honey Drake",
       "蜂蜜德雷克"
@@ -7109,7 +8002,11 @@
       "This egg is covered in tiny golden scales.",
       "这颗蛋布满小小的黄金麟片。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Honey_Drake",
+      "/zh/wiki/%E8%9C%82%E8%9C%9C%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Coast",
       "Forest",
@@ -7131,7 +8028,7 @@
       ]
     }
   },
-  "Howler Drake": {
+  {
     "breed": [
       "Howler Drake",
       "咆啸德雷克"
@@ -7140,7 +8037,11 @@
       "You hear strange noises coming from inside this egg.",
       "你听到奇怪的声音从这颗蛋里传出。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Howler_Drake",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -7160,14 +8061,18 @@
       ]
     }
   },
-  "Moonglow Drake": {
+  {
     "breed": [
       "Moonglow Drake",
-      ""
+      "夜耀德雷克"
     ],
     "egg": [
       "This egg displays the colors of both dawn and dusk.",
       "这颗蛋呈现出昼与夜的颜色。"
+    ],
+    "wiki_path": [
+      "/wiki/Moonglow_Drake",
+      ""
     ],
     "rarity": "未知稀有度",
     "habitat": [
@@ -7189,7 +8094,7 @@
       ]
     }
   },
-  "Morphodrake": {
+  {
     "breed": [
       "Morphodrake",
       "闪蝶德雷克"
@@ -7198,7 +8103,11 @@
       "A few bright markings decorate this egg’s shell.",
       "有些亮眼的斑点装饰了这颗蛋的壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Morphodrake",
+      "/zh/wiki/%E9%96%83%E8%9D%B6%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Jungle"
     ],
@@ -7218,7 +8127,7 @@
       ]
     }
   },
-  "Ochredrake": {
+  {
     "breed": [
       "Ochredrake",
       "赭黄德雷克"
@@ -7227,7 +8136,11 @@
       "This egg has strange markings on it.",
       "这颗蛋上有奇怪的花纹。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Ochredrake",
+      ""
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -7247,7 +8160,7 @@
       ]
     }
   },
-  "Pseudo-wyvern Drake": {
+  {
     "breed": [
       "Pseudo-wyvern Drake",
       ""
@@ -7256,6 +8169,10 @@
       "It almost looks like there are claw marks on this egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pseudo-wyvern_Drake",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Desert"
@@ -7276,7 +8193,7 @@
       ]
     }
   },
-  "Sabertooth Bull Drake": {
+  {
     "breed": [
       "Sabertooth Bull Drake",
       ""
@@ -7285,6 +8202,10 @@
       "This striped egg is surprisingly heavy.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Sabertooth_Bull_Drake",
+      ""
+    ],
     "rarity": "未知稀有度",
     "habitat": [
       "Volcano"
@@ -7305,7 +8226,7 @@
       ]
     }
   },
-  "Spotted Teal Drake": {
+  {
     "breed": [
       "Spotted Teal Drake",
       ""
@@ -7314,10 +8235,12 @@
       "You almost didn’t see this egg among the plants.",
       ""
     ],
-    "rarity": "未知稀有度",
-    "habitat": [
-      "No habitat"
+    "wiki_path": [
+      "/wiki/Spotted_Teal_Drake",
+      ""
     ],
+    "rarity": "未知稀有度",
+    "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
       "主要元素亲和力",
@@ -7334,13 +8257,17 @@
       ]
     }
   },
-  "Sunbeam Drake": {
+  {
     "breed": [
       "Sunbeam Drake",
       ""
     ],
     "egg": [
       "This egg displays the colors of both dawn and dusk.",
+      ""
+    ],
+    "wiki_path": [
+      "/wiki/Sunbeam_Drake",
       ""
     ],
     "rarity": "未知稀有度",
@@ -7363,7 +8290,7 @@
       ]
     }
   },
-  "Tarantula Hawk Drake": {
+  {
     "breed": [
       "Tarantula Hawk Drake",
       "沙漠蛛蜂德雷克"
@@ -7372,7 +8299,11 @@
       "A delicate web-like pattern decorates this egg’s shell.",
       "精致的网状图案妆点了这颗蛋的壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tarantula_Hawk_Drake",
+      "/zh/wiki/%E6%B2%99%E6%BC%A0%E8%9B%9B%E8%9C%82%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Desert"
     ],
@@ -7392,7 +8323,7 @@
       ]
     }
   },
-  "Tatterdrake": {
+  {
     "breed": [
       "Tatterdrake",
       "碎裂德雷克"
@@ -7401,7 +8332,11 @@
       "This egg has a rough shell.",
       "这颗蛋有著粗糙的壳。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Tatterdrake",
+      "/zh/wiki/%E7%A2%8E%E8%A3%82%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest",
       "Jungle"
@@ -7422,16 +8357,20 @@
       ]
     }
   },
-  "Vremya Drake": {
+  {
     "breed": [
       "Vremya Drake",
-      ""
+      "时间德雷克"
     ],
     "egg": [
       "This smooth green egg looks vaguely familiar.",
       "这颗平滑的绿蛋似曾相识。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Vremya_Drake",
+      "/zh/wiki/%E6%99%82%E9%96%93%E5%BE%B7%E9%9B%B7%E5%85%8B"
+    ],
+    "rarity": "Normal",
     "habitat": [
       "Forest"
     ],
@@ -7451,16 +8390,20 @@
       ]
     }
   },
-  "Blue Dino": {
+  {
     "breed": [
       "Blue Dino",
       "蓝恐龙"
     ],
     "egg": [
-      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+      "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much lighter than the other eggs.",
       "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Blue_Dino",
+      ""
+    ],
+    "rarity": "Other",
     "habitat": [
       "Jungle"
     ],
@@ -7480,7 +8423,7 @@
       ]
     }
   },
-  "Cheese": {
+  {
     "breed": [
       "Cheese",
       "起司龙"
@@ -7489,7 +8432,11 @@
       "This egg is soft and smells uncannily like cheese.",
       "这颗蛋是柔软的而且气味与乳酪惊人地相似。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Cheese_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Coast",
@@ -7514,16 +8461,20 @@
       ]
     }
   },
-  "Chicken": {
+  {
     "breed": [
       "Chicken",
-      ""
+      "鸡"
     ],
     "egg": [
       "This egg is much smaller than the others.",
       "这颗蛋比其他的更小。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Chicken",
+      "/zh/wiki/%E9%9B%9E"
+    ],
+    "rarity": "Other",
     "habitat": [
       "Alpine",
       "Coast",
@@ -7548,16 +8499,20 @@
       ]
     }
   },
-  "Green Dino": {
+  {
     "breed": [
       "Green Dino",
       "绿恐龙"
     ],
     "egg": [
-      "This egg looks like it doesn't belong; it is brightly colored with white spots.",
+      "This egg looks like it doesn’t belong; it is brightly colored with white spots.",
       "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Green_Dino",
+      ""
+    ],
+    "rarity": "Other",
     "habitat": [
       "Jungle"
     ],
@@ -7577,7 +8532,7 @@
       ]
     }
   },
-  "Paper": {
+  {
     "breed": [
       "Paper",
       "纸龙"
@@ -7586,7 +8541,11 @@
       "This egg is tiny and made out of several pieces of paper folded together.",
       "这颗蛋很小，由几张纸叠在一起。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Paper_Dragon",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [
       "Alpine",
       "Coast",
@@ -7611,16 +8570,20 @@
       ]
     }
   },
-  "Purple Dino": {
+  {
     "breed": [
       "Purple Dino",
       "紫恐龙"
     ],
     "egg": [
-      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+      "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much lighter than the other eggs.",
       "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Purple_Dino",
+      ""
+    ],
+    "rarity": "Other",
     "habitat": [
       "Jungle"
     ],
@@ -7640,16 +8603,20 @@
       ]
     }
   },
-  "Red Dino": {
+  {
     "breed": [
       "Red Dino",
       "红恐龙"
     ],
     "egg": [
-      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much warmer than the rest of the eggs.",
+      "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.",
       "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其馀的蛋暖和很多。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Red_Dino",
+      ""
+    ],
+    "rarity": "Other",
     "habitat": [
       "Jungle"
     ],
@@ -7669,16 +8636,20 @@
       ]
     }
   },
-  "Yellow Dino": {
+  {
     "breed": [
       "Yellow Dino",
       "黄恐龙"
     ],
     "egg": [
-      "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much heavier than the other eggs.",
+      "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.",
       "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其他的蛋重很多。"
     ],
-    "rarity": "未知稀有度",
+    "wiki_path": [
+      "/wiki/Yellow_Dino",
+      ""
+    ],
+    "rarity": "Other",
     "habitat": [
       "Jungle"
     ],
@@ -7698,14 +8669,18 @@
       ]
     }
   },
-  "Valentine Dragon": {
+  {
     "breed": [
       "Valentine Dragon",
-      ""
+      "瓦伦泰龙"
     ],
     "egg": [
       "This egg is speckled and very fragile.",
       "这颗附着着斑点的蛋非常脆弱。"
+    ],
+    "wiki_path": [
+      "/wiki/Valentine_Dragon",
+      ""
     ],
     "rarity": "Holiday",
     "habitat": [],
@@ -7725,7 +8700,7 @@
       ]
     }
   },
-  "Sweetling": {
+  {
     "breed": [
       "Sweetling",
       "甜心龙"
@@ -7734,7 +8709,11 @@
       "This egg looks delicate and sweet.",
       "这颗蛋看起来精致而甜美。"
     ],
-    "rarity": "Holiday",
+    "wiki_path": [
+      "/wiki/Sweetling",
+      ""
+    ],
+    "rarity": "SuperRare",
     "habitat": [],
     "bsa": "未知种族特性技能",
     "elemental": [
@@ -7752,15 +8731,19 @@
       ]
     }
   },
-  "Rosebud Dragon": {
+  {
     "breed": [
       "Rosebud Dragon",
-      ""
+      "玫瑰花蕾龙"
     ],
     "egg": [
       "This sweet smelling egg is covered by a ribbon.",
       "这颗甜蜜的蛋系着一根丝带。"
     ],
+    "wiki_path": [
+      "/wiki/Rosebud_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7779,15 +8762,19 @@
       ]
     }
   },
-  "Heartseeker Dragon": {
+  {
     "breed": [
       "Heartseeker Dragon",
-      ""
+      "觅心龙"
     ],
     "egg": [
       "This scarlet egg has a faintly sweet aroma.",
       "这深红色的蛋有淡淡的甜香。"
     ],
+    "wiki_path": [
+      "/wiki/Heartseeker_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7806,15 +8793,19 @@
       ]
     }
   },
-  "Arsani Dragon": {
+  {
     "breed": [
       "Arsani Dragon",
-      ""
+      "阿莎妮龙"
     ],
     "egg": [
       "This egg is a deep pink.",
       "这颗蛋是深粉色的。"
     ],
+    "wiki_path": [
+      "/wiki/Arsani_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7833,15 +8824,19 @@
       ]
     }
   },
-  "Radiant Angel Dragon": {
+  {
     "breed": [
       "Radiant Angel Dragon",
-      ""
+      "辉煌天使龙"
     ],
     "egg": [
       "This radiant white egg has red and gold swirls on it.",
       "这颗发光的白色蛋上有红色与金色的涡形。"
     ],
+    "wiki_path": [
+      "/wiki/Radiant_Angel_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7860,15 +8855,19 @@
       ]
     }
   },
-  "Heartstealing Dragon": {
+  {
     "breed": [
       "Heartstealing Dragon",
-      ""
+      "偷心龙"
     ],
     "egg": [
       "This egg is so shiny it makes you want to take it.",
       "这颗富有光泽的蛋令你忍不住想要将它据为己有。"
     ],
+    "wiki_path": [
+      "/wiki/Heartstealing_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7887,15 +8886,19 @@
       ]
     }
   },
-  "Mutamore Dragon": {
+  {
     "breed": [
       "Mutamore Dragon",
-      ""
+      "穆塔莫龙"
     ],
     "egg": [
       "This lovely egg has rolled off to the side.",
       "这颗可爱的蛋滚到一边去了。"
     ],
+    "wiki_path": [
+      "/wiki/Mutamore_Dragon",
+      "/zh/wiki/%E7%A9%86%E5%A1%94%E8%8E%AB%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7914,15 +8917,19 @@
       ]
     }
   },
-  "Soulstone Dragon": {
+  {
     "breed": [
       "Soulstone Dragon",
-      ""
+      "灵魂石龙"
     ],
     "egg": [
       "This deep purple egg shimmers like a pearl.",
       "这颗深紫色的蛋如珍珠般闪烁著。"
     ],
+    "wiki_path": [
+      "/wiki/Soulstone_Dragon",
+      "/zh/wiki/%E9%9D%88%E9%AD%82%E7%9F%B3%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7941,15 +8948,19 @@
       ]
     }
   },
-  "Floral-Crowned Dragon": {
+  {
     "breed": [
       "Floral-Crowned Dragon",
-      ""
+      "花冠龙"
     ],
     "egg": [
       "This egg has a sweet, floral scent.",
       "这颗蛋散发著甜美的花香。"
     ],
+    "wiki_path": [
+      "/wiki/Floral-Crowned_Dragon",
+      "/zh/wiki/%E8%8A%B1%E5%86%A0%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7968,7 +8979,7 @@
       ]
     }
   },
-  "Sakuhana Wyvern": {
+  {
     "breed": [
       "Sakuhana Wyvern",
       "花绽双足翼龙"
@@ -7977,6 +8988,10 @@
       "This warm egg is surrounded by plants.",
       "这颗温暖的蛋被植物环绕著。"
     ],
+    "wiki_path": [
+      "/wiki/Sakuhana_Wyvern",
+      "/zh/wiki/%E8%8A%B1%E7%B6%BB%E9%9B%99%E8%B6%B3%E7%BF%BC%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -7995,7 +9010,7 @@
       ]
     }
   },
-  "Erador Lindwyrm": {
+  {
     "breed": [
       "Erador Lindwyrm",
       "爱拉托麟龙"
@@ -8004,6 +9019,10 @@
       "This regal egg feels oddly light.",
       "这颗华丽的蛋轻得令人难以置信。"
     ],
+    "wiki_path": [
+      "/wiki/Erador_Lindwyrm",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8022,7 +9041,7 @@
       ]
     }
   },
-  "Amarignis Dragon": {
+  {
     "breed": [
       "Amarignis Dragon",
       ""
@@ -8031,6 +9050,10 @@
       "Dim flames spark up from this egg whenever joy sparks up in you.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Amarignis_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8049,7 +9072,7 @@
       ]
     }
   },
-  "Vermeil Dragon": {
+  {
     "breed": [
       "Vermeil Dragon",
       ""
@@ -8058,6 +9081,10 @@
       "This egg smells pleasantly floral, maybe fruity.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Vermeil_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8076,7 +9103,7 @@
       ]
     }
   },
-  "Vampire Dragon": {
+  {
     "breed": [
       "Vampire Dragon",
       ""
@@ -8085,6 +9112,10 @@
       "This egg is stone cold and smells rotten.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Vampire_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8103,15 +9134,19 @@
       ]
     }
   },
-  "Pumpkin Dragon": {
+  {
     "breed": [
       "Pumpkin Dragon",
-      ""
+      "南瓜龙"
     ],
     "egg": [
       "This egg smells like the autumn harvest.",
       "这颗蛋闻起来有丰收的味道。"
     ],
+    "wiki_path": [
+      "/wiki/Pumpkin_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8130,7 +9165,7 @@
       ]
     }
   },
-  "Black Marrow": {
+  {
     "breed": [
       "Black Marrow",
       "黑髓龙"
@@ -8139,6 +9174,10 @@
       "This egg is covered in a dark crust.",
       "这颗蛋被黑暗的外壳覆盖。"
     ],
+    "wiki_path": [
+      "/wiki/Black_Marrow",
+      "/zh/wiki/%E9%BB%91%E9%AB%93%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8157,7 +9196,7 @@
       ]
     }
   },
-  "Shadow Walker": {
+  {
     "breed": [
       "Shadow Walker",
       "影行龙"
@@ -8166,6 +9205,10 @@
       "This egg fades into the shadows.",
       "这颗蛋湮没在阴影中。"
     ],
+    "wiki_path": [
+      "/wiki/Shadow_Walker",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8184,15 +9227,19 @@
       ]
     }
   },
-  "Cavern Lurker Dragon": {
+  {
     "breed": [
       "Cavern Lurker Dragon",
-      ""
+      "蛰窟龙"
     ],
     "egg": [
       "This egg is wedged in a dark corner.",
       "这颗蛋楔在一个黑暗的角落里。"
     ],
+    "wiki_path": [
+      "/wiki/Cavern_Lurker_Dragon",
+      "/zh/wiki/%E8%9F%84%E7%AA%9F%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8211,15 +9258,19 @@
       ]
     }
   },
-  "Grave Dragon": {
+  {
     "breed": [
       "Grave Dragon",
-      ""
+      "墓穴龙"
     ],
     "egg": [
       "This egg appears to have an evil grin.",
       "这颗蛋似乎露出了邪恶的笑容。"
     ],
+    "wiki_path": [
+      "/wiki/Grave_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8238,15 +9289,19 @@
       ]
     }
   },
-  "Desipis Dragon": {
+  {
     "breed": [
       "Desipis Dragon",
-      ""
+      "德西比斯龙"
     ],
     "egg": [
       "Being near this egg makes it hard to think clearly.",
       "一靠近这颗蛋就让人思绪紊乱。"
     ],
+    "wiki_path": [
+      "/wiki/Desipis_Dragon",
+      "/zh/wiki/%E5%BE%B7%E8%A5%BF%E6%AF%94%E6%96%AF%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8265,15 +9320,19 @@
       ]
     }
   },
-  "Caligene Dragon": {
+  {
     "breed": [
       "Caligene Dragon",
-      ""
+      "暗龙"
     ],
     "egg": [
       "The pattern on this egg’s shell is unsettling.",
       "这颗蛋上的花纹令人不安…"
     ],
+    "wiki_path": [
+      "/wiki/Caligene_Dragon",
+      "/zh/wiki/%E9%97%87%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8292,15 +9351,19 @@
       ]
     }
   },
-  "Witchlight Dragon": {
+  {
     "breed": [
       "Witchlight Dragon",
-      ""
+      "魔光龙"
     ],
     "egg": [
       "This downy egg is hidden in brambles.",
       "这颗毛茸茸的蛋藏在荆棘里。"
     ],
+    "wiki_path": [
+      "/wiki/Witchlight_Dragon",
+      "/zh/wiki/%E9%AD%94%E5%85%89%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8319,7 +9382,7 @@
       ]
     }
   },
-  "Omen Wyrm": {
+  {
     "breed": [
       "Omen Wyrm",
       "恶兆龙"
@@ -8328,6 +9391,10 @@
       "This warm egg is tangled in the roots of a dead tree.",
       "这颗温暖的蛋被枯木的树根裹著。"
     ],
+    "wiki_path": [
+      "/wiki/Omen_Wyrm",
+      "/zh/wiki/%E6%83%A1%E5%85%86%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8346,15 +9413,19 @@
       ]
     }
   },
-  "Arcana Dragon": {
+  {
     "breed": [
       "Arcana Dragon",
-      ""
+      "阿尔克那龙"
     ],
     "egg": [
       "This egg has reflective spots that remind you of gems, or eyes.",
       "这蛋上会反光的斑点使你想到了钻石，或眼睛。"
     ],
+    "wiki_path": [
+      "/wiki/Arcana_Dragon",
+      "/zh/wiki/%E9%98%BF%E7%88%BE%E5%85%8B%E9%82%A3%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8373,15 +9444,19 @@
       ]
     }
   },
-  "Kohraki Dragon": {
+  {
     "breed": [
       "Kohraki Dragon",
-      ""
+      "柯拉奇龙"
     ],
     "egg": [
       "A fine mist rolls over this cool, scaly egg.",
       "浓密的厚雾包裹著这颗冰冷可怖的蛋。"
     ],
+    "wiki_path": [
+      "/wiki/Kohraki_Dragon",
+      "/zh/wiki/%E6%9F%AF%E6%8B%89%E5%A5%87%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8400,7 +9475,7 @@
       ]
     }
   },
-  "Pitfire Dragon": {
+  {
     "breed": [
       "Pitfire Dragon",
       ""
@@ -8409,6 +9484,10 @@
       "Dead leaves obscure this egg’s scratched shell.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Pitfire_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8427,7 +9506,7 @@
       ]
     }
   },
-  "Iridichi Dragon": {
+  {
     "breed": [
       "Iridichi Dragon",
       ""
@@ -8436,6 +9515,10 @@
       "Your eyes struggle to completely focus on the light coming through this cloudy egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Iridichi_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8454,15 +9537,19 @@
       ]
     }
   },
-  "Holly Dragon": {
+  {
     "breed": [
       "Holly Dragon",
-      ""
+      "冬青龙"
     ],
     "egg": [
       "This egg has a holly leaf stuck to it.",
       "这颗蛋上卡着一片冬青叶。"
     ],
+    "wiki_path": [
+      "/wiki/Holly_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8481,7 +9568,7 @@
       ]
     }
   },
-  "Yulebuck": {
+  {
     "breed": [
       "Yulebuck",
       "圣诞鹿龙"
@@ -8490,6 +9577,10 @@
       "This egg is covered with bright, festive stripes.",
       "这颗蛋有着明亮的节日花纹。"
     ],
+    "wiki_path": [
+      "/wiki/Yulebuck",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8508,7 +9599,7 @@
       ]
     }
   },
-  "Snow Angel": {
+  {
     "breed": [
       "Snow Angel",
       "雪天使龙"
@@ -8517,6 +9608,10 @@
       "This egg fills you with holiday cheer.",
       "这颗蛋使你充满节日的喜乐。"
     ],
+    "wiki_path": [
+      "/wiki/Snow_Angel",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8535,7 +9630,7 @@
       ]
     }
   },
-  "Ribbon Dancer": {
+  {
     "breed": [
       "Ribbon Dancer",
       "缎带舞者龙"
@@ -8544,6 +9639,10 @@
       "This egg shines like a holiday ribbon.",
       "这颗蛋耀眼得像是节日彩带。"
     ],
+    "wiki_path": [
+      "/wiki/Ribbon_Dancer",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8562,15 +9661,19 @@
       ]
     }
   },
-  "Blizzard Wizard": {
+  {
     "breed": [
       "Blizzard Wizard",
-      ""
+      "冬贤龙"
     ],
     "egg": [
       "This colorful egg is covered by a light layer of snow.",
       "这颗五彩缤纷的蛋被一层薄雪覆盖着。"
     ],
+    "wiki_path": [
+      "/wiki/Blizzard_Wizard",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8589,7 +9692,7 @@
       ]
     }
   },
-  "Wrapping-Wing": {
+  {
     "breed": [
       "Wrapping-Wing",
       "彩纸龙"
@@ -8598,6 +9701,10 @@
       "This egg has a rich, shiny pattern on it.",
       "这颗蛋有个丰富、闪亮的花样。"
     ],
+    "wiki_path": [
+      "/wiki/Wrapping-Wing",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8616,15 +9723,19 @@
       ]
     }
   },
-  "Solstice Dragon": {
+  {
     "breed": [
       "Solstice Dragon",
-      ""
+      "冬至龙"
     ],
     "egg": [
       "This egg emits a soft, heartwarming glow.",
       "这颗蛋会发出柔和、温馨的光芒。"
     ],
+    "wiki_path": [
+      "/wiki/Solstice_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8643,15 +9754,19 @@
       ]
     }
   },
-  "Mistletoe Dragon": {
+  {
     "breed": [
       "Mistletoe Dragon",
-      ""
+      "榭寄生龙"
     ],
     "egg": [
       "This colorful egg gleams in the light.",
       "这颗缤纷的蛋在光芒下闪闪发光。"
     ],
+    "wiki_path": [
+      "/wiki/Mistletoe_Dragon",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8670,15 +9785,19 @@
       ]
     }
   },
-  "Aegis Dragon": {
+  {
     "breed": [
       "Aegis Dragon",
-      ""
+      "庇护之龙"
     ],
     "egg": [
       "A wintry chill swirls just beneath the surface of this egg.",
       "冰冷的寒气在蛋里旋转。"
     ],
+    "wiki_path": [
+      "/wiki/Aegis_Dragon",
+      "/zh/wiki/%E5%BA%87%E8%AD%B7%E4%B9%8B%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8697,15 +9816,19 @@
       ]
     }
   },
-  "Snow Dragon": {
+  {
     "breed": [
       "Snow Dragon",
-      ""
+      "雪龙"
     ],
     "egg": [
       "This egg is surrounded by frost.",
       "这颗蛋被冰霜包裹。"
     ],
+    "wiki_path": [
+      "/wiki/Snow_Dragon",
+      "/zh/wiki/%E9%9B%AA%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8724,15 +9847,19 @@
       ]
     }
   },
-  "Garland Dragon": {
+  {
     "breed": [
       "Garland Dragon",
-      ""
+      "花环龙"
     ],
     "egg": [
       "This festive egg gives off comforting warmth.",
       "这颗喜庆的蛋带给人舒适的温暖。"
     ],
+    "wiki_path": [
+      "/wiki/Garland_Dragon",
+      "/zh/wiki/%E8%8A%B1%E7%92%B0%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8751,15 +9878,19 @@
       ]
     }
   },
-  "Starsinger Dragon": {
+  {
     "breed": [
       "Starsinger Dragon",
-      ""
+      "吟星龙"
     ],
     "egg": [
       "This egg glows with a soft, soothing light.",
       "这颗蛋上发出抚慰人心的暖光。"
     ],
+    "wiki_path": [
+      "/wiki/Starsinger_Dragon",
+      "/zh/wiki/%E5%90%9F%E6%98%9F%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8778,15 +9909,19 @@
       ]
     }
   },
-  "Wintertide Dragon": {
+  {
     "breed": [
       "Wintertide Dragon",
-      ""
+      "玄英龙"
     ],
     "egg": [
       "This egg emanates a gentle chime when met with the winter breeze.",
       "每当有冬季微风吹拂而过，这颗蛋就会发出轻柔的敲钟声。"
     ],
+    "wiki_path": [
+      "/wiki/Wintertide_Dragon",
+      "/zh/wiki/%E7%8E%84%E8%8B%B1%E9%BE%8D"
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8805,7 +9940,7 @@
       ]
     }
   },
-  "Glystere Wyrm": {
+  {
     "breed": [
       "Glystere Wyrm",
       ""
@@ -8814,6 +9949,10 @@
       "Colorful light twinkles within this frozen egg.",
       ""
     ],
+    "wiki_path": [
+      "/wiki/Glystere_Wyrm",
+      ""
+    ],
     "rarity": "Holiday",
     "habitat": [],
     "bsa": "未知种族特性技能",
@@ -8832,13 +9971,17 @@
       ]
     }
   },
-  "Pryanost Lindwyrm": {
+  {
     "breed": [
       "Pryanost Lindwyrm",
       ""
     ],
     "egg": [
       "This warm brown egg smells faintly of spices.",
+      ""
+    ],
+    "wiki_path": [
+      "/wiki/Pryanost_Lindwyrm",
       ""
     ],
     "rarity": "Holiday",
@@ -8859,4 +10002,4 @@
       ]
     }
   }
-}
+]
