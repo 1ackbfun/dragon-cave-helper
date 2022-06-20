@@ -152,7 +152,7 @@ class Spider():
             else:
                 print(f"[WARN] 在现存数据中没有找到 {dragon_name} ({dragon['egg']})\n")
         print(database['Witchlight Dragon'])
-        with open(r'data\\database.json', 'w', encoding='utf8') as f:
+        with open(r'data\\dragon_db.json', 'w', encoding='utf8') as f:
             f.write(
                 json.dumps(database,
                            ensure_ascii=False,
