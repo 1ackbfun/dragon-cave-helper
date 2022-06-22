@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import time
 import requests
 #import lxml
 from bs4 import BeautifulSoup
@@ -17,288 +18,239 @@ def similar(str1: str, str2: str) -> float:
 class JSONFile():
 
     @staticmethod
-    def write(path, content):
-        with open(path, 'w', encoding='utf8') as f:
+    def write(json_path: str, json_content: any) -> None:
+        with open(json_path, 'w', encoding='utf8') as f:
             f.write(
-                json.dumps(content,
+                json.dumps(json_content,
                            ensure_ascii=False,
                            sort_keys=False,
                            indent=2,
                            separators=(',', ': ')))
             f.close()
+            print(f'[INFO] 写入到 JSON 文件 {json_path} 成功')
         return
 
     @staticmethod
-    def read(path):
+    def read(json_path: str) -> any:
         result = None
-        with open(path, 'r', encoding='utf8') as f:
+        with open(json_path, 'r', encoding='utf8') as f:
             result = json.loads(f.read())
             f.close()
+            print(f'[INFO] 读取 JSON 文件 {json_path} 成功')
         return result
 
 
 class Spider():
     'Dragon Cave Wiki 爬虫'
 
-    def getDragonData() -> bool:
+    WIKI = {
+        'root': 'https://dragcave.fandom.com',
+        'dragon_list.en': {
+            'url': 'https://dragcave.fandom.com/wiki/Egg/Identification_guide',
+            'path': r'cache\\dragon_list.en.html'
+        },
+        'dragon_list.zh': {
+            'url':
+            'https://dragcave.fandom.com/zh/wiki/%E9%BE%8D%E8%9B%8B%E7%A8%AE%E9%A1%9E?variant=zh-hans',
+            'path': r'cache\\dragon_list.zh.html'
+        },
+    }
 
-        def captureHTML(url: str,
-                        cache_path: str,
-                        allow_use_cache: bool = False) -> str:
-            html = ''
-            if allow_use_cache and os.access(cache_path, os.R_OK):
-                with open(cache_path, 'r', encoding='utf8') as f:
-                    html = f.read()
-                    f.close()
-            else:
+    def __init__(self) -> None:
+        pass
+
+    @staticmethod
+    def download_image(img_url: str,
+                       img_path: str,
+                       force_refresh: bool = False) -> bool:
+        if force_refresh or not os.access(img_path, os.R_OK):
+            time.sleep(1)
+            try:
+                response = requests.get(
+                    img_url,
+                    headers={
+                        'User-Agent':
+                        'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
+                    })
+                if response.status_code != 200:
+                    print(f'[ERROR] 访问图片地址 {img_url} 失败')
+                    return False
+                with open(img_path, 'wb') as f:
+                    f.write(response.content)
+                    print(f"[INFO] 下载图片 {img_path} 成功")
+            except Exception as e:
+                print(f'[ERROR] 从 {img_url} 下载图片 {img_path} 失败\n{e}')
+                return False
+        else:
+            print('[INFO] 本地已存在该图片 跳过下载')
+        return True
+
+    @staticmethod
+    def get_html(url: str,
+                 cache_path: str,
+                 allow_use_cache: bool = True) -> str:
+        html = ''
+        if allow_use_cache and os.access(cache_path, os.R_OK):
+            with open(cache_path, 'r', encoding='utf8') as f:
+                html = f.read()
+                f.close()
+        else:
+            try:
                 response = requests.get(url)
                 if response.status_code != 200:
-                    print(f'[ERROR] 从 {url} 获取数据失败\n{e}')
+                    print(f'[ERROR] 访问网页地址 {url} 失败')
                     return ''
-                print(f'[INFO] 爬取网页 {url} 成功')
                 html = response.text
                 with open(cache_path, 'w', encoding='utf8') as f:
                     f.write(html)
                     f.close()
-            return html
+                    print(f'[INFO] 缓存网页 {url} 成功')
+            except Exception as e:
+                print(f'[ERROR] 缓存网页 {url} 失败\n{e}')
+        return html
 
-        def parseHTML(html: str, method: str) -> dict or list:
-            soup = BeautifulSoup(html, 'html.parser')  # html.parser / lxml
-            result = []
-            if method == 'type.en':
-                result = {}
-                morphology = [
-                    '未知型态', 'Two-headed Dragon', 'Pygmy Dragon', 'Drake',
-                    'Non-dragon', '未知型态'
-                ]
-                index = 0
-                for table in soup.select('.article-table > tbody'):
-                    if table.find('th').text.strip() != 'Egg':
-                        continue
-                    for raw_data in table.find_all('tr'):
-                        data = raw_data.find_all('td')
-                        if len(data) < 3:
-                            continue
-                        try:
-                            breed = re.sub(r'\[.*\]$', '',
-                                           data[2].text.strip())
-                            habitats = []
-                            if len(data) > 3:
-                                for habitat_str in data[3].find_all('a'):
-                                    habitat = habitat_str.text.strip()
-                                    all_habitats = [
-                                        'Alpine', 'Coast', 'Desert', 'Forest',
-                                        'Jungle', 'Volcano'
-                                    ]
-                                    if habitat == 'All habitats':
-                                        habitats.extend(all_habitats[:])
-                                    elif habitat in all_habitats:
-                                        habitats.append(habitat)
-                            rarity = '未知稀有度'
-                            if index == 4:
-                                rarity = 'Other'
-                            elif index == 5:
-                                rarity = 'Holiday'
-                            result[breed] = {
-                                'breed': [breed, ''],
-                                'egg': [
-                                    re.sub(
-                                        r'\[.+\]$', '',
-                                        data[1].text.strip().replace(
-                                            '\'', '’').replace('﻿', '')), ''
-                                ],
-                                'wiki_path': [data[2].find('a')['href'], ''],
-                                'rarity':
-                                rarity,
-                                'habitat':
-                                habitats,
-                                'bsa':
-                                '未知种族特性技能',
-                                'elemental': ['主要元素亲和力', '次要元素亲和力'],
-                                'morphology':
-                                morphology[index],
-                                'release_at':
-                                '未知发布日期',
-                                'sprites': {
-                                    'egg': [''],
-                                    'adult': ['']
-                                }
-                            }
-                        except Exception as e:
-                            print(f'[ERROR] {e}')
-                            print(raw_data.prettify())
-                    index += 1
-            elif method == 'type.zh':
-                for table in soup.select('.article-table > tbody'):
-                    if table.find('th').text.strip() != '蛋':
-                        continue
-                    temp_egg_desc = ''
-                    temp_count = 0
-                    for raw_data in table.find_all('tr'):
-                        data = raw_data.find_all('td')
-                        if len(data) < 3:
-                            continue
-                        if 'rowspan' in data[1].attrs:
-                            temp_egg_desc = data[1].text
-                            temp_count = int(data[1]['rowspan']) - 1
-                        try:
-                            if temp_count > 0 and len(data) == 3:
-                                egg_desc = temp_egg_desc
-                                temp_count -= 1
-                            else:
-                                egg_desc = data[1].text
-                            separator_index = re.search(
-                                '[\\u4e00-\\u9fa5]',
-                                egg_desc).span()[0]  #egg_desc.rfind('.')
-                            result.append({
-                                'breed':
-                                data[0].find('img')['alt'].split(' egg')[0],
-                                'breed_chs':
-                                re.sub(r'\[.*\]$', '', data[2].text.strip()),
-                                'egg':
-                                f'{egg_desc[:separator_index-1]}.',
-                                'egg_chs':
-                                re.sub(r'\[.*\]$', '',
-                                       egg_desc[separator_index:].strip()),
-                                'wiki_path':
-                                data[2].find('a')['href']
-                                if data[2].find('a') is not None else ''
-                            })
-                        except Exception as e:
-                            print(f'[ERROR] {e}')
-                            print(raw_data.prettify())
-            elif method == 'rarity.zh':
-                rarity_level = ['Normal', 'Rare', 'SuperRare']
-                count = 0
-                for table in soup.select('.wikitable > tbody'):
-                    if count > 8:
-                        break
-                    for raw_data in table.find_all('tr'):
-                        data = raw_data.find_all('td')
-                        if len(data) != 7:
-                            continue
-                        the_dragon = data[0].find('a')
-                        if the_dragon is None:
-                            the_dragon = data[0].find('span')
-                            print(the_dragon)
-                        result.append((rarity_level[count if count < 3 else 2],
-                                       the_dragon['title'], the_dragon.text
-                                       ))  #.encode_contents().decode('UTF-8')
-                    count += 1
-            print(f'[INFO] {method} 处理完成 成功解析 {len(result)} 组数据')
-            return result
-
-        wiki = {
-            'type.en': {
-                'url':
-                'https://dragcave.fandom.com/wiki/Egg/Identification_guide',
-                'path': r'cache\\type.en.html'
-            },
-            'type.zh': {
-                'url':
-                'https://dragcave.fandom.com/zh/wiki/%E9%BE%8D%E8%9B%8B%E7%A8%AE%E9%A1%9E?variant=zh-hans',
-                'path': r'cache\\type.zh.html'
-            },
-            'rarity.zh': {
-                'url':
-                'https://dragcave.fandom.com/zh/wiki/%E9%BE%8D%E7%9A%84%E9%A1%9E%E5%9E%8B',
-                'path': r'cache\\rarity.zh.html'
-            }
-        }
-        target = 'type.en'
-        database = parseHTML(
-            captureHTML(wiki[target]['url'], wiki[target]['path'], True),
-            target)
-        target = 'type.zh'
-        zh_hans_res = parseHTML(
-            captureHTML(wiki[target]['url'], wiki[target]['path'], True),
-            target)
-        target = 'rarity.zh'
-        rarity_res = []
-        rarity_res = parseHTML(
-            captureHTML(wiki[target]['url'], wiki[target]['path'], True),
-            target)
-        JSONFile.write(r'data\\rarity.json', rarity_res)
-        #rarity_res = JSONFile.read(r'data\\rarity.json', rarity_res)
-        print('[INFO] 开始整合数据...\n')
-        for rarity in rarity_res:
-            if rarity[1] in database:
-                database[rarity[1]]['rarity'] = rarity[0]
+    @classmethod
+    def update_dragon_list(cls) -> list:
+        html = cls.get_html(cls.WIKI['dragon_list.en']['url'],
+                            cls.WIKI['dragon_list.en']['path'], False)
+        soup = BeautifulSoup(html, 'html.parser')  # html.parser / lxml
+        result = []
+        index = 0
+        for table in soup.select('.article-table > tbody'):
+            if table.find('th').text.strip() != 'Egg':
                 continue
-            if len(rarity) >= 3 and rarity[2] != '':
-                separator_index = re.search('[\\u4e00-\\u9fa5]',
-                                            rarity[2]).span()[0]
-                [name_en, name_ch] = [
-                    rarity[2][:separator_index],
-                    zhconv.convert(rarity[2][separator_index:], 'zh-hans')
-                ]
-                if name_en in database:
-                    database[name_en]['rarity'] = rarity[0]
+            for raw_data in table.find_all('tr'):
+                data = raw_data.find_all('td')
+                if len(data) < 3:
                     continue
-                for dragon_name in database:
-                    if database[dragon_name]['breed'][1] != '' and database[
-                            dragon_name]['breed'][1] in name_ch:
-                        database[dragon_name]['rarity'] = rarity[0]
-                        break
-        for dragon in zh_hans_res:
-            dragon_name = dragon['breed']
-            if dragon_name in database:
-                database[dragon_name]['breed'][1] = dragon['breed_chs']
-                if database[dragon_name]['egg'][0] == dragon['egg']:
-                    database[dragon_name]['breed'][1] = dragon['breed_chs']
-                    database[dragon_name]['egg'][1] = dragon['egg_chs']
-                    database[dragon_name]['wiki_path'][1] = dragon['wiki_path']
-                elif similar(database[dragon_name]['egg'][0],
-                             dragon['egg']) > 0.9:
-                    # TODO 抉择: 使用中文 Wiki 还是英文 Wiki 的版本
-                    database[dragon_name]['breed'][1] = dragon['breed_chs']
-                    database[dragon_name]['egg'][1] = dragon['egg_chs']
-                    database[dragon_name]['wiki_path'][1] = dragon['wiki_path']
-                else:
-                    print(
-                        f"英文 Wiki: {database[dragon_name]['egg'][0]}\n中文 Wiki: {dragon['egg']}\n[ERROR] 两次采集到的龙蛋描述出现巨大差异: {dragon_name} ({dragon['breed_chs']})\n"
-                    )
+                try:
+                    rarity = 'Unknown'
+                    if index == 4:
+                        rarity = 'Other'
+                    elif index == 5:
+                        rarity = 'Holiday'
+                    result.append({
+                        'breed':
+                        re.sub(r'\[.*\]$', '', data[0].find('a')['title'])
+                        if 'title' in data[0].find('a').attrs else re.sub(
+                            r'\[.*\]$', '', data[2].text.strip()),
+                        'egg_desc':
+                        re.sub(
+                            r'\[.+\]$', '',
+                            data[1].text.strip().replace('\'',
+                                                         '’').replace('﻿',
+                                                                      '')),
+                        'wiki_path':
+                        data[0].find('a')['href'],
+                        'rarity':
+                        rarity,
+                        'egg_sprite': {
+                            'filename':
+                            data[0].find('img')['data-image-key'],
+                            'url':
+                            data[0].find('img')['data-src']
+                            if 'data-src' in data[0].find('img').attrs else
+                            data[0].find('img')['src']
+                        }
+                    })
+                except Exception as e:
+                    print(f'[ERROR] parse failed {e}')
+                    print(raw_data.prettify())
+            index += 1
+        return result
+
+    @classmethod
+    def cache_dragon_egg_sprites(cls, dragon_list: list) -> None:
+        count = 0
+        for dragon in dragon_list:
+            img_path = f"sprite\\{dragon['egg_sprite']['filename']}"
+            if not os.access(img_path, os.R_OK):
+                print(f"[{count}] 尝试缓存 {img_path}")
+                Spider.download_image(dragon['egg_sprite']['url'], img_path)
+            count += 1
+        return
+
+    @classmethod
+    def cache_dragon_data_html(cls, dragon_list: list) -> None:
+        count = 0
+        for dragon in dragon_list:
+            url = None
+            page_path = f"cache\\dragon\\{dragon['wiki_path'].split('/')[-1]}.html"
+            if dragon['wiki_path'].startswith('/'):
+                url = f"{cls.WIKI['root']}{dragon['wiki_path']}"
+            elif dragon['breed'] == 'Sunset':
+                url = 'https://dragcave.fandom.com/wiki/Sunset_Dragon'
+                page_path = 'cache\\dragon\\Sunset_Dragon.html'
+                # url = 'https://dragcave.fandom.com/wiki/Sunrise_Dragon'
+                # page_path = 'cache\\dragon\\Sunrise_Dragon.html'
             else:
-                found = False
-                for record_dragon in database:
-                    if database[record_dragon]['egg'][0] == dragon['egg']:
-                        # or dragon['breed'] in database[record_dragon]['breed'][0]
-                        database[record_dragon]['breed'][1] = dragon[
-                            'breed_chs']
-                        database[record_dragon]['egg'][1] = dragon['egg_chs']
-                        database[record_dragon]['wiki_path'][1] = dragon[
-                            'wiki_path']
-                        found = True
-                        break
-                    elif similar(database[record_dragon]['egg'][0],
-                                 dragon['egg']) > 0.9:
-                        database[record_dragon]['breed'][1] = dragon[
-                            'breed_chs']
-                        database[record_dragon]['egg'][1] = dragon['egg_chs']
-                        database[record_dragon]['wiki_path'][1] = dragon[
-                            'wiki_path']
-                        found = True
-                        print(
-                            f"英文 Wiki: {database[record_dragon]['egg'][0]} ({database[record_dragon]['breed'][0]})"
-                        )
-                        print(f"中文 Wiki: {dragon['egg']} ({dragon['breed']})")
-                        print('[WARN] 检索到相似描述的龙蛋 已尝试应用\n')
-                        break
-                if found:
-                    #print('[DEBUG] 已通过龙蛋描述检索到对应的龙')
-                    pass
-                else:
-                    print(dragon)
-                    print(
-                        f"[ERROR] 在现存数据中没有找到 {dragon_name} ({dragon['egg']})\n"
-                    )
-        print('[DEBUG]', list(database.values())[0])
-        JSONFile.write(r'data\\dragon_db.json', list(database.values()))
-        return True
+                print(f"[{count}] 网址错误 {dragon['wiki_path']} 取消爬取")
+                print(dragon)
+                continue
+            if not os.access(page_path, os.R_OK):
+                time.sleep(1)
+                print(f"[{count}] 尝试缓存 {url}")
+                Spider.get_html(url, page_path)
+            count += 1
+        return
+
+    @classmethod
+    def update_dragon_list_zh(cls) -> list:
+        html = cls.get_html(cls.WIKI['dragon_list.zh']['url'],
+                            cls.WIKI['dragon_list.zh']['path'], False)
+        soup = BeautifulSoup(html, 'html.parser')  # html.parser / lxml
+        result = []
+        for table in soup.select('.article-table > tbody'):
+            if table.find('th').text.strip() != '蛋':
+                continue
+            temp_egg_desc = ''
+            temp_count = 0
+            for raw_data in table.find_all('tr'):
+                data = raw_data.find_all('td')
+                if len(data) < 3:
+                    continue
+                if 'rowspan' in data[1].attrs:
+                    temp_egg_desc = data[1].text
+                    temp_count = int(data[1]['rowspan']) - 1
+                try:
+                    if temp_count > 0 and len(data) == 3:
+                        egg_desc = temp_egg_desc
+                        temp_count -= 1
+                    else:
+                        egg_desc = data[1].text
+                    separator_index = re.search(
+                        '[\\u4e00-\\u9fa5]',
+                        egg_desc).span()[0]  #egg_desc.rfind('.')
+                    result.append({
+                        'breed':
+                        data[0].find('img')['alt'].split(' egg')[0],
+                        'breed_chs':
+                        re.sub(r'\[.*\]$', '', data[2].text.strip()),
+                        'egg_desc':
+                        f'{egg_desc[:separator_index-1]}.',
+                        'egg_desc_chs':
+                        re.sub(r'\[.*\]$', '',
+                               egg_desc[separator_index:].strip()),
+                        'wiki_path':
+                        data[2].find('a')['href']
+                        if data[2].find('a') is not None else ''
+                    })
+                except Exception as e:
+                    print(f'[ERROR] {e}')
+                    print(raw_data.prettify())
+        return result
 
 
 def main() -> None:
-    Spider.getDragonData()
+    latest_list = Spider.update_dragon_list()
+    print(f'[INFO] 英文 Wiki 收录龙类数量 {len(latest_list)}')
+    JSONFile.write(r'data/dragon_list.en.json', latest_list)
+    Spider.cache_dragon_egg_sprites(latest_list)
+    Spider.cache_dragon_data_html(latest_list)
+    zh_list = Spider.update_dragon_list_zh()
+    print(f'[INFO] 中文 Wiki 收录龙类数量 {len(zh_list)}')
+    JSONFile.write(r'data/dragon_list.zh.json', zh_list)
+    # TODO 根据缓存的 HTML 文件解析数据并整合
 
 
 if __name__ == '__main__':

@@ -1,0 +1,3002 @@
+[
+  {
+    "breed": "Aeon Wyvern",
+    "egg_desc": "It’s almost like time is distorted around this egg.",
+    "wiki_path": "/wiki/Aeon_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aeon_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d4/Aeon_egg.gif/revision/latest?cb=20160822010152"
+    }
+  },
+  {
+    "breed": "Aeria Gloris Dragon",
+    "egg_desc": "This crystalline egg almost looks like you could reach into its depths.",
+    "wiki_path": "/wiki/Aeria_Gloris_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aeria_Gloris_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a4/Aeria_Gloris_egg.gif/revision/latest?cb=20190521040528"
+    }
+  },
+  {
+    "breed": "Aether Wyvern",
+    "egg_desc": "Wind gusts around this egg.",
+    "wiki_path": "/wiki/Aether_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aether_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/43/Aether_egg.png/revision/latest?cb=20181001083843"
+    }
+  },
+  {
+    "breed": "Albino Dragon",
+    "egg_desc": "You can see the baby dragon curled up inside this translucent egg.",
+    "wiki_path": "/wiki/Albino_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Albino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/73/Albino_egg.gif/revision/latest?cb=20100326224342"
+    }
+  },
+  {
+    "breed": "Alcedine Wyvern",
+    "egg_desc": "The brilliant blue spots on this egg stand out.",
+    "wiki_path": "/wiki/Alcedine_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Alcedine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/eb/Alcedine_egg.png/revision/latest?cb=20200521040355"
+    }
+  },
+  {
+    "breed": "Almerald Dragon",
+    "egg_desc": "This glossy green egg is rather warm.",
+    "wiki_path": "/wiki/Almerald_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Almerald_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/63/Almerald_egg.gif/revision/latest?cb=20160822010152"
+    }
+  },
+  {
+    "breed": "Amalthean Dragon",
+    "egg_desc": "This pristine egg sits in a clear pool of water.",
+    "wiki_path": "/wiki/Amalthean_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Amalthean_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/50/Amalthean_egg.gif/revision/latest?cb=20200521040355"
+    }
+  },
+  {
+    "breed": "Anagallis Dragon",
+    "egg_desc": "This delicately patterned egg is sitting in the sunshine.",
+    "wiki_path": "/wiki/Anagallis_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Anagallis_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8c/Anagallis_egg.png/revision/latest?cb=20150427002538"
+    }
+  },
+  {
+    "breed": "Antarean Dragon",
+    "egg_desc": "This egg is surrounded by mysterious, reflective dust.",
+    "wiki_path": "/wiki/Antarean_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Antarean_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b5/Antarean_egg.gif/revision/latest?cb=20160320050143"
+    }
+  },
+  {
+    "breed": "Aqualis Dragon",
+    "egg_desc": "This drab egg rests far from the water’s edge.",
+    "wiki_path": "/wiki/Aqualis_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aqualis_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a9/Aqualis_egg.gif/revision/latest?cb=20190310101609"
+    }
+  },
+  {
+    "breed": "Aranoa Dragon",
+    "egg_desc": "The vibrant scales on this egg glisten in the sunlight",
+    "wiki_path": "/wiki/Aranoa_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aranoa_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b3/Aranoa_egg.png/revision/latest?cb=20191201140542"
+    }
+  },
+  {
+    "breed": "Aria Dragon",
+    "egg_desc": "This bright egg has a warm shell.",
+    "wiki_path": "/wiki/Aria_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aria_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a3/Aria_egg.png/revision/latest?cb=20160521041840"
+    }
+  },
+  {
+    "breed": "Astralophyne Dragon",
+    "egg_desc": "This pleasant egg was placed in the path of a refreshing breeze.",
+    "wiki_path": "/wiki/Astralophyne_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Astralophyne_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7a/Astralophyne_egg.png/revision/latest?cb=20220521040308"
+    }
+  },
+  {
+    "breed": "Ash Dragon",
+    "egg_desc": "This ashen egg is smooth to the touch.",
+    "wiki_path": "/wiki/Ash_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ash_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/bc/Ash_egg.png/revision/latest?cb=20180827045901"
+    }
+  },
+  {
+    "breed": "Astaarus Dragon",
+    "egg_desc": "This egg reminds you of the night sky.",
+    "wiki_path": "/wiki/Astaarus_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Astaarus_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/26/Astaarus_egg.png/revision/latest?cb=20200823040223"
+    }
+  },
+  {
+    "breed": "Avatar of Change",
+    "egg_desc": "This iridescent egg radiates mysterious energy.",
+    "wiki_path": "/wiki/Avatar_of_Change",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Avatar_of_Change_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/be/Avatar_of_Change_egg.gif/revision/latest?cb=20140521053209"
+    }
+  },
+  {
+    "breed": "Avatar of Creation",
+    "egg_desc": "This shimmering egg radiates primordial energy.",
+    "wiki_path": "/wiki/Avatar_of_Creation",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Avatar_of_Creation_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f4/Avatar_of_Creation_egg.png/revision/latest?cb=20140521053131"
+    }
+  },
+  {
+    "breed": "Avatar of Destruction",
+    "egg_desc": "This smoldering egg radiates volatile energy.",
+    "wiki_path": "/wiki/Avatar_of_Destruction",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Avatar_of_Destruction_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f9/Avatar_of_Destruction_egg.gif/revision/latest?cb=20140521053229"
+    }
+  },
+  {
+    "breed": "Azure Glacewing Dragon",
+    "egg_desc": "This large egg has a lustrous sheen and appears to be covered in scales.",
+    "wiki_path": "/wiki/Azure_Glacewing_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Azure_Glacewing_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/6f/Azure_Glacewing_egg.gif/revision/latest?cb=20161127013747"
+    }
+  },
+  {
+    "breed": "Balloon Dragon",
+    "egg_desc": "This light egg is floating in the air.",
+    "wiki_path": "/wiki/Balloon_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Balloon_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/cb/Balloon_egg.gif/revision/latest?cb=20100326224654"
+    }
+  },
+  {
+    "breed": "Black Dragon",
+    "egg_desc": "This egg has a faint green glow around it.",
+    "wiki_path": "/wiki/Black_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Black_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/09/Black_egg.gif/revision/latest?cb=20100326223523"
+    }
+  },
+  {
+    "breed": "Black Capped Teimarr",
+    "egg_desc": "This egg has a black cap.",
+    "wiki_path": "/wiki/Black_Capped_Teimarr",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Black_Capped_Teimarr_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/ad/Black_Capped_Teimarr_egg.png/revision/latest?cb=20130522043007"
+    }
+  },
+  {
+    "breed": "Black Tea Dragon",
+    "egg_desc": "This egg has a faintly exotic scent.",
+    "wiki_path": "/wiki/Black_Tea_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Black_Tea_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/34/Black_Tea_egg.png/revision/latest?cb=20130524040513"
+    }
+  },
+  {
+    "breed": "Black Truffle Dragon",
+    "egg_desc": "This egg has a pleasant, musky smell.",
+    "wiki_path": "/wiki/Black_Truffle_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Black_Truffle_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3e/Black_Truffle_egg.png/revision/latest?cb=20180702062340"
+    }
+  },
+  {
+    "breed": "Blacktip Dragon",
+    "egg_desc": "This egg is off-white in color and smells a bit like salt.",
+    "wiki_path": "/wiki/Blacktip_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Blacktip_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d6/Blacktip_egg.gif/revision/latest?cb=20130527050847"
+    }
+  },
+  {
+    "breed": "Blazeback Dragon",
+    "egg_desc": "This egg has a dull metallic luster and is hot to the touch.",
+    "wiki_path": "/wiki/Blazeback_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Blazeback_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/08/Blazeback_egg.gif/revision/latest?cb=20210328041752"
+    }
+  },
+  {
+    "breed": "Bleeding Moon Dragon",
+    "egg_desc": "This egg shines brilliantly in moonlight, and is covered in red spots.",
+    "wiki_path": "/wiki/Bleeding_Moon_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Bleeding_Moon_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/23/Bleeding_Moon_egg.gif/revision/latest?cb=20130707042236"
+    }
+  },
+  {
+    "breed": "Blue-Banded Dragon",
+    "egg_desc": "This egg is covered in thick blue stripes.",
+    "wiki_path": "/wiki/Blue-Banded_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Blue-Banded_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/80/Blue-Banded_egg.gif/revision/latest?cb=20140705170852"
+    }
+  },
+  {
+    "breed": "Blusang Lindwyrm",
+    "egg_desc": "This egg smells faintly like brine.",
+    "wiki_path": "/wiki/Blusang_Lindwyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Blusang_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/52/Blusang_egg.png/revision/latest?cb=20120815075436"
+    }
+  },
+  {
+    "breed": "Bolt Dragon",
+    "egg_desc": "This egg has a striking pattern.",
+    "wiki_path": "/wiki/Bolt_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Bolt_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2c/Bolt_egg.gif/revision/latest?cb=20160710113251"
+    }
+  },
+  {
+    "breed": "Boreal Dragon",
+    "egg_desc": "This egg is covered in pale blue spots.",
+    "wiki_path": "/wiki/Boreal_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Boreal_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b2/Boreal_egg.gif/revision/latest?cb=20180827050153"
+    }
+  },
+  {
+    "breed": "Bright-Breasted Wyvern",
+    "egg_desc": "This egg is covered in speckles.",
+    "wiki_path": "/wiki/Bright-Breasted_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Bright-Breasted_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/97/Bright-Breasted_egg.gif/revision/latest?cb=20100401041622"
+    }
+  },
+  {
+    "breed": "Brimstone Dragon",
+    "egg_desc": "This egg smells rather rancid.",
+    "wiki_path": "/wiki/Brimstone_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Brimstone_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7e/Brimstone_egg.png/revision/latest?cb=20120815075555"
+    }
+  },
+  {
+    "breed": "Brute Dragon",
+    "egg_desc": "This egg is unusually large and heavy.",
+    "wiki_path": "/wiki/Brute_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Brute_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b2/Brute_egg.png/revision/latest?cb=20140302125336"
+    }
+  },
+  {
+    "breed": "Candelabra Dragon",
+    "egg_desc": "This mottled red egg almost glows from within.",
+    "wiki_path": "/wiki/Candelabra_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Candelabra_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/75/Candelabra_egg.gif/revision/latest?cb=20160521092957"
+    }
+  },
+  {
+    "breed": "Canopy Dragon",
+    "egg_desc": "This egg is hidden by some leaves.",
+    "wiki_path": "/wiki/Canopy_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Canopy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/29/Canopy_egg.gif/revision/latest?cb=20100326231533"
+    }
+  },
+  {
+    "breed": "Cantormaris Dragon",
+    "egg_desc": "Something about this egg seems to lure you in.",
+    "wiki_path": "/wiki/Cantormaris_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Cantormaris_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d2/Cantormaris_egg.gif/revision/latest?cb=20210124051516"
+    }
+  },
+  {
+    "breed": "Carina Dragon",
+    "egg_desc": "This egg shimmers with dazzling constellations.",
+    "wiki_path": "/wiki/Carina_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Carina_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/46/Carina_egg.gif/revision/latest?cb=20170828210236"
+    }
+  },
+  {
+    "breed": "Carmine Wyvern",
+    "egg_desc": "This pink and red egg wobbles occasionally.",
+    "wiki_path": "/wiki/Carmine_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Carmine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0b/Carmine_egg.png/revision/latest?cb=20140705171239"
+    }
+  },
+  {
+    "breed": "Cassare Dragon",
+    "egg_desc": "This egg makes you feel a bit uneasy.",
+    "wiki_path": "/wiki/Cassare_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Cassare_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/ce/Cassare_egg.gif/revision/latest?cb=20140705171227"
+    }
+  },
+  {
+    "breed": "Celestial Dragon",
+    "egg_desc": "This translucent egg shines like starlight.",
+    "wiki_path": "/wiki/Celestial_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Celestial_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d8/Celestial_egg.png/revision/latest?cb=20160401042937"
+    }
+  },
+  {
+    "breed": "Cloudplume Dragon",
+    "egg_desc": "This soft egg was carefully nestled in feathers and snow.",
+    "wiki_path": "/wiki/Cloudplume_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Cloudplume_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/77/Cloudplume_egg.gif/revision/latest?cb=20200521040354"
+    }
+  },
+  {
+    "breed": "Coastal Waverunner",
+    "egg_desc": "This egg reminds you of the sea.",
+    "wiki_path": "/wiki/Coastal_Waverunner",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Coastal_Waverunner_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c4/Coastal_Waverunner_egg.gif/revision/latest?cb=20100704152019"
+    }
+  },
+  {
+    "breed": "Copper Dragon",
+    "egg_desc": "This egg gleams with a reddish shine.",
+    "wiki_path": "/wiki/Copper_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Copper_liver_of_sulfur_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/33/Copper_liver_of_sulfur_egg.png/revision/latest?cb=20130526045552"
+    }
+  },
+  {
+    "breed": "Crystalline Dragon",
+    "egg_desc": "This icy egg sparkles with frost.",
+    "wiki_path": "/wiki/Crystalline_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Crystalline_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d9/Crystalline_egg.gif/revision/latest?cb=20200322040309"
+    }
+  },
+  {
+    "breed": "Dark Green Dragon",
+    "egg_desc": "This egg is sitting in a patch of grass and small flowers even though there’s no sun in the cave.",
+    "wiki_path": "/wiki/Dark_Green_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Dark_Green_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/dd/Dark_Green_egg.gif/revision/latest?cb=20100326225900"
+    }
+  },
+  {
+    "breed": "Dark Lumina Dragon",
+    "egg_desc": "This egg shines coldly in the moonlight.",
+    "wiki_path": "/wiki/Dark_Lumina_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Dark_Lumina_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ee/Dark_Lumina_egg.gif/revision/latest?cb=20160821180014"
+    }
+  },
+  {
+    "breed": "Daydream Dragon",
+    "egg_desc": "This egg is sitting on a cloud.",
+    "wiki_path": "/wiki/Daydream_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Daydream_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/af/Daydream_egg.gif/revision/latest?cb=20100326230213"
+    }
+  },
+  {
+    "breed": "Deep Sea Dragon",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "wiki_path": "/wiki/Deep_Sea_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Deep_Sea_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1c/Deep_Sea_egg.gif/revision/latest?cb=20100326230434"
+    }
+  },
+  {
+    "breed": "Diamondwing Dragon",
+    "egg_desc": "This egg shines like a diamond.",
+    "wiki_path": "/wiki/Diamondwing_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Diamondwing_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/20/Diamondwing_egg.gif/revision/latest?cb=20160925094229"
+    }
+  },
+  {
+    "breed": "Dorsal Dragon",
+    "egg_desc": "This egg has multiple bands of color on it.",
+    "wiki_path": "/wiki/Dorsal_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Purple_Dorsal_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/22/Purple_Dorsal_egg.gif/revision/latest?cb=20100327185304"
+    }
+  },
+  {
+    "breed": "Electric Dragon",
+    "egg_desc": "Bright sparks glide across the surface of this egg’s shell.",
+    "wiki_path": "/wiki/Electric_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Electric_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/9e/Electric_egg.png/revision/latest?cb=20210508060837"
+    }
+  },
+  {
+    "breed": "Elux Lucis Dragon",
+    "egg_desc": "Starlight shimmers across this egg’s iridescent shell.",
+    "wiki_path": "/wiki/Elux_Lucis_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Elux_Lucis_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/19/Elux_Lucis_egg.png/revision/latest?cb=20200726040101"
+    }
+  },
+  {
+    "breed": "Ember Dragon",
+    "egg_desc": "This egg is really hot.",
+    "wiki_path": "/wiki/Ember_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ember_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8c/Ember_egg.gif/revision/latest?cb=20101010122918"
+    }
+  },
+  {
+    "breed": "Equinox Dragon",
+    "egg_desc": "This egg shakes slightly when taken out of the light.",
+    "wiki_path": "/wiki/Equinox_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Equinox_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/48/Equinox_egg.png/revision/latest?cb=20200922050527"
+    }
+  },
+  {
+    "breed": "Fanalea Dragon",
+    "egg_desc": "This egg has delicate markings that curl around its shell.",
+    "wiki_path": "/wiki/Fanalea_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Fanalea_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/54/Fanalea_egg.gif/revision/latest?cb=20220521040732"
+    }
+  },
+  {
+    "breed": "Falconiform Wyvern",
+    "egg_desc": "Cold flames dance across the surface of this egg.",
+    "wiki_path": "/wiki/Falconiform_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Falconiform_Wyvern_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/19/Falconiform_Wyvern_egg.png/revision/latest?cb=20140503170353"
+    }
+  },
+  {
+    "breed": "Fell Dragon",
+    "egg_desc": "This mottled egg looks positively ancient.",
+    "wiki_path": "/wiki/Fell_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Fell_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e9/Fell_egg.png/revision/latest?cb=20161127013746"
+    }
+  },
+  {
+    "breed": "Fever Wyvern",
+    "egg_desc": "This egg is patterned with an orange flare.",
+    "wiki_path": "/wiki/Fever_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Fever_Wyvern_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/93/Fever_Wyvern_egg.png/revision/latest?cb=20140302064611"
+    }
+  },
+  {
+    "breed": "Fire Gem Dragon",
+    "egg_desc": "This rough egg has shimmering veins of crystal running across its surface.",
+    "wiki_path": "/wiki/Fire_Gem_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Fire_Gem_blue_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/91/Fire_Gem_blue_egg.png/revision/latest?cb=20170319130600"
+    }
+  },
+  {
+    "breed": "Flamingo Wyvern",
+    "egg_desc": "It’s bright. And pink.",
+    "wiki_path": "/wiki/Flamingo_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Flamingo_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fe/Flamingo_egg.gif/revision/latest?cb=20100828164905"
+    }
+  },
+  {
+    "breed": "Floret Wyvern (Iris)",
+    "egg_desc": "This shiny egg smells faintly like flowers.",
+    "wiki_path": "/wiki/Floret_Wyvern_(Iris)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Floret_Iris_gold_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/26/Floret_Iris_gold_egg.gif/revision/latest?cb=20180325214241"
+    }
+  },
+  {
+    "breed": "Floret Wyvern (Alstroemeria)",
+    "egg_desc": "This shiny egg smells faintly like flowers.",
+    "wiki_path": "/wiki/Floret_Wyvern_(Alstroemeria)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Floret_Alstro_gold_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e5/Floret_Alstro_gold_egg.gif/revision/latest?cb=20210521042324"
+    }
+  },
+  {
+    "breed": "Freckled Dragon",
+    "egg_desc": "This egg is yellow with orange speckling.",
+    "wiki_path": "/wiki/Freckled_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Freckled_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7c/Freckled_egg.png/revision/latest?cb=20180328001706"
+    }
+  },
+  {
+    "breed": "Frilled Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "wiki_path": "/wiki/Frilled_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Frilled_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/24/Frilled_egg.png/revision/latest?cb=20160521112351"
+    }
+  },
+  {
+    "breed": "Frostbite Dragon",
+    "egg_desc": "Frost is creeping over this cold egg.",
+    "wiki_path": "/wiki/Frostbite_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Frostbite_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/41/Frostbite_egg.png/revision/latest?cb=20140503170238"
+    }
+  },
+  {
+    "breed": "Galvanic Wyvern",
+    "egg_desc": "Powerful energy emanates from this egg.",
+    "wiki_path": "/wiki/Galvanic_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Galvanic_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/db/Galvanic_egg.gif/revision/latest?cb=20190521040542"
+    }
+  },
+  {
+    "breed": "Gemshard Dragon",
+    "egg_desc": "This egg is encrusted with colorful gemstones.",
+    "wiki_path": "/wiki/Gemshard_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gemshard_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/41/Gemshard_egg.png/revision/latest?cb=20150329015520"
+    }
+  },
+  {
+    "breed": "Geode Dragon",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "wiki_path": "/wiki/Geode_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Geode_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/83/Geode_egg.gif/revision/latest?cb=20101122013655"
+    }
+  },
+  {
+    "breed": "Gold Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic-looking.",
+    "wiki_path": "/wiki/Gold_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gold_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/ab/Gold_egg.gif/revision/latest?cb=20120101081139"
+    }
+  },
+  {
+    "breed": "Gold-Horned Tangar",
+    "egg_desc": "This egg has bright orange and green markings.",
+    "wiki_path": "/wiki/Gold-Horned_Tangar",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gold-horned_Tangar_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/91/Gold-horned_Tangar_egg.gif/revision/latest?cb=20110917090713"
+    }
+  },
+  {
+    "breed": "Golden Wyvern",
+    "egg_desc": "This egg shimmers like gold.",
+    "wiki_path": "/wiki/Golden_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Golden_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f8/Golden_Wyvern_egg.gif/revision/latest?cb=20120123163245"
+    }
+  },
+  {
+    "breed": "Green Dragon",
+    "egg_desc": "This egg is sitting in a pile of small pebbles.",
+    "wiki_path": "/wiki/Green_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Green_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8e/Green_egg.gif/revision/latest?cb=20100326231142"
+    }
+  },
+  {
+    "breed": "Guardian Dragon",
+    "egg_desc": "This egg is sitting in front of the others.",
+    "wiki_path": "/wiki/Guardian_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Guardian_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f1/Guardian_egg.gif/revision/latest?cb=20100326233611"
+    }
+  },
+  {
+    "breed": "Guardian of Nature",
+    "egg_desc": "This egg glows mysteriously.",
+    "wiki_path": "/wiki/Guardian_of_Nature",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Guardian_of_Nature_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/6c/Guardian_of_Nature_egg.gif/revision/latest?cb=20100327190510"
+    }
+  },
+  {
+    "breed": "Harvest Dragon",
+    "egg_desc": "This heavy egg feels slightly warm.",
+    "wiki_path": "/wiki/Harvest_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Harvest_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fa/Harvest_egg.gif/revision/latest?cb=20101010122414"
+    }
+  },
+  {
+    "breed": "Hellfire Wyvern",
+    "egg_desc": "This egg radiates the heat of a fell flame.",
+    "wiki_path": "/wiki/Hellfire_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Hellfire_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/80/Hellfire_Wyvern_egg.gif/revision/latest?cb=20100401041551"
+    }
+  },
+  {
+    "breed": "Hellhorse Dragon",
+    "egg_desc": "This hot egg shakes violently when you touch it.",
+    "wiki_path": "/wiki/Hellhorse_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Hellhorse_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/59/Hellhorse_egg.png/revision/latest?cb=20130525040908"
+    }
+  },
+  {
+    "breed": "Hooded Murkling Dragon",
+    "egg_desc": "This shady egg seems to be lurking just out of sight.",
+    "wiki_path": "/wiki/Hooded_Murkling_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Hooded_Murkling_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ee/Hooded_Murkling_egg.png/revision/latest?cb=20220521040238"
+    }
+  },
+  {
+    "breed": "Horse Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "wiki_path": "/wiki/Horse_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Horse_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/01/Horse_egg.gif/revision/latest?cb=20100326232132"
+    }
+  },
+  {
+    "breed": "Hydrophidius Dragon",
+    "egg_desc": "This striped egg is surprisingly heavy.",
+    "wiki_path": "/wiki/Hydrophidius_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Hydrophidius_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3b/Hydrophidius_egg.png/revision/latest?cb=20210328041807"
+    }
+  },
+  {
+    "breed": "Ice Dragon",
+    "egg_desc": "This egg has icicles forming on it.",
+    "wiki_path": "/wiki/Ice_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ice_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/6c/Ice_egg.gif/revision/latest?cb=20100326231405"
+    }
+  },
+  {
+    "breed": "Imperial Fleshcrowne",
+    "egg_desc": "This egg is hidden in the trees.",
+    "wiki_path": "/wiki/Imperial_Fleshcrowne",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Imperial_Fleshcrowne_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/81/Imperial_Fleshcrowne_egg.gif/revision/latest?cb=20130707042308"
+    }
+  },
+  {
+    "breed": "Khusa Dragon",
+    "egg_desc": "This egg is smooth and shiny.",
+    "wiki_path": "/wiki/Khusa_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Khusa_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/97/Khusa_egg.gif/revision/latest?cb=20170828200205"
+    }
+  },
+  {
+    "breed": "Kingcrowne Dragon",
+    "egg_desc": "This shiny egg gives off an almost magical aura.",
+    "wiki_path": "/wiki/Kingcrowne_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Kingcrowne_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f0/Kingcrowne_egg.gif/revision/latest?cb=20160821174632"
+    }
+  },
+  {
+    "breed": "Labradorite Dragon",
+    "egg_desc": "This shimmering egg was hidden far from the others.",
+    "wiki_path": "/wiki/Labradorite_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Labradorite_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f3/Labradorite_egg.png/revision/latest?cb=20200521040353"
+    }
+  },
+  {
+    "breed": "Lacula Dragon",
+    "egg_desc": "This green and silver egg lurks in the shadows, tempting you to steal it.",
+    "wiki_path": "/wiki/Lacula_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Lacula_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8d/Lacula_egg.gif/revision/latest?cb=20180521131301"
+    }
+  },
+  {
+    "breed": "Leodon Dragon",
+    "egg_desc": "This red and gold egg sits before the others, almost daring you to grab it.",
+    "wiki_path": "/wiki/Leodon_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Leodon_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3b/Leodon_egg.gif/revision/latest?cb=20180521131302"
+    }
+  },
+  {
+    "breed": "Lihnseyre Dragon",
+    "egg_desc": "This glowing egg seems to tug at your very core.",
+    "wiki_path": "/wiki/Lihnseyre_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Lihnseyre_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0e/Lihnseyre_egg.gif/revision/latest?cb=20190521040440"
+    }
+  },
+  {
+    "breed": "Lotaan Dragon",
+    "egg_desc": "This scaly egg seems to disappear in the depths.",
+    "wiki_path": "/wiki/Lotaan_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Lotaan_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/91/Lotaan_egg.gif/revision/latest?cb=20220424040109"
+    }
+  },
+  {
+    "breed": "Lumina Dragon",
+    "egg_desc": "This egg shines brightly in the sunlight.",
+    "wiki_path": "/wiki/Lumina_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Lumina_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b9/Lumina_egg.png/revision/latest?cb=20120522161915"
+    }
+  },
+  {
+    "breed": "Luminox Dragon",
+    "egg_desc": "The markings on this egg glow brightly in the shadows.",
+    "wiki_path": "/wiki/Luminox_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Luminox_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/98/Luminox_egg.gif/revision/latest?cb=20190721045238"
+    }
+  },
+  {
+    "breed": "Lunar Herald Dragon",
+    "egg_desc": "This metallic egg shows faint iridescence in moonlight.",
+    "wiki_path": "/wiki/Lunar_Herald_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Lunar_Herald_gold_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a6/Lunar_Herald_gold_egg.gif/revision/latest?cb=20150829075158"
+    }
+  },
+  {
+    "breed": "Magi Dragon",
+    "egg_desc": "This egg has an orange aura radiating from it.",
+    "wiki_path": "/wiki/Magi_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Magi_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/cd/Magi_egg.gif/revision/latest?cb=20100326232645"
+    }
+  },
+  {
+    "breed": "Magma Dragon",
+    "egg_desc": "This egg is almost too hot to touch.",
+    "wiki_path": "/wiki/Magma_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Magma_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/39/Magma_egg.gif/revision/latest?cb=20091124051821"
+    }
+  },
+  {
+    "breed": "Melismor Dragon",
+    "egg_desc": "This heavy egg has an earthy scent, like freshly-tilled soil.",
+    "wiki_path": "/wiki/Melismor_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Melismor_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/39/Melismor_egg.png/revision/latest?cb=20180521131302"
+    }
+  },
+  {
+    "breed": "Mint Dragon",
+    "egg_desc": "This egg is hidden behind the others, as if it is shy.",
+    "wiki_path": "/wiki/Mint_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mint_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/aa/Mint_egg.gif/revision/latest?cb=20100326231927"
+    }
+  },
+  {
+    "breed": "Mirisia Amphiptere",
+    "egg_desc": "This egg emanates a peculiar smell.",
+    "wiki_path": "/wiki/Mirisia_Amphiptere",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mirisia_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/dc/Mirisia_egg.gif/revision/latest?cb=20210926040149"
+    }
+  },
+  {
+    "breed": "Mistra Dragon",
+    "egg_desc": "You hear a soft melody as you approach this egg.",
+    "wiki_path": "/wiki/Mistra_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mistra_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/20/Mistra_egg.png/revision/latest?cb=20200922050512"
+    }
+  },
+  {
+    "breed": "Monarch Dragon",
+    "egg_desc": "This egg is buried in leaf litter.",
+    "wiki_path": "/wiki/Monarch_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Monarch_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f7/Monarch_egg.gif/revision/latest?cb=20160925094249"
+    }
+  },
+  {
+    "breed": "Moonstone Dragon",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "wiki_path": "/wiki/Moonstone_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Moonstone_egg.GIF",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/aa/Moonstone_egg.GIF/revision/latest?cb=20110718053551"
+    }
+  },
+  {
+    "breed": "Nebula Dragon",
+    "egg_desc": "This egg glows with a brilliant radiance.",
+    "wiki_path": "/wiki/Nebula_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nebula_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/78/Nebula_egg.gif/revision/latest?cb=20100401041445"
+    }
+  },
+  {
+    "breed": "Neglected Dragon",
+    "egg_desc": "This egg is very sickly looking, like it’s diseased.",
+    "wiki_path": "/wiki/Neglected_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Neglected_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/65/Neglected_egg.gif/revision/latest?cb=20100327043925"
+    }
+  },
+  {
+    "breed": "Neotropical Dragon",
+    "egg_desc": "This egg has strange yellow stripes.",
+    "wiki_path": "/wiki/Neotropical_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Neotropical_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ef/Neotropical_egg.png/revision/latest?cb=20100326230713"
+    }
+  },
+  {
+    "breed": "Nhiostrife Wyvern",
+    "egg_desc": "This dull purple egg has two bright stripes on it.",
+    "wiki_path": "/wiki/Nhiostrife_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nhiostrife_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/10/Nhiostrife_Wyvern_egg.gif/revision/latest?cb=20131130094503"
+    }
+  },
+  {
+    "breed": "Nobleshield Dragon",
+    "egg_desc": "This tough egg has a protective ridge down its shell.",
+    "wiki_path": "/wiki/Nobleshield_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nobleshield_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3c/Nobleshield_egg.png/revision/latest?cb=20210124051359"
+    }
+  },
+  {
+    "breed": "Nocturne Dragon",
+    "egg_desc": "This egg appears to be made of limestone.",
+    "wiki_path": "/wiki/Nocturne_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nocturne_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/45/Nocturne_egg.gif/revision/latest?cb=20100116171826"
+    }
+  },
+  {
+    "breed": "Olive Dragon",
+    "egg_desc": "This egg smells musty, like rotting leaves.",
+    "wiki_path": "/wiki/Olive_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Olive_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b8/Olive_egg.gif/revision/latest?cb=20120815075525"
+    }
+  },
+  {
+    "breed": "Oracle Wyrm",
+    "egg_desc": "It feels like this egg knew you were coming.",
+    "wiki_path": "/wiki/Oracle_Wyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Oracle_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ee/Oracle_egg.png/revision/latest?cb=20210725040109"
+    }
+  },
+  {
+    "breed": "Pillow Dragon",
+    "egg_desc": "This egg has a velvety texture.",
+    "wiki_path": "/wiki/Pillow_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pillow_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a2/Pillow_egg.gif/revision/latest?cb=20110316055144"
+    }
+  },
+  {
+    "breed": "Pink Dragon",
+    "egg_desc": "It’s bright. And pink.",
+    "wiki_path": "/wiki/Pink_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pink_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/05/Pink_egg.gif/revision/latest?cb=20100326231252"
+    }
+  },
+  {
+    "breed": "Plated Colossus Dragon",
+    "egg_desc": "This massive egg is covered with thick plates.",
+    "wiki_path": "/wiki/Plated_Colossus_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Plated_Colossus_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/90/Plated_Colossus_egg.gif/revision/latest?cb=20150329015425"
+    }
+  },
+  {
+    "breed": "Purple Dragon",
+    "egg_desc": "Wow, purple isn’t a color of egg you expected to see.",
+    "wiki_path": "/wiki/Purple_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Purple_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/5c/Purple_egg.gif/revision/latest?cb=20100326231236"
+    }
+  },
+  {
+    "breed": "Pyralspite Dragon",
+    "egg_desc": "This egg feels like polished stone.",
+    "wiki_path": "/wiki/Pyralspite_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pyralspite_Almandine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/24/Pyralspite_Almandine_egg.png/revision/latest?cb=20140920173132"
+    }
+  },
+  {
+    "breed": "Pyropellis Wyvern",
+    "egg_desc": "Tough ridges line the surface of this rough, mottled egg.",
+    "wiki_path": "/wiki/Pyropellis_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pyropellis_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/73/Pyropellis_egg.png/revision/latest?cb=20210822040310"
+    }
+  },
+  {
+    "breed": "Pyrovar Dragon",
+    "egg_desc": "This glassy egg is too hot to hold with your bare hands.",
+    "wiki_path": "/wiki/Pyrovar_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pyrovar_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d2/Pyrovar_egg.gif/revision/latest?cb=20180702062338"
+    }
+  },
+  {
+    "breed": "Pyrrhichios Dragon",
+    "egg_desc": "When you tap on this shell, the hatchling inside taps back.",
+    "wiki_path": "/wiki/Pyrrhichios_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pyrrhichios_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f6/Pyrrhichios_egg.gif/revision/latest?cb=20220521040254"
+    }
+  },
+  {
+    "breed": "Razorcrest Wyvern",
+    "egg_desc": "This blue and bronze egg piques your curiosity.",
+    "wiki_path": "/wiki/Razorcrest_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Razorcrest_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/dc/Razorcrest_Wyvern_egg.gif/revision/latest?cb=20180521131300"
+    }
+  },
+  {
+    "breed": "Red Dragon",
+    "egg_desc": "This egg is rather warm.",
+    "wiki_path": "/wiki/Red_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Red_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/15/Red_egg.gif/revision/latest?cb=20100326231225"
+    }
+  },
+  {
+    "breed": "Ridgewing Dragon",
+    "egg_desc": "A cool mountain breeze blows around this egg.",
+    "wiki_path": "/wiki/Ridgewing_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ridgewing_purple_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/94/Ridgewing_purple_egg.gif/revision/latest?cb=20100828155817"
+    }
+  },
+  {
+    "breed": "Rift Wyrm",
+    "egg_desc": "This egg radiates an otherworldly chill.",
+    "wiki_path": "/wiki/Rift_Wyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Rift_Wyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ed/Rift_Wyrm_egg.gif/revision/latest?cb=20190630212532"
+    }
+  },
+  {
+    "breed": "Risensong Dragon",
+    "egg_desc": "This bright egg shines in the morning sunlight.",
+    "wiki_path": "/wiki/Risensong_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Risensong_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fd/Risensong_egg.gif/revision/latest?cb=20170625075014"
+    }
+  },
+  {
+    "breed": "Royal Blue Dragon",
+    "egg_desc": "This egg shines in the moonlight.",
+    "wiki_path": "/wiki/Royal_Blue_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Royal_Blue_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/95/Royal_Blue_egg.gif/revision/latest?cb=20120123055741"
+    }
+  },
+  {
+    "breed": "Royal Crimson Dragon",
+    "egg_desc": "This large egg is a dark crimson color.",
+    "wiki_path": "/wiki/Royal_Crimson_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Royal_Crimson_egg.PNG",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f0/Royal_Crimson_egg.PNG/revision/latest?cb=20130407052417"
+    }
+  },
+  {
+    "breed": "Royal Eminence Dragon",
+    "egg_desc": "This magnificent purple egg shimmers in the light.",
+    "wiki_path": "/wiki/Royal_Eminence_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Royal_Eminence_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c5/Royal_Eminence_egg.png/revision/latest?cb=20210521041110"
+    }
+  },
+  {
+    "breed": "Sandwaste Dragon",
+    "egg_desc": "This egg was buried in a sand dune.",
+    "wiki_path": "/wiki/Sandwaste_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sandwaste_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/34/Sandwaste_egg.gif/revision/latest?cb=20191201141103"
+    }
+  },
+  {
+    "breed": "Sapo Dragon",
+    "egg_desc": "This egg’s shell is slippery and clean.",
+    "wiki_path": "/wiki/Sapo_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sapo_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c6/Sapo_egg.png/revision/latest?cb=20200521040353"
+    }
+  },
+  {
+    "breed": "Sapphire Dragon",
+    "egg_desc": "This egg looks like a beautiful blue stone.",
+    "wiki_path": "/wiki/Sapphire_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sapphire_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/56/Sapphire_egg.gif/revision/latest?cb=20160320050131"
+    }
+  },
+  {
+    "breed": "Sawtooth Dragon",
+    "egg_desc": "Soft chirping sounds are coming from inside the egg.",
+    "wiki_path": "/wiki/Sawtooth_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sawtooth_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c0/Sawtooth_egg.png/revision/latest?cb=20210425121423"
+    }
+  },
+  {
+    "breed": "Scimitar-wing Wyvern",
+    "egg_desc": "This egg seems quite harmless.",
+    "wiki_path": "/wiki/Scimitar-wing_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Scimitar-wing_Wyvern_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/27/Scimitar-wing_Wyvern_egg.png/revision/latest?cb=20170428203409"
+    }
+  },
+  {
+    "breed": "Script Dragon",
+    "egg_desc": "This egg is covered in mysterious patterns.",
+    "wiki_path": "/wiki/Script_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Script_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d8/Script_egg.gif/revision/latest?cb=20170718093724"
+    }
+  },
+  {
+    "breed": "Seasonal Dragon (Spring)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "wiki_path": "/wiki/Seasonal_Dragon_(Spring)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spring_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/12/Spring_egg.gif/revision/latest?cb=20100326231211"
+    }
+  },
+  {
+    "breed": "Seasonal Dragon (Summer)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "wiki_path": "/wiki/Seasonal_Dragon_(Summer)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Summer_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7c/Summer_egg.gif/revision/latest?cb=20110621092342"
+    }
+  },
+  {
+    "breed": "Seasonal Dragon (Autumn)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "wiki_path": "/wiki/Seasonal_Dragon_(Autumn)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Autumn_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f4/Autumn_egg.gif/revision/latest?cb=20101226043608"
+    }
+  },
+  {
+    "breed": "Seasonal Dragon (Winter)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "wiki_path": "/wiki/Seasonal_Dragon_(Winter)",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Winter_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8b/Winter_egg.png/revision/latest?cb=20100328012039"
+    }
+  },
+  {
+    "breed": "Serrati Wyvern",
+    "egg_desc": "This egg has striations marking its rough shell.",
+    "wiki_path": "/wiki/Serrati_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Serrati_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7a/Serrati_egg.gif/revision/latest?cb=20210508062118"
+    }
+  },
+  {
+    "breed": "Setsong Dragon",
+    "egg_desc": "This dark egg shines in the evening sunlight.",
+    "wiki_path": "/wiki/Setsong_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Setsong_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/23/Setsong_egg.gif/revision/latest?cb=20170625075013"
+    }
+  },
+  {
+    "breed": "Shallow Water Dragon",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "wiki_path": "/wiki/Shallow_Water_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Shallow_Water_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/48/Shallow_Water_egg.gif/revision/latest?cb=20100526071332"
+    }
+  },
+  {
+    "breed": "Shimmer-scale Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic looking.",
+    "wiki_path": "/wiki/Shimmer-scale_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gold_Shimmer-scale_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/60/Gold_Shimmer-scale_egg.png/revision/latest?cb=20130129092840"
+    }
+  },
+  {
+    "breed": "Shumoga Dragon",
+    "egg_desc": "This striped egg has a rough, ridged texture.",
+    "wiki_path": "/wiki/Shumoga_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Shumoga_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/21/Shumoga_egg.gif/revision/latest?cb=20210822040335"
+    }
+  },
+  {
+    "breed": "Silver Dragon",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "wiki_path": "/wiki/Silver_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Silver_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/4d/Silver_egg.gif/revision/latest?cb=20151203095231"
+    }
+  },
+  {
+    "breed": "Sinii Krai Dragon",
+    "egg_desc": "This striped egg has a warm glow.",
+    "wiki_path": "/wiki/Sinii_Krai_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sinii_Krai_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/79/Sinii_Krai_egg.gif/revision/latest?cb=20170428203616"
+    }
+  },
+  {
+    "breed": "Siyat Dragon",
+    "egg_desc": "This egg seems to be glowing in spots.",
+    "wiki_path": "/wiki/Siyat_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Siyat_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/05/Siyat_egg.png/revision/latest?cb=20180729053741"
+    }
+  },
+  {
+    "breed": "Skystrider Dragon",
+    "egg_desc": "This plain blue egg almost seems to float.",
+    "wiki_path": "/wiki/Skystrider_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Skystrider_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f2/Skystrider_egg.gif/revision/latest?cb=20200823040209"
+    }
+  },
+  {
+    "breed": "Skysilk Dragon",
+    "egg_desc": "This light egg has very vibrant colors.",
+    "wiki_path": "/wiki/Skysilk_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Skysilk_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/40/Skysilk_egg.png/revision/latest?cb=20190427192330"
+    }
+  },
+  {
+    "breed": "Skywing Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "wiki_path": "/wiki/Skywing_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Skywing_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/34/Skywing_egg.gif/revision/latest?cb=20100326232320"
+    }
+  },
+  {
+    "breed": "Sophrosyne Dragon",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "wiki_path": "/wiki/Sophrosyne_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sophrosyne_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/21/Sophrosyne_egg.gif/revision/latest?cb=20210508062422"
+    }
+  },
+  {
+    "breed": "Speckle-Throated Dragon",
+    "egg_desc": "This egg has a rough—yet shiny—shell.",
+    "wiki_path": "/wiki/Speckle-Throated_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Speckle-Throated_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/99/Speckle-Throated_egg.gif/revision/latest?cb=20130304065259"
+    }
+  },
+  {
+    "breed": "Spinel Wyvern",
+    "egg_desc": "This glassy egg has a single stripe on it.",
+    "wiki_path": "/wiki/Spinel_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spinel_Wyvern_violet_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/62/Spinel_Wyvern_violet_egg.gif/revision/latest?cb=20170930230404"
+    }
+  },
+  {
+    "breed": "Spirit Ward Dragon",
+    "egg_desc": "This egg glows from within.",
+    "wiki_path": "/wiki/Spirit_Ward_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spirit_Ward_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d6/Spirit_Ward_egg.png/revision/latest?cb=20150726071712"
+    }
+  },
+  {
+    "breed": "Spitfire Dragon",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "wiki_path": "/wiki/Spitfire_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spitfire_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/19/Spitfire_egg.gif/revision/latest?cb=20100704151956"
+    }
+  },
+  {
+    "breed": "Spotted Greenwing",
+    "egg_desc": "This egg is covered in bright spots.",
+    "wiki_path": "/wiki/Spotted_Greenwing",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spotted_Greenwing_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e2/Spotted_Greenwing_egg.gif/revision/latest?cb=20110917090613"
+    }
+  },
+  {
+    "breed": "Stone Dragon",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "wiki_path": "/wiki/Stone_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Stone_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d9/Stone_egg.gif/revision/latest?cb=20090310172424"
+    }
+  },
+  {
+    "breed": "Storm Dragon",
+    "egg_desc": "This egg is surrounded by fog.",
+    "wiki_path": "/wiki/Storm_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Storm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/81/Storm_egg.gif/revision/latest?cb=20100326231836"
+    }
+  },
+  {
+    "breed": "Storm-Rider Dragon",
+    "egg_desc": "You can feel the static electricity that surrounds this egg.",
+    "wiki_path": "/wiki/Storm-Rider_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Storm-Rider_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e0/Storm-Rider_egg.png/revision/latest?cb=20160710113249"
+    }
+  },
+  {
+    "breed": "Stratos Dragon",
+    "egg_desc": "This egg is very large, but light for its size.",
+    "wiki_path": "/wiki/Stratos_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Stratos_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c3/Stratos_egg.png/revision/latest?cb=20200322040247"
+    }
+  },
+  {
+    "breed": "Striped Dragon",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "wiki_path": "/wiki/Striped_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Striped_white_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8c/Striped_white_egg.png/revision/latest?cb=20100405160707"
+    }
+  },
+  {
+    "breed": "Striped River Dragon",
+    "egg_desc": "A small puddle of condensation has collected under this egg.",
+    "wiki_path": "/wiki/Striped_River_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Striped_River_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/eb/Striped_River_egg.gif/revision/latest?cb=20150329015542"
+    }
+  },
+  {
+    "breed": "Sunset",
+    "egg_desc": "This egg is glowing as brightly as the sun.",
+    "wiki_path": "https://static.wikia.nocookie.net/dragcave/images/5/5b/Sunrise-Sunset_egg.gif/revision/latest?cb=20100326235413",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunrise-Sunset_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/5b/Sunrise-Sunset_egg.gif/revision/latest?cb=20100326235413"
+    }
+  },
+  {
+    "breed": "Sunsong Amphiptere",
+    "egg_desc": "This egg changes colors in the sunlight.",
+    "wiki_path": "/wiki/Sunsong_Amphiptere",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunsong_Amphiptere_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a1/Sunsong_Amphiptere_egg.gif/revision/latest?cb=20100401041314"
+    }
+  },
+  {
+    "breed": "Sunstone Dragon",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "wiki_path": "/wiki/Sunstone_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunstone_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/07/Sunstone_egg.gif/revision/latest?cb=20110718082207"
+    }
+  },
+  {
+    "breed": "Swallowtail Dragon",
+    "egg_desc": "This egg has a very thin shell.",
+    "wiki_path": "/wiki/Swallowtail_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Swallowtail_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/6f/Swallowtail_egg.gif/revision/latest?cb=20110316055643"
+    }
+  },
+  {
+    "breed": "Tercorn Dragon",
+    "egg_desc": "Water glistens on this egg’s shimmering shell.",
+    "wiki_path": "/wiki/Tercorn_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tercorn_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/29/Tercorn_egg.gif/revision/latest?cb=20190901161503"
+    }
+  },
+  {
+    "breed": "Terrae Dragon",
+    "egg_desc": "This egg is a lush green hue.",
+    "wiki_path": "/wiki/Terrae_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Terrae_egg_1.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e8/Terrae_egg_1.gif/revision/latest?cb=20140809085417"
+    }
+  },
+  {
+    "breed": "Tetra Dragon",
+    "egg_desc": "This egg has faint markings.",
+    "wiki_path": "/wiki/Tetra_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tetra_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f5/Tetra_egg.gif/revision/latest?cb=20170319130559"
+    }
+  },
+  {
+    "breed": "Thunder Dragon",
+    "egg_desc": "Whenever you go near this egg your hair stands on end.",
+    "wiki_path": "/wiki/Thunder_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Thunder_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/bb/Thunder_egg.gif/revision/latest?cb=20100327194233"
+    }
+  },
+  {
+    "breed": "Thundersnow Dragon",
+    "egg_desc": "Cold lightning arcs out from this egg’s shell if you try to touch it.",
+    "wiki_path": "/wiki/Thundersnow_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Thundersnow_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d5/Thundersnow_egg.gif/revision/latest?cb=20220521040331"
+    }
+  },
+  {
+    "breed": "Tideweaver Lindwyrm",
+    "egg_desc": "This egg has vivid red stripes, reminiscent of waves and flames at once.",
+    "wiki_path": "/wiki/Tideweaver_Lindwyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tideweaver_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/dc/Tideweaver_egg.gif/revision/latest?cb=20210508085022"
+    }
+  },
+  {
+    "breed": "Tinsel Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic looking.",
+    "wiki_path": "/wiki/Tinsel_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gold_Tinsel_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/94/Gold_Tinsel_egg.gif/revision/latest?cb=20110213202727"
+    }
+  },
+  {
+    "breed": "Tri-Horn Wyvern",
+    "egg_desc": "This brown egg is covered in intricate designs.",
+    "wiki_path": "/wiki/Tri-Horn_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tri-Horn_Wyvern_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/51/Tri-Horn_Wyvern_egg.png/revision/latest?cb=20121123081638"
+    }
+  },
+  {
+    "breed": "Tsunami Wyvern",
+    "egg_desc": "This egg is rocking back and forth in a puddle, creating small waves.",
+    "wiki_path": "/wiki/Tsunami_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tsunami_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a9/Tsunami_Wyvern_egg.gif/revision/latest?cb=20120522052309"
+    }
+  },
+  {
+    "breed": "Turpentine Dragon",
+    "egg_desc": "This egg smells strongly of turpentine.",
+    "wiki_path": "/wiki/Turpentine_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Turpentine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2d/Turpentine_egg.png/revision/latest?cb=20120425065122"
+    }
+  },
+  {
+    "breed": "Two-Finned Bluna",
+    "egg_desc": "This egg has colored speckles on it.",
+    "wiki_path": "/wiki/Two-Finned_Bluna",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Two-Finned_Bluna_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7c/Two-Finned_Bluna_egg.gif/revision/latest?cb=20100116232848"
+    }
+  },
+  {
+    "breed": "Ultraviolet Dragon",
+    "egg_desc": "This egg is very warm, as if it has been sitting out in strong sunlight.",
+    "wiki_path": "/wiki/Ultraviolet_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ultraviolet_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/4f/Ultraviolet_egg.gif/revision/latest?cb=20120522051151"
+    }
+  },
+  {
+    "breed": "Undine Dragon",
+    "egg_desc": "There is a thin layer of moisture coating this egg.",
+    "wiki_path": "/wiki/Undine_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Undine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b8/Undine_egg.png/revision/latest?cb=20140802171030"
+    }
+  },
+  {
+    "breed": "Vampire Dragon",
+    "egg_desc": "This egg is stone cold and smells rotten.",
+    "wiki_path": "/wiki/Vampire_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Vampire_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0a/Vampire_egg.gif/revision/latest?cb=20100401052333"
+    }
+  },
+  {
+    "breed": "Venturis Dragon",
+    "egg_desc": "An aura of serenity surrounds this iridescent egg.",
+    "wiki_path": "/wiki/Venturis_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Venturis_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a4/Venturis_egg.gif/revision/latest?cb=20200426040653"
+    }
+  },
+  {
+    "breed": "Water Dragon",
+    "egg_desc": "This egg is sitting in a shallow puddle.",
+    "wiki_path": "/wiki/Water_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Water_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1d/Water_egg.gif/revision/latest?cb=20100326233452"
+    }
+  },
+  {
+    "breed": "Water Walker Dragon",
+    "egg_desc": "This egg seems to be floating on a puddle.",
+    "wiki_path": "/wiki/Water_Walker_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Water_Walker_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d7/Water_Walker_egg.gif/revision/latest?cb=20100327001313"
+    }
+  },
+  {
+    "breed": "Waterhorse Dragon",
+    "egg_desc": "This egg is slimy and blue.",
+    "wiki_path": "/wiki/Waterhorse_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Waterhorse_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fc/Waterhorse_egg.gif/revision/latest?cb=20090826054221"
+    }
+  },
+  {
+    "breed": "Whiptail Dragon",
+    "egg_desc": "This egg shakes from time to time, as if it is eager to hatch.",
+    "wiki_path": "/wiki/Whiptail_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Whiptail_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/12/Whiptail_egg.gif/revision/latest?cb=20100327001427"
+    }
+  },
+  {
+    "breed": "White Dragon",
+    "egg_desc": "This egg has a very clean look; it’s completely devoid of dirt and scratches.",
+    "wiki_path": "/wiki/White_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "White_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b8/White_egg.gif/revision/latest?cb=20100326232036"
+    }
+  },
+  {
+    "breed": "Wisteria Dragon",
+    "egg_desc": "This egg is surrounded by beautiful flowers.",
+    "wiki_path": "/wiki/Wisteria_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Wisteria_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/98/Wisteria_egg.gif/revision/latest?cb=20220328045632"
+    }
+  },
+  {
+    "breed": "Aquilo Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Aquilo_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aquilo_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1a/Aquilo_egg.gif/revision/latest?cb=20200627063340"
+    }
+  },
+  {
+    "breed": "Aso Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Aso_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Aso_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/44/Aso_egg.gif/revision/latest?cb=20200627064700"
+    }
+  },
+  {
+    "breed": "Astrapi Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Astrapi_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Astrapi_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/48/Astrapi_egg.gif/revision/latest?cb=20150627180046"
+    }
+  },
+  {
+    "breed": "Chrono Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Chrono_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Chrono_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/ba/Chrono_egg.gif/revision/latest?cb=20150627180111"
+    }
+  },
+  {
+    "breed": "Gaia Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Gaia_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gaia_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c5/Gaia_Xenowyrm_egg.gif/revision/latest?cb=20150627180116"
+    }
+  },
+  {
+    "breed": "Ke’maro Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Ke%E2%80%99maro_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ke%27maro_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/94/Ke%27maro_Xenowyrm_egg.gif/revision/latest?cb=20200627065137"
+    }
+  },
+  {
+    "breed": "Mageia Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Mageia_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mageia_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/ad/Mageia_Xenowyrm_egg.gif/revision/latest?cb=20150627180103"
+    }
+  },
+  {
+    "breed": "Obidar Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Obidar_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Obidar_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e0/Obidar_Xenowyrm_egg.gif/revision/latest?cb=20200627065437"
+    }
+  },
+  {
+    "breed": "Pharos Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Pharos_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pharos_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fd/Pharos_Xenowyrm_egg.gif/revision/latest?cb=20200627064814"
+    }
+  },
+  {
+    "breed": "Pyro Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Pyro_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pyro_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/e4/Pyro_Xenowyrm_egg.gif/revision/latest?cb=20150627180121"
+    }
+  },
+  {
+    "breed": "Staterae Xenowyrm",
+    "egg_desc": "Mana flows like a current through this glassy egg.",
+    "wiki_path": "/wiki/Staterae_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Staterae_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/00/Staterae_Xenowyrm_egg.gif/revision/latest?cb=20200627065901"
+    }
+  },
+  {
+    "breed": "Thalassa Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Thalassa_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Thalassa_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/89/Thalassa_Xenowyrm_egg.gif/revision/latest?cb=20150627180055"
+    }
+  },
+  {
+    "breed": "Umbra Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "wiki_path": "/wiki/Umbra_Xenowyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Umbra_Xenowyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/5f/Umbra_Xenowyrm_egg.gif/revision/latest?cb=20200627065006"
+    }
+  },
+  {
+    "breed": "Xol Dragon",
+    "egg_desc": "This dull egg feels cozily warm.",
+    "wiki_path": "/wiki/Xol_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Xol_blue_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/76/Xol_blue_egg.gif/revision/latest?cb=20200426040352"
+    }
+  },
+  {
+    "breed": "Yellow-Crowned Dragon",
+    "egg_desc": "The air shimmers around this egg, as if from heat.",
+    "wiki_path": "/wiki/Yellow-Crowned_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Yellow-Crowned_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/06/Yellow-Crowned_egg.gif/revision/latest?cb=20130908041618"
+    }
+  },
+  {
+    "breed": "Zyumorph",
+    "egg_desc": "This shiny egg seems to radiate power.",
+    "wiki_path": "/wiki/Zyumorph",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Zyumorph_alpine_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/86/Zyumorph_alpine_egg.png/revision/latest?cb=20170521115306"
+    }
+  },
+  {
+    "breed": "Baikala Dragon",
+    "egg_desc": "This heavy egg has a soft, yielding shell.",
+    "wiki_path": "/wiki/Baikala_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Baikala_blue_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d5/Baikala_blue_egg.gif/revision/latest?cb=20170718093722"
+    }
+  },
+  {
+    "breed": "Bauta Dragon",
+    "egg_desc": "This egg has raised golden ridges.",
+    "wiki_path": "/wiki/Bauta_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Bauta_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/74/Bauta_egg.gif/revision/latest?cb=20170930230350"
+    }
+  },
+  {
+    "breed": "Blancblack Dragon",
+    "egg_desc": "This egg is dark with light speckles...or maybe it’s light with dark speckles?",
+    "wiki_path": "/wiki/Blancblack_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Blancblack_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1c/Blancblack_egg.gif/revision/latest?cb=20190310101620"
+    }
+  },
+  {
+    "breed": "Ciriax Lindwyrm",
+    "egg_desc": "This opalescent egg shimmers in the moonlight.",
+    "wiki_path": "/wiki/Ciriax_Lindwyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ciriax_blue_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b3/Ciriax_blue_egg.gif/revision/latest?cb=20210508060318"
+    }
+  },
+  {
+    "breed": "Duotone Dragon",
+    "egg_desc": "This egg can’t seem to make up its mind what color it is.",
+    "wiki_path": "/wiki/Duotone_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Duotone_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d1/Duotone_egg.png/revision/latest?cb=20130804081540"
+    }
+  },
+  {
+    "breed": "Geminae Dragon",
+    "egg_desc": "This shiny egg gives you a headache when you get close.",
+    "wiki_path": "/wiki/Geminae_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Geminae_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/45/Geminae_egg.gif/revision/latest?cb=20190521040458"
+    }
+  },
+  {
+    "breed": "Ghanser Dragon",
+    "egg_desc": "This egg has spots that glow brightly when touched.",
+    "wiki_path": "/wiki/Ghanser_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ghanser_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2f/Ghanser_egg.gif/revision/latest?cb=20220424040126"
+    }
+  },
+  {
+    "breed": "Gilded Bloodscale Dragon",
+    "egg_desc": "This egg glitters oddly in the light.",
+    "wiki_path": "/wiki/Gilded_Bloodscale_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Gilded_Bloodscale_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/9e/Gilded_Bloodscale_egg.gif/revision/latest?cb=20130523040507"
+    }
+  },
+  {
+    "breed": "Hooktalon Dragon",
+    "egg_desc": "The surface of this egg is rough and sharp.",
+    "wiki_path": "/wiki/Hooktalon_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Hooktalon_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/bb/Hooktalon_egg.png/revision/latest?cb=20150521041533"
+    }
+  },
+  {
+    "breed": "Jester Dragon",
+    "egg_desc": "This egg has a checkered shell.",
+    "wiki_path": "/wiki/Jester_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Jester_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/75/Jester_egg.png/revision/latest?cb=20200521040353"
+    }
+  },
+  {
+    "breed": "Magnesium Amphiptere",
+    "egg_desc": "This shiny grey egg smells of burnt metal.",
+    "wiki_path": "/wiki/Magnesium_Amphiptere",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Magnesium_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8d/Magnesium_egg.gif/revision/latest?cb=20210425121438"
+    }
+  },
+  {
+    "breed": "Nexus Dragon",
+    "egg_desc": "This dense, crystalline egg seems dangerously unstable.",
+    "wiki_path": "/wiki/Nexus_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nexus_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f8/Nexus_egg.png/revision/latest?cb=20160521092956"
+    }
+  },
+  {
+    "breed": "Scourgekeeper Dragon",
+    "egg_desc": "You feel a clawing dread the closer you get to this egg.",
+    "wiki_path": "/wiki/Scourgekeeper_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Scourgekeeper_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/11/Scourgekeeper_egg.png/revision/latest?cb=20220521040209"
+    }
+  },
+  {
+    "breed": "Split Dragon",
+    "egg_desc": "This egg is split down the middle into two colors.",
+    "wiki_path": "/wiki/Split_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Split_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0a/Split_egg.gif/revision/latest?cb=20100327194305"
+    }
+  },
+  {
+    "breed": "Temple Wyrm",
+    "egg_desc": "This egg has a winding pattern on it.",
+    "wiki_path": "/wiki/Temple_Wyrm",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Temple_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/41/Temple_egg.gif/revision/latest?cb=20210725040132"
+    }
+  },
+  {
+    "breed": "Avea Pygmy",
+    "egg_desc": "This tiny egg is rather light.",
+    "wiki_path": "/wiki/Avea_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Avea_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/95/Avea_egg.gif/revision/latest?cb=20190630212602"
+    }
+  },
+  {
+    "breed": "Avin Pygmy",
+    "egg_desc": "This tiny white egg shakes sometimes.",
+    "wiki_path": "/wiki/Avin_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Avin_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/ba/Avin_egg.gif/revision/latest?cb=20220328045607"
+    }
+  },
+  {
+    "breed": "Common Pygmy",
+    "egg_desc": "This egg is so tiny you almost didn’t see it.",
+    "wiki_path": "/wiki/Common_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Common_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d1/Common_Pygmy_egg.gif/revision/latest?cb=20100327182554"
+    }
+  },
+  {
+    "breed": "Coral Pygmy Wyvern",
+    "egg_desc": "This tiny egg is striped and feels coarse.",
+    "wiki_path": "/wiki/Coral_Pygmy_Wyvern",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Coral_Pygmy_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/4f/Coral_Pygmy_Wyvern_egg.gif/revision/latest?cb=20190901161524"
+    }
+  },
+  {
+    "breed": "Crimson Flare Pygmy",
+    "egg_desc": "This egg is tiny and brightly colored.",
+    "wiki_path": "/wiki/Crimson_Flare_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Crimson_Flare_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/bf/Crimson_Flare_Pygmy_egg.gif/revision/latest?cb=20110521085052"
+    }
+  },
+  {
+    "breed": "Dusk Pygmy",
+    "egg_desc": "This tiny egg is cold to the touch.",
+    "wiki_path": "/wiki/Dusk_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Dusk_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/21/Dusk_Pygmy_egg.gif/revision/latest?cb=20170625075013"
+    }
+  },
+  {
+    "breed": "Furor Pygmy",
+    "egg_desc": "Grabbing this tiny egg makes you feel reckless.",
+    "wiki_path": "/wiki/Furor_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Furor_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ec/Furor_egg.png/revision/latest?cb=20220521040224"
+    }
+  },
+  {
+    "breed": "Glowback Pygmy",
+    "egg_desc": "This tiny egg gives off a colorful glow.",
+    "wiki_path": "/wiki/Glowback_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Glowback_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/ca/Glowback_Pygmy_egg.gif/revision/latest?cb=20190721045310"
+    }
+  },
+  {
+    "breed": "Kovos Pygmy",
+    "egg_desc": "This tiny, dark egg fills you with existential dread.",
+    "wiki_path": "/wiki/Kovos_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Kovos_Pygmy_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/ae/Kovos_Pygmy_egg.png/revision/latest?cb=20190521040423"
+    }
+  },
+  {
+    "breed": "Kyanite Pygmy",
+    "egg_desc": "This tiny cobalt egg has a crystalline sheen.",
+    "wiki_path": "/wiki/Kyanite_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Kyanite_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/a/a8/Kyanite_Pygmy_egg.gif/revision/latest?cb=20160821113518"
+    }
+  },
+  {
+    "breed": "Magelight Pygmy",
+    "egg_desc": "This small egg is engulfed in a cool, purple flame.",
+    "wiki_path": "/wiki/Magelight_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Magelight_Pygmy_Wyvern_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d3/Magelight_Pygmy_Wyvern_egg.gif/revision/latest?cb=20150521041218"
+    }
+  },
+  {
+    "breed": "Mariner Pygmy",
+    "egg_desc": "This tiny egg smells like the sea.",
+    "wiki_path": "/wiki/Mariner_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mariner_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/04/Mariner_egg.gif/revision/latest?cb=20190427192442"
+    }
+  },
+  {
+    "breed": "Mimic Pygmy",
+    "egg_desc": "This tiny glowing egg tempts you to follow its light.",
+    "wiki_path": "/wiki/Mimic_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mimic_Pygmy_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/60/Mimic_Pygmy_egg.png/revision/latest?cb=20180729053613"
+    }
+  },
+  {
+    "breed": "Misfit Pygmy",
+    "egg_desc": "This tiny egg has crazy swirls on it.",
+    "wiki_path": "/wiki/Misfit_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Misfit_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/73/Misfit_Pygmy_egg.gif/revision/latest?cb=20110521085150"
+    }
+  },
+  {
+    "breed": "Mistlet Pygmy",
+    "egg_desc": "This tiny egg is mysterious and dark.",
+    "wiki_path": "/wiki/Mistlet_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Mistlet_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/9c/Mistlet_egg.gif/revision/latest?cb=20210508061553"
+    }
+  },
+  {
+    "breed": "Nilia Pygmy",
+    "egg_desc": "This tiny egg is heavier than you expected.",
+    "wiki_path": "/wiki/Nilia_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Nilia_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/cb/Nilia_Pygmy_egg.gif/revision/latest?cb=20110521085236"
+    }
+  },
+  {
+    "breed": "Pargulus Pygmy",
+    "egg_desc": "This tiny egg resembles a seed.",
+    "wiki_path": "/wiki/Pargulus_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pargulus_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/63/Pargulus_Pygmy_egg.gif/revision/latest?cb=20200521040354"
+    }
+  },
+  {
+    "breed": "Pipio Pygmy",
+    "egg_desc": "This little egg is soft with a few feathers stuck to it.",
+    "wiki_path": "/wiki/Pipio_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pipio_Pygmy_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1b/Pipio_Pygmy_egg.gif/revision/latest?cb=20180930222118"
+    }
+  },
+  {
+    "breed": "Red-Tailed Wyrm Pygmy",
+    "egg_desc": "This tiny egg has a bold red streak on it.",
+    "wiki_path": "/wiki/Red-Tailed_Wyrm_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Red-Tailed_Wyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/31/Red-Tailed_Wyrm_egg.gif/revision/latest?cb=20180422064034"
+    }
+  },
+  {
+    "breed": "Scymrian Pygmy",
+    "egg_desc": "This tiny egg flashes in the sunlight.",
+    "wiki_path": "/wiki/Scymrian_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Scymrian_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7d/Scymrian_egg.gif/revision/latest?cb=20210926040139"
+    }
+  },
+  {
+    "breed": "Seawyrm Pygmy",
+    "egg_desc": "This tiny egg shines like a pearl.",
+    "wiki_path": "/wiki/Seawyrm_Pygmy",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Seawyrm_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/4e/Seawyrm_egg.gif/revision/latest?cb=20210508061820"
+    }
+  },
+  {
+    "breed": "Glaucus Drake",
+    "egg_desc": "This striped egg feels moist.",
+    "wiki_path": "/wiki/Glaucus_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Glaucus_Drake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/30/Glaucus_Drake_egg.png/revision/latest?cb=20160522045206"
+    }
+  },
+  {
+    "breed": "Greater Spotted Drake",
+    "egg_desc": "This egg is speckled with rosette-like markings.",
+    "wiki_path": "/wiki/Greater_Spotted_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Greater_Spotted_Drake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/07/Greater_Spotted_Drake_egg.png/revision/latest?cb=20160522045209"
+    }
+  },
+  {
+    "breed": "Honey Drake",
+    "egg_desc": "This egg is covered in tiny golden scales.",
+    "wiki_path": "/wiki/Honey_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Honey_Drake_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/06/Honey_Drake_egg.gif/revision/latest?cb=20161126214544"
+    }
+  },
+  {
+    "breed": "Howler Drake",
+    "egg_desc": "You hear strange noises coming from inside this egg.",
+    "wiki_path": "/wiki/Howler_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Howler_Drake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3e/Howler_Drake_egg.png/revision/latest?cb=20160522045209"
+    }
+  },
+  {
+    "breed": "Moonglow Drake",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "wiki_path": "/wiki/Moonglow_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunbeam_Moonglow_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2b/Sunbeam_Moonglow_egg.gif/revision/latest?cb=20210508062910"
+    }
+  },
+  {
+    "breed": "Morphodrake",
+    "egg_desc": "A few bright markings decorate this egg’s shell.",
+    "wiki_path": "/wiki/Morphodrake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Morphodrake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3d/Morphodrake_egg.png/revision/latest?cb=20160521092957"
+    }
+  },
+  {
+    "breed": "Ochredrake",
+    "egg_desc": "This egg has strange markings on it.",
+    "wiki_path": "/wiki/Ochredrake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Ochredrake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/34/Ochredrake_egg.png/revision/latest?cb=20160522045210"
+    }
+  },
+  {
+    "breed": "Pseudo-wyvern Drake",
+    "egg_desc": "It almost looks like there are claw marks on this egg.",
+    "wiki_path": "/wiki/Pseudo-wyvern_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Pseudo-wyvern_Drake_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/18/Pseudo-wyvern_Drake_egg.gif/revision/latest?cb=20200726040115"
+    }
+  },
+  {
+    "breed": "Sabertooth Bull Drake",
+    "egg_desc": "This striped egg is surprisingly heavy.",
+    "wiki_path": "/wiki/Sabertooth_Bull_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sabertooth_Bull_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/5e/Sabertooth_Bull_egg.png/revision/latest?cb=20210627040316"
+    }
+  },
+  {
+    "breed": "Spotted Teal Drake",
+    "egg_desc": "You almost didn’t see this egg among the plants.",
+    "wiki_path": "/wiki/Spotted_Teal_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Spotted_Teal_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/39/Spotted_Teal_egg.gif/revision/latest?cb=20210627040258"
+    }
+  },
+  {
+    "breed": "Sunbeam Drake",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "wiki_path": "/wiki/Sunbeam_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunbeam_Moonglow_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2b/Sunbeam_Moonglow_egg.gif/revision/latest?cb=20210508062910"
+    }
+  },
+  {
+    "breed": "Tarantula Hawk Drake",
+    "egg_desc": "A delicate web-like pattern decorates this egg’s shell.",
+    "wiki_path": "/wiki/Tarantula_Hawk_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tarantula_Hawk_Drake_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/dc/Tarantula_Hawk_Drake_egg.png/revision/latest?cb=20160521092957"
+    }
+  },
+  {
+    "breed": "Tatterdrake",
+    "egg_desc": "This egg has a rough shell.",
+    "wiki_path": "/wiki/Tatterdrake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Tatterdrake_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/59/Tatterdrake_egg.gif/revision/latest?cb=20180422064035"
+    }
+  },
+  {
+    "breed": "Vremya Drake",
+    "egg_desc": "This smooth green egg looks vaguely familiar.",
+    "wiki_path": "/wiki/Vremya_Drake",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Vremya_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0e/Vremya_egg.gif/revision/latest?cb=20190521040514"
+    }
+  },
+  {
+    "breed": "Blue Dino",
+    "egg_desc": "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much lighter than the other eggs.",
+    "wiki_path": "/wiki/Blue_Dino",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Blue_Dino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/be/Blue_Dino_egg.gif/revision/latest?cb=20100327002132"
+    }
+  },
+  {
+    "breed": "Cheese Dragon",
+    "egg_desc": "This egg is soft and smells uncannily like cheese.",
+    "wiki_path": "/wiki/Cheese_Dragon",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Cheese_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d0/Cheese_egg.gif/revision/latest?cb=20201125144616"
+    }
+  },
+  {
+    "breed": "Chicken",
+    "egg_desc": "This egg is much smaller than the others.",
+    "wiki_path": "/wiki/Chicken",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Chicken_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fc/Chicken_egg.gif/revision/latest?cb=20100328010108"
+    }
+  },
+  {
+    "breed": "Green Dino",
+    "egg_desc": "This egg looks like it doesn’t belong; it is brightly colored with white spots.",
+    "wiki_path": "/wiki/Green_Dino",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Green_Dino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3a/Green_Dino_egg.gif/revision/latest?cb=20100326232739"
+    }
+  },
+  {
+    "breed": "Paper Dragon",
+    "egg_desc": "This egg is tiny and made out of several pieces of paper folded together.",
+    "wiki_path": "/wiki/Paper_Dragon",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Paper_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1e/Paper_egg.gif/revision/latest?cb=20130420150616"
+    }
+  },
+  {
+    "breed": "Purple Dino",
+    "egg_desc": "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much lighter than the other eggs.",
+    "wiki_path": "/wiki/Purple_Dino",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Purple_Dino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/9d/Purple_Dino_egg.gif/revision/latest?cb=20100327003950"
+    }
+  },
+  {
+    "breed": "Red Dino",
+    "egg_desc": "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much warmer than the rest of the eggs.",
+    "wiki_path": "/wiki/Red_Dino",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Red_Dino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c7/Red_Dino_egg.gif/revision/latest?cb=20100327002521"
+    }
+  },
+  {
+    "breed": "Yellow Dino",
+    "egg_desc": "This egg looks like it doesn’t belong; it is brightly colored with white spots. It’s much heavier than the other eggs.",
+    "wiki_path": "/wiki/Yellow_Dino",
+    "rarity": "Other",
+    "egg_sprite": {
+      "filename": "Yellow_Dino_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ea/Yellow_Dino_egg.gif/revision/latest?cb=20100327004023"
+    }
+  },
+  {
+    "breed": "Valentine Dragon",
+    "egg_desc": "This egg is speckled and very fragile.",
+    "wiki_path": "/wiki/Valentine_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Valentine_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/ba/Valentine_egg.gif/revision/latest?cb=20091226115201"
+    }
+  },
+  {
+    "breed": "Sweetling",
+    "egg_desc": "This egg looks delicate and sweet.",
+    "wiki_path": "/wiki/Sweetling",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Sweetling_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/6/68/Sweetling_egg.gif/revision/latest?cb=20100214060518"
+    }
+  },
+  {
+    "breed": "Rosebud Dragon",
+    "egg_desc": "This sweet smelling egg is covered by a ribbon.",
+    "wiki_path": "/wiki/Rosebud_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Rosebud_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c0/Rosebud_egg.gif/revision/latest?cb=20110214053658"
+    }
+  },
+  {
+    "breed": "Heartseeker Dragon",
+    "egg_desc": "This scarlet egg has a faintly sweet aroma.",
+    "wiki_path": "/wiki/Heartseeker_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Heartseeker_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0f/Heartseeker_egg.gif/revision/latest?cb=20120214050456"
+    }
+  },
+  {
+    "breed": "Arsani Dragon",
+    "egg_desc": "This egg is a deep pink.",
+    "wiki_path": "/wiki/Arsani_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Arsani_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c3/Arsani_egg.gif/revision/latest?cb=20130214051557"
+    }
+  },
+  {
+    "breed": "Radiant Angel Dragon",
+    "egg_desc": "This radiant white egg has red and gold swirls on it.",
+    "wiki_path": "/wiki/Radiant_Angel_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Radiant_Angel_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/be/Radiant_Angel_egg.png/revision/latest?cb=20140214110806"
+    }
+  },
+  {
+    "breed": "Heartstealing Dragon",
+    "egg_desc": "This egg is so shiny it makes you want to take it.",
+    "wiki_path": "/wiki/Heartstealing_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Heartstealing_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c1/Heartstealing_egg.png/revision/latest?cb=20150214063338"
+    }
+  },
+  {
+    "breed": "Mutamore Dragon",
+    "egg_desc": "This lovely egg has rolled off to the side.",
+    "wiki_path": "/wiki/Mutamore_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Mutamore_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/31/Mutamore_egg.gif/revision/latest?cb=20160214050112"
+    }
+  },
+  {
+    "breed": "Soulstone Dragon",
+    "egg_desc": "This deep purple egg shimmers like a pearl.",
+    "wiki_path": "/wiki/Soulstone_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Soulstone_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/df/Soulstone_egg.png/revision/latest?cb=20170219235756"
+    }
+  },
+  {
+    "breed": "Floral-Crowned Dragon",
+    "egg_desc": "This egg has a sweet, floral scent.",
+    "wiki_path": "/wiki/Floral-Crowned_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Floral-Crowned_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/f4/Floral-Crowned_egg.png/revision/latest?cb=20180214073617"
+    }
+  },
+  {
+    "breed": "Sakuhana Wyvern",
+    "egg_desc": "This warm egg is surrounded by plants.",
+    "wiki_path": "/wiki/Sakuhana_Wyvern",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Sakuhana_Wyvern_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0b/Sakuhana_Wyvern_egg.png/revision/latest?cb=20190214082959"
+    }
+  },
+  {
+    "breed": "Erador Lindwyrm",
+    "egg_desc": "This regal egg feels oddly light.",
+    "wiki_path": "/wiki/Erador_Lindwyrm",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Erador_Lindwyrm_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/91/Erador_Lindwyrm_egg.png/revision/latest?cb=20200214050129"
+    }
+  },
+  {
+    "breed": "Amarignis Dragon",
+    "egg_desc": "Dim flames spark up from this egg whenever joy sparks up in you.",
+    "wiki_path": "/wiki/Amarignis_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Amarignis_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8b/Amarignis_egg.gif/revision/latest?cb=20210214050111"
+    }
+  },
+  {
+    "breed": "Vermeil Dragon",
+    "egg_desc": "This egg smells pleasantly floral, maybe fruity.",
+    "wiki_path": "/wiki/Vermeil_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Vermeil_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fd/Vermeil_egg.png/revision/latest?cb=20220214050034"
+    }
+  },
+  {
+    "breed": "Vampire Dragon",
+    "egg_desc": "This egg is stone cold and smells rotten.",
+    "wiki_path": "/wiki/Vampire_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Vampire_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0a/Vampire_egg.gif/revision/latest?cb=20100401052333"
+    }
+  },
+  {
+    "breed": "Pumpkin Dragon",
+    "egg_desc": "This egg smells like the autumn harvest.",
+    "wiki_path": "/wiki/Pumpkin_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Pumpkin_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/f/fe/Pumpkin_egg.gif/revision/latest?cb=20101029133918"
+    }
+  },
+  {
+    "breed": "Black Marrow",
+    "egg_desc": "This egg is covered in a dark crust.",
+    "wiki_path": "/wiki/Black_Marrow",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Black_Marrow_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/3b/Black_Marrow_egg.gif/revision/latest?cb=20101101062600"
+    }
+  },
+  {
+    "breed": "Shadow Walker",
+    "egg_desc": "This egg fades into the shadows.",
+    "wiki_path": "/wiki/Shadow_Walker",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Shadow_Walker_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/c/c1/Shadow_Walker_egg.gif/revision/latest?cb=20111031040512"
+    }
+  },
+  {
+    "breed": "Cavern Lurker Dragon",
+    "egg_desc": "This egg is wedged in a dark corner.",
+    "wiki_path": "/wiki/Cavern_Lurker_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Cavern_Lurker_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b7/Cavern_Lurker_egg.gif/revision/latest?cb=20121103040826"
+    }
+  },
+  {
+    "breed": "Grave Dragon",
+    "egg_desc": "This egg appears to have an evil grin.",
+    "wiki_path": "/wiki/Grave_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Grave_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0e/Grave_egg.png/revision/latest?cb=20131031041612"
+    }
+  },
+  {
+    "breed": "Desipis Dragon",
+    "egg_desc": "Being near this egg makes it hard to think clearly.",
+    "wiki_path": "/wiki/Desipis_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Desipis_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b3/Desipis_egg.png/revision/latest?cb=20141031040823"
+    }
+  },
+  {
+    "breed": "Caligene Dragon",
+    "egg_desc": "The pattern on this egg’s shell is unsettling.",
+    "wiki_path": "/wiki/Caligene_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Caligene_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2c/Caligene_egg.png/revision/latest?cb=20151031040155"
+    }
+  },
+  {
+    "breed": "Witchlight Dragon",
+    "egg_desc": "This downy egg is hidden in brambles.",
+    "wiki_path": "/wiki/Witchlight_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Witchlight_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b9/Witchlight_egg.png/revision/latest?cb=20161031042523"
+    }
+  },
+  {
+    "breed": "Omen Wyrm",
+    "egg_desc": "This warm egg is tangled in the roots of a dead tree.",
+    "wiki_path": "/wiki/Omen_Wyrm",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Omen_Wyrm_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/7/7c/Omen_Wyrm_egg.png/revision/latest?cb=20171031053452"
+    }
+  },
+  {
+    "breed": "Arcana Dragon",
+    "egg_desc": "This egg has reflective spots that remind you of gems, or eyes.",
+    "wiki_path": "/wiki/Arcana_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Arcana_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/8/8b/Arcana_egg.png/revision/latest?cb=20181031060545"
+    }
+  },
+  {
+    "breed": "Kohraki Dragon",
+    "egg_desc": "A fine mist rolls over this cool, scaly egg.",
+    "wiki_path": "/wiki/Kohraki_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Kohraki_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/09/Kohraki_egg.png/revision/latest?cb=20191031040549"
+    }
+  },
+  {
+    "breed": "Pitfire Dragon",
+    "egg_desc": "Dead leaves obscure this egg’s scratched shell.",
+    "wiki_path": "/wiki/Pitfire_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Pitfire_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ee/Pitfire_egg.png/revision/latest?cb=20201031040253"
+    }
+  },
+  {
+    "breed": "Iridichi Dragon",
+    "egg_desc": "Your eyes struggle to completely focus on the light coming through this cloudy egg.",
+    "wiki_path": "/wiki/Iridichi_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Iridichi_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/24/Iridichi_egg.gif/revision/latest?cb=20211031042056"
+    }
+  },
+  {
+    "breed": "Holly Dragon",
+    "egg_desc": "This egg has a holly leaf stuck to it.",
+    "wiki_path": "/wiki/Holly_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Holly_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1c/Holly_egg.png/revision/latest?cb=20101221163536"
+    }
+  },
+  {
+    "breed": "Yulebuck",
+    "egg_desc": "This egg is covered with bright, festive stripes.",
+    "wiki_path": "/wiki/Yulebuck",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Yulebuck_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/bc/Yulebuck_egg.gif/revision/latest?cb=20090423185228"
+    }
+  },
+  {
+    "breed": "Snow Angel",
+    "egg_desc": "This egg fills you with holiday cheer.",
+    "wiki_path": "/wiki/Snow_Angel",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Snow_Angel_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/3/35/Snow_Angel_egg.gif/revision/latest?cb=20101227034458"
+    }
+  },
+  {
+    "breed": "Ribbon Dancer",
+    "egg_desc": "This egg shines like a holiday ribbon.",
+    "wiki_path": "/wiki/Ribbon_Dancer",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Ribbon_Dancer_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/2/2e/Ribbon_Dancer_egg.gif/revision/latest?cb=20101225051954"
+    }
+  },
+  {
+    "breed": "Blizzard Wizard",
+    "egg_desc": "This colorful egg is covered by a light layer of snow.",
+    "wiki_path": "/wiki/Blizzard_Wizard",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Blizzard_Wizard_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/4/46/Blizzard_Wizard_egg.png/revision/latest?cb=20210508061237"
+    }
+  },
+  {
+    "breed": "Wrapping-Wing",
+    "egg_desc": "This egg has a rich, shiny pattern on it.",
+    "wiki_path": "/wiki/Wrapping-Wing",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Wrapping-Wing_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ee/Wrapping-Wing_egg.gif/revision/latest?cb=20121225055209"
+    }
+  },
+  {
+    "breed": "Solstice Dragon",
+    "egg_desc": "This egg emits a soft, heartwarming glow.",
+    "wiki_path": "/wiki/Solstice_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Solstice_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/b/b1/Solstice_egg.gif/revision/latest?cb=20131225053132"
+    }
+  },
+  {
+    "breed": "Mistletoe Dragon",
+    "egg_desc": "This colorful egg gleams in the light.",
+    "wiki_path": "/wiki/Mistletoe_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Mistletoe_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d8/Mistletoe_egg.png/revision/latest?cb=20141225051053"
+    }
+  },
+  {
+    "breed": "Aegis Dragon",
+    "egg_desc": "A wintry chill swirls just beneath the surface of this egg.",
+    "wiki_path": "/wiki/Aegis_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Aegis_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/0/0e/Aegis_egg.png/revision/latest?cb=20151225050241"
+    }
+  },
+  {
+    "breed": "Snow Dragon",
+    "egg_desc": "This egg is surrounded by frost.",
+    "wiki_path": "/wiki/Snow_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Snow_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/59/Snow_egg.png/revision/latest?cb=20161225050715"
+    }
+  },
+  {
+    "breed": "Garland Dragon",
+    "egg_desc": "This festive egg gives off comforting warmth.",
+    "wiki_path": "/wiki/Garland_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Garland_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/1e/Garland_egg.png/revision/latest?cb=20171225071828"
+    }
+  },
+  {
+    "breed": "Starsinger Dragon",
+    "egg_desc": "This egg glows with a soft, soothing light.",
+    "wiki_path": "/wiki/Starsinger_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Starsinger_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/d/d1/Starsinger_egg.png/revision/latest?cb=20181226075741"
+    }
+  },
+  {
+    "breed": "Wintertide Dragon",
+    "egg_desc": "This egg emanates a gentle chime when met with the winter breeze.",
+    "wiki_path": "/wiki/Wintertide_Dragon",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Wintertide_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/e/ed/Wintertide_egg.png/revision/latest?cb=20191225050109"
+    }
+  },
+  {
+    "breed": "Glystere Wyrm",
+    "egg_desc": "Colorful light twinkles within this frozen egg.",
+    "wiki_path": "/wiki/Glystere_Wyrm",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Glystere_egg.png",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/9/92/Glystere_egg.png/revision/latest?cb=20201225053851"
+    }
+  },
+  {
+    "breed": "Pryanost Lindwyrm",
+    "egg_desc": "This warm brown egg smells faintly of spices.",
+    "wiki_path": "/wiki/Pryanost_Lindwyrm",
+    "rarity": "Holiday",
+    "egg_sprite": {
+      "filename": "Pryanost_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/1/18/Pryanost_egg.gif/revision/latest?cb=20211225050135"
+    }
+  }
+]

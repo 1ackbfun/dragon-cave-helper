@@ -1,0 +1,1710 @@
+[
+  {
+    "breed": "Aeon Wyvern",
+    "breed_chs": "永恒龙",
+    "egg_desc": "It's almost like time is distorted around this egg.",
+    "egg_desc_chs": "时间在这颗蛋周围似乎被扭曲了。",
+    "wiki_path": "/zh/wiki/%E6%B0%B8%E6%81%86%E9%BE%8D"
+  },
+  {
+    "breed": "Aeria Gloris",
+    "breed_chs": "至高荣誉龙",
+    "egg_desc": "This crystalline egg almost looks like you could reach into its depths.",
+    "egg_desc_chs": "这颗结晶化的蛋似是能让你看透其内侧。",
+    "wiki_path": "/zh/wiki/%E8%87%B3%E9%AB%98%E6%A6%AE%E8%AD%BD%E9%BE%8D"
+  },
+  {
+    "breed": "Aether Wyvern",
+    "breed_chs": "埃忒耳龙",
+    "egg_desc": "Wind gusts around this egg.",
+    "egg_desc_chs": "风在蛋的四周呼啸。",
+    "wiki_path": "/zh/wiki/%E5%9F%83%E5%BF%92%E8%80%B3%E9%BE%8D"
+  },
+  {
+    "breed": "Albino",
+    "breed_chs": "白化龙",
+    "egg_desc": "You can see the baby dragon curled up inside this translucent egg.",
+    "egg_desc_chs": "你能看到龙宝宝蜷缩在这个半透明的蛋里。",
+    "wiki_path": "/zh/wiki/%E7%99%BD%E5%8C%96%E9%BE%8D"
+  },
+  {
+    "breed": "Almerald",
+    "breed_chs": "祖姆绿龙",
+    "egg_desc": "This glossy green egg is rather warm.",
+    "egg_desc_chs": "这颗光滑的绿蛋挺温暖的。",
+    "wiki_path": "/zh/wiki/%E7%A5%96%E5%A7%86%E7%B6%A0%E9%BE%8D"
+  },
+  {
+    "breed": "Anagallis",
+    "breed_chs": "海绿龙",
+    "egg_desc": "This delicately patterned egg is sitting in the sunshine.",
+    "egg_desc_chs": "这颗图案精致的蛋躺在阳光下。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Antarean",
+    "breed_chs": "安塔林龙",
+    "egg_desc": "This egg is surrounded by mysterious, reflective dust.",
+    "egg_desc_chs": "这颗蛋被神秘的反光尘埃环绕著。",
+    "wiki_path": "/zh/wiki/%E5%AE%89%E5%A1%94%E6%9E%97%E9%BE%8D"
+  },
+  {
+    "breed": "Aqualis",
+    "breed_chs": "水利司龙",
+    "egg_desc": "This drab egg rests far from the water's edge.",
+    "egg_desc_chs": "这颗蓝灰色的蛋离水边有一段距离。",
+    "wiki_path": "/zh/wiki/%E6%B0%B4%E5%88%A9%E5%8F%B8%E9%BE%8D"
+  },
+  {
+    "breed": "Aranoa",
+    "breed_chs": "艾拉诺亚龙",
+    "egg_desc": "The vibrant scales on this egg glisten in the sunlight.",
+    "egg_desc_chs": "这颗蛋的鳞片在阳光下闪闪发光。",
+    "wiki_path": "/zh/wiki/%E8%89%BE%E6%8B%89%E8%AB%BE%E4%BA%9E%E9%BE%8D"
+  },
+  {
+    "breed": "Aria",
+    "breed_chs": "咏叹龙",
+    "egg_desc": "This bright egg has a warm shell.",
+    "egg_desc_chs": "这颗明亮的蛋有著温暖的壳。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Avatar of Change",
+    "breed_chs": "变化的化身",
+    "egg_desc": "This iridescent egg radiates mysterious energy.",
+    "egg_desc_chs": "这颗有著闪亮虹彩的蛋散发出神秘的能量。",
+    "wiki_path": "/zh/wiki/%E8%AE%8A%E5%8C%96%E7%9A%84%E5%8C%96%E8%BA%AB"
+  },
+  {
+    "breed": "Avatar of Creation",
+    "breed_chs": "创造的化身",
+    "egg_desc": "This shimmering egg radiates primordial energy.",
+    "egg_desc_chs": "这颗闪烁微光的蛋散发出原始的能量。",
+    "wiki_path": "/zh/wiki/%E5%89%B5%E9%80%A0%E7%9A%84%E5%8C%96%E8%BA%AB"
+  },
+  {
+    "breed": "Avatar of Destruction",
+    "breed_chs": "毁灭的化身",
+    "egg_desc": "This smoldering egg radiates volatile energy.",
+    "egg_desc_chs": "这颗焖烧的蛋散释放着不稳定的能量。",
+    "wiki_path": "/zh/wiki/%E6%AF%80%E6%BB%85%E7%9A%84%E5%8C%96%E8%BA%AB"
+  },
+  {
+    "breed": "Ash",
+    "breed_chs": "阴灰龙",
+    "egg_desc": "This ashen egg is smooth to the touch﻿.",
+    "egg_desc_chs": "这颗阴灰的蛋触感光滑。",
+    "wiki_path": "/zh/wiki/%E9%99%B0%E7%81%B0%E9%BE%8D"
+  },
+  {
+    "breed": "Azure Glacewing",
+    "breed_chs": "苍冰翅龙",
+    "egg_desc": "This large egg has a lustrous sheen and appears to be covered in scales.",
+    "egg_desc_chs": "这是颗散发著光泽且布满麟片的大蛋。",
+    "wiki_path": "/zh/wiki/%E8%92%BC%E5%86%B0%E7%BF%85%E9%BE%8D"
+  },
+  {
+    "breed": "Balloon",
+    "breed_chs": "气球龙",
+    "egg_desc": "This light egg is floating in the air.",
+    "egg_desc_chs": "这颗轻飘飘的蛋浮在空中。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Black",
+    "breed_chs": "黑龙",
+    "egg_desc": "This egg has a faint green glow around it.",
+    "egg_desc_chs": "这颗蛋周围有淡淡的绿色光晕。",
+    "wiki_path": "/zh/wiki/%E9%BB%91%E9%BE%8D"
+  },
+  {
+    "breed": "Black Capped Teimarr",
+    "breed_chs": "黑帽泰马尔龙",
+    "egg_desc": "This egg has a black cap.",
+    "egg_desc_chs": "这颗蛋有一个黑尖儿。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Black Tea",
+    "breed_chs": "红茶龙",
+    "egg_desc": "This egg has a faintly exotic scent.",
+    "egg_desc_chs": "这颗蛋有种淡淡的异国情调的香味儿。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Black Truffle",
+    "breed_chs": "黑松露龙",
+    "egg_desc": "This egg has a pleasant, musky smell.",
+    "egg_desc_chs": "这蛋带有一股令人愉悦的麝香味。",
+    "wiki_path": "/zh/wiki/%E9%BB%91%E6%9D%BE%E9%9C%B2%E9%BE%8D"
+  },
+  {
+    "breed": "Blacktip",
+    "breed_chs": "黑鳍龙",
+    "egg_desc": "This egg is off-white in color and smells a bit like salt.",
+    "egg_desc_chs": "这颗蛋是灰白色的，闻起来有些像盐。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Bleeding Moon",
+    "breed_chs": "血月龙",
+    "egg_desc": "This egg shines brilliantly in moonlight, and is covered in red spots.",
+    "egg_desc_chs": "这颗被红斑覆盖的蛋在月光下闪耀。",
+    "wiki_path": "/zh/wiki/%E8%A1%80%E6%9C%88%E9%BE%8D"
+  },
+  {
+    "breed": "Blue-Banded",
+    "breed_chs": "蓝纹龙",
+    "egg_desc": "This egg is covered in thick blue stripes.",
+    "egg_desc_chs": "这颗蛋上有密集的蓝色条纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Blusang Lindwurm",
+    "breed_chs": "蓝桑鳞龙",
+    "egg_desc": "This egg smells faintly like brine.",
+    "egg_desc_chs": "这颗蛋闻起来有点儿像海水。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Bolt",
+    "breed_chs": "闪电龙",
+    "egg_desc": "This egg has a striking pattern.",
+    "egg_desc_chs": "这蛋有著引人注目的花纹。",
+    "wiki_path": "/zh/wiki/%E9%96%83%E9%9B%BB%E9%BE%8D"
+  },
+  {
+    "breed": "Boreal",
+    "breed_chs": "北方极龙",
+    "egg_desc": "This egg is covered in pale blue spots.",
+    "egg_desc_chs": "这颗蛋满布亮蓝色的斑点。",
+    "wiki_path": "/zh/wiki/%E5%8C%97%E6%96%B9%E6%A5%B5%E9%BE%8D"
+  },
+  {
+    "breed": "Bright-breasted Wyvern",
+    "breed_chs": "鲜胸纹翼龙",
+    "egg_desc": "This egg is covered in speckles.",
+    "egg_desc_chs": "这颗蛋覆盖在斑点下。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Brimstone",
+    "breed_chs": "硫磺龙",
+    "egg_desc": "This egg smells rather rancid.",
+    "egg_desc_chs": "这颗蛋闻起来颇为腐臭。",
+    "wiki_path": "/zh/wiki/%E7%A1%AB%E7%A3%BA%E9%BE%8D"
+  },
+  {
+    "breed": "Brute",
+    "breed_chs": "狂龙",
+    "egg_desc": "This egg is unusually large and heavy.",
+    "egg_desc_chs": "这颗蛋又大又重。",
+    "wiki_path": "/zh/wiki/%E7%8B%82%E9%BE%8D"
+  },
+  {
+    "breed": "Candelabra",
+    "breed_chs": "枝状烛台龙",
+    "egg_desc": "This mottled red egg almost glows from within.",
+    "egg_desc_chs": "这颗斑驳的红蛋似乎自内而外散发著光。",
+    "wiki_path": "/zh/wiki/%E6%9E%9D%E7%8B%80%E7%87%AD%E8%87%BA%E9%BE%8D"
+  },
+  {
+    "breed": "Canopy",
+    "breed_chs": "林冠龙",
+    "egg_desc": "This egg is hidden by some leaves.",
+    "egg_desc_chs": "这颗蛋隐藏在叶子里。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Carina",
+    "breed_chs": "船底座龙",
+    "egg_desc": "This egg shimmers with dazzling constellations.",
+    "egg_desc_chs": "这蛋闪著耀眼的星座图案。",
+    "wiki_path": "/zh/wiki/%E8%88%B9%E5%BA%95%E5%BA%A7%E9%BE%8D"
+  },
+  {
+    "breed": "Carmine Wyvern",
+    "breed_chs": "胭脂红翼龙",
+    "egg_desc": "This pink and red egg wobbles occasionally.",
+    "egg_desc_chs": "这颗粉红相间的蛋时不时会摇晃。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Cassare",
+    "breed_chs": "撤魔龙",
+    "egg_desc": "This egg makes you feel a bit uneasy.",
+    "egg_desc_chs": "这颗蛋让你感到有些不安。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Celestial",
+    "breed_chs": "天龙",
+    "egg_desc": "This translucent egg shines like starlight.",
+    "egg_desc_chs": "这颗通透的蛋散发出如星辰的光芒。",
+    "wiki_path": "/zh/wiki/%E5%A4%A9%E9%BE%8D"
+  },
+  {
+    "breed": "Coastal Waverunner",
+    "breed_chs": "海岸浪奔龙",
+    "egg_desc": "This egg reminds you of the sea.",
+    "egg_desc_chs": "这颗蛋令你想起海洋。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Copper Dragon1",
+    "breed_chs": "铜龙",
+    "egg_desc": "This egg gleams with a reddish shine.",
+    "egg_desc_chs": "这颗蛋闪耀著淡红的光芒。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Crystalline",
+    "breed_chs": "结晶龙",
+    "egg_desc": "This icy egg sparkles with frost.",
+    "egg_desc_chs": "这颗结冰的蛋因霜而闪闪发光。",
+    "wiki_path": "/zh/wiki/%E7%B5%90%E6%99%B6%E9%BE%8D"
+  },
+  {
+    "breed": "Dark Green",
+    "breed_chs": "深绿龙",
+    "egg_desc": "This egg is sitting in a patch of grass and small flowers even though there's no sun in the cave.",
+    "egg_desc_chs": "这颗蛋位于一片草与小花中，尽管洞穴里没有阳光。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Dark Lumina",
+    "breed_chs": "黑暗绚光龙",
+    "egg_desc": "This egg shines coldly in the moonlight.",
+    "egg_desc_chs": "这颗蛋在月光下冷冷地发著光。",
+    "wiki_path": "/zh/wiki/%E9%BB%91%E6%9A%97%E7%B5%A2%E5%85%89%E9%BE%8D"
+  },
+  {
+    "breed": "Daydream",
+    "breed_chs": "空想龙",
+    "egg_desc": "This egg is sitting on a cloud.",
+    "egg_desc_chs": "这颗蛋坐在云彩上。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Deep Sea",
+    "breed_chs": "深海龙",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "egg_desc_chs": "这颗蛋似乎覆着鳞。",
+    "wiki_path": "/zh/wiki/%E6%B7%B1%E6%B5%B7%E9%BE%8D"
+  },
+  {
+    "breed": "Diamondwing",
+    "breed_chs": "钻翼龙",
+    "egg_desc": "This egg shines like a diamond.",
+    "egg_desc_chs": "这蛋如钻石般闪亮。",
+    "wiki_path": "/zh/wiki/%E9%91%BD%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Purple Dorsal",
+    "breed_chs": "脊背龙",
+    "egg_desc": "This egg has multiple bands of color on it.",
+    "egg_desc_chs": "这颗蛋上有多重颜色排列。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Electric",
+    "breed_chs": "电光龙",
+    "egg_desc": "Electric sparks dance across the surface of this egg.",
+    "egg_desc_chs": "电火花在这颗蛋的表面舞动。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Ember",
+    "breed_chs": "馀焰龙",
+    "egg_desc": "This egg is really hot.",
+    "egg_desc_chs": "这颗蛋真的很烫。",
+    "wiki_path": "/zh/wiki/%E9%A4%98%E7%87%84%E9%BE%8D"
+  },
+  {
+    "breed": "Falconiform Wyvern",
+    "breed_chs": "隼形翼龙",
+    "egg_desc": "Cold flames dance across the surface of this egg.",
+    "egg_desc_chs": "冰冷的火焰跳跃在这颗蛋的表面上。",
+    "wiki_path": "/zh/wiki/%E9%9A%BC%E5%BD%A2%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Fell",
+    "breed_chs": "猛龙",
+    "egg_desc": "This mottled egg looks positively ancient.",
+    "egg_desc_chs": "这颗斑驳的蛋看起来相当古老。",
+    "wiki_path": "/zh/wiki/%E7%8C%9B%E9%BE%8D"
+  },
+  {
+    "breed": "Fever Wyvern",
+    "breed_chs": "热病翼龙",
+    "egg_desc": "This egg is patterned with an orange flare.",
+    "egg_desc_chs": "这颗蛋上有橘色的火焰纹样。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Fire Gem blue",
+    "breed_chs": "火晶龙",
+    "egg_desc": "This rough egg has shimmering veins of crystal running across its surface.",
+    "egg_desc_chs": "这粗糙蛋的表面爬满发著光的水晶脉。",
+    "wiki_path": "/zh/wiki/%E7%81%AB%E6%99%B6%E9%BE%8D"
+  },
+  {
+    "breed": "Flamingo",
+    "breed_chs": "火烈翼龙",
+    "egg_desc": "It's bright. And pink.",
+    "egg_desc_chs": "它是明亮的。而且是粉色的。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Floret Wyvern",
+    "breed_chs": "小花双足翼龙",
+    "egg_desc": "This shiny egg smells faintly like flowers.",
+    "egg_desc_chs": "这颗明亮的蛋带有些许花香。",
+    "wiki_path": "/zh/wiki/%E5%B0%8F%E8%8A%B1%E9%9B%99%E8%B6%B3%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Freckled",
+    "breed_chs": "雀斑龙",
+    "egg_desc": "This egg is yellow with orange speckling.",
+    "egg_desc_chs": "这是颗带有橘斑的黄蛋。",
+    "wiki_path": "/zh/wiki/%E9%9B%80%E6%96%91%E9%BE%8D"
+  },
+  {
+    "breed": "Frilled",
+    "breed_chs": "褶伞龙",
+    "egg_desc": "This egg has strange markings on it.",
+    "egg_desc_chs": "这颗蛋上有奇怪的花样。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Frostbite",
+    "breed_chs": "霜噬龙",
+    "egg_desc": "Frost is creeping over this cold egg.",
+    "egg_desc_chs": "这颗寒冷的蛋上爬满冰霜。",
+    "wiki_path": "/zh/wiki/%E9%9C%9C%E5%99%AC%E9%BE%8D"
+  },
+  {
+    "breed": "Galvanic",
+    "breed_chs": "双足流导翼龙",
+    "egg_desc": "Powerful energy emanates from this egg.",
+    "egg_desc_chs": "强烈的能量自这颗蛋发散而出。",
+    "wiki_path": "/zh/wiki/%E9%9B%99%E8%B6%B3%E6%B5%81%E5%B0%8E%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Gemshard",
+    "breed_chs": "碎宝石龙",
+    "egg_desc": "This egg is encrusted with colorful gemstones.",
+    "egg_desc_chs": "这颗蛋镶有色彩缤纷的宝石。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Geode",
+    "breed_chs": "晶岩龙",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "egg_desc_chs": "这颗蛋重且粗糙，仿佛由岩石构成。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Gold",
+    "breed_chs": "金龙",
+    "egg_desc": "This egg is very reflective, almost metallic-looking.",
+    "egg_desc_chs": "这颗蛋有著近似金属的高反光外壳。",
+    "wiki_path": "/zh/wiki/%E9%87%91%E9%BE%8D"
+  },
+  {
+    "breed": "Gold-horned Tangar",
+    "breed_chs": "金角坦加尔龙",
+    "egg_desc": "This egg has bright orange and green markings.",
+    "egg_desc_chs": "这颗蛋有明亮橙色与绿色花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Golden Wyvern",
+    "breed_chs": "黄金翼龙",
+    "egg_desc": "This egg shimmers like gold.",
+    "egg_desc_chs": "这颗蛋像金子般闪耀。",
+    "wiki_path": "/zh/wiki/%E9%BB%83%E9%87%91%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Green",
+    "breed_chs": "绿龙",
+    "egg_desc": "This egg is sitting in a pile of small pebbles.",
+    "egg_desc_chs": "这颗蛋位于一些小卵石之间。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Guardian",
+    "breed_chs": "护卫龙",
+    "egg_desc": "This egg is sitting in front of the others.",
+    "egg_desc_chs": "这颗蛋立于其他蛋前方。",
+    "wiki_path": "/zh/wiki/%E8%AD%B7%E8%A1%9B%E9%BE%8D"
+  },
+  {
+    "breed": "Guardian of Nature",
+    "breed_chs": "自然守护龙",
+    "egg_desc": "This egg glows mysteriously.",
+    "egg_desc_chs": "这颗蛋发出神秘的光。",
+    "wiki_path": "/zh/wiki/%E8%87%AA%E7%84%B6%E5%AE%88%E8%AD%B7%E9%BE%8D"
+  },
+  {
+    "breed": "Harvest",
+    "breed_chs": "收获龙",
+    "egg_desc": "This heavy egg feels slightly warm.",
+    "egg_desc_chs": "这个沉重的蛋有微暖的感觉。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Hellfire Wyvern",
+    "breed_chs": "地狱火龙",
+    "egg_desc": "This egg radiates the heat of a fell flame.",
+    "egg_desc_chs": "这颗蛋放出可怕的火焰热量。",
+    "wiki_path": "/zh/wiki/%E5%9C%B0%E7%8D%84%E7%81%AB%E9%BE%8D"
+  },
+  {
+    "breed": "Hellhorse",
+    "breed_chs": "狱马龙",
+    "egg_desc": "This hot egg shakes violently when you touch it.",
+    "egg_desc_chs": "这颗灼热的蛋在你触碰它时暴烈地摇晃。",
+    "wiki_path": "/zh/wiki/%E7%8B%B1%E9%A9%AC%E9%BE%99"
+  },
+  {
+    "breed": "Horse",
+    "breed_chs": "悍马龙",
+    "egg_desc": "This egg has strange markings on it.",
+    "egg_desc_chs": "这颗蛋上有奇怪的花纹。",
+    "wiki_path": "/zh/wiki/%E6%82%8D%E9%A6%AC%E9%BE%8D"
+  },
+  {
+    "breed": "Ice",
+    "breed_chs": "冰龙",
+    "egg_desc": "This egg has icicles forming on it.",
+    "egg_desc_chs": "这颗蛋上形成了冰柱。",
+    "wiki_path": "/zh/wiki/%E5%86%B0%E9%BE%8D"
+  },
+  {
+    "breed": "Imperial Fleshcrowne",
+    "breed_chs": "帝王肉冠龙",
+    "egg_desc": "This egg is hidden in the trees.",
+    "egg_desc_chs": "这颗蛋隐藏于树丛中。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Khusa",
+    "breed_chs": "酷沙龙",
+    "egg_desc": "This egg is smooth and shiny.",
+    "egg_desc_chs": "这颗蛋光滑且闪闪发亮。",
+    "wiki_path": "/zh/wiki/%E9%85%B7%E6%B2%99%E9%BE%8D"
+  },
+  {
+    "breed": "Kingcrowne",
+    "breed_chs": "王冠龙",
+    "egg_desc": "This shiny egg gives off an almost magical aura.",
+    "egg_desc_chs": "这闪闪发光的蛋散发出近似魔法的光圈。",
+    "wiki_path": "/zh/wiki/%E7%8E%8B%E5%86%A0%E9%BE%8D"
+  },
+  {
+    "breed": "Lacula",
+    "breed_chs": "拉库拉龙",
+    "egg_desc": "This green and silver egg lurks in the shadows, tempting you to steal it.",
+    "egg_desc_chs": "这颗银绿色蛋潜伏在暗处，诱使你去偷走它。",
+    "wiki_path": "/zh/wiki/%E6%8B%89%E5%BA%AB%E6%8B%89%E9%BE%8D"
+  },
+  {
+    "breed": "Leodon",
+    "breed_chs": "烈傲龙",
+    "egg_desc": "This red and gold egg sits before the others, almost daring you to grab it.",
+    "egg_desc_chs": "这颗红金色的蛋坐在最前方，鼓励你大胆夺走他。",
+    "wiki_path": "/zh/wiki/%E7%83%88%E5%82%B2%E9%BE%8D"
+  },
+  {
+    "breed": "Lihnseyre",
+    "breed_chs": "宁视乐龙",
+    "egg_desc": "This glowing egg seems to tug at your very core.",
+    "egg_desc_chs": "这颗发著光的蛋似是在拉扯你的内在。",
+    "wiki_path": "/zh/wiki/%E5%AF%A7%E8%A6%96%E6%A8%82%E9%BE%8D"
+  },
+  {
+    "breed": "Lumina",
+    "breed_chs": "绚光龙",
+    "egg_desc": "This egg shines brightly in the sunlight.",
+    "egg_desc_chs": "这颗蛋在阳光下明亮地闪耀。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Luminox Wyvern",
+    "breed_chs": "夜明龙",
+    "egg_desc": "The markings on this egg glow brightly in the shadows.",
+    "egg_desc_chs": "这颗蛋上的斑点在阴影中闪闪发光。",
+    "wiki_path": "/zh/wiki/%E5%A4%9C%E6%98%8E%E9%BE%8D"
+  },
+  {
+    "breed": "Lunar Heralds gold",
+    "breed_chs": "月亮使者龙",
+    "egg_desc": "This metallic egg shows faint iridescence in moonlight.",
+    "egg_desc_chs": "这颗金属光泽的蛋在月光下发出微弱的虹光。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Magi",
+    "breed_chs": "贤龙",
+    "egg_desc": "This egg has an orange aura radiating from it.",
+    "egg_desc_chs": "这颗蛋放射出橙色魔力的光环。",
+    "wiki_path": "/zh/wiki/%E8%B3%A2%E9%BE%8D"
+  },
+  {
+    "breed": "Magma",
+    "breed_chs": "岩浆龙",
+    "egg_desc": "This egg is almost too hot to touch.",
+    "egg_desc_chs": "这颗蛋热到难以触碰。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Melismor",
+    "breed_chs": "梅力斯莫龙",
+    "egg_desc": "This heavy egg has an earthy scent, like freshly-tilled soil.",
+    "egg_desc_chs": "这颗重蛋有股土味，像是新翻过的土壤。",
+    "wiki_path": "/zh/wiki/%E6%A2%85%E5%8A%9B%E6%96%AF%E8%8E%AB%E9%BE%8D"
+  },
+  {
+    "breed": "Mint",
+    "breed_chs": "薄荷龙",
+    "egg_desc": "This egg is hidden behind the others, as if it is shy.",
+    "egg_desc_chs": "这颗蛋藏在其他蛋后面，似乎很害羞。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Monarch",
+    "breed_chs": "帝王龙",
+    "egg_desc": "This egg is buried in leaf litter.",
+    "egg_desc_chs": "这颗蛋被埋在落叶堆里。",
+    "wiki_path": "/zh/wiki/%E5%B8%9D%E7%8E%8B%E9%BE%8D"
+  },
+  {
+    "breed": "Moonstone",
+    "breed_chs": "月石龙",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "egg_desc_chs": "这颗蛋像一颗闪闪发光的石头。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Nebula",
+    "breed_chs": "星云龙",
+    "egg_desc": "This egg glows with a brilliant radiance.",
+    "egg_desc_chs": "这颗蛋散发出灿烂的光辉。",
+    "wiki_path": "/zh/wiki/%E6%98%9F%E9%9B%B2%E9%BE%8D"
+  },
+  {
+    "breed": "Neglected",
+    "breed_chs": "弃龙",
+    "egg_desc": "This egg is very sickly looking, like it's diseased.",
+    "egg_desc_chs": "这颗蛋看起来非常虚弱，似乎已经病变了。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Neotropical",
+    "breed_chs": "新热带龙",
+    "egg_desc": "This egg has strange yellow stripes.",
+    "egg_desc_chs": "这颗蛋有奇怪的黄色条纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Nhiostrife Wyvern",
+    "breed_chs": "霓纹翼龙",
+    "egg_desc": "This dull purple egg has two bright stripes on it.",
+    "egg_desc_chs": "这颗暗紫色的蛋上有两条明亮的纹路。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Nocturne",
+    "breed_chs": "夜曲龙",
+    "egg_desc": "This egg appears to be made of limestone.",
+    "egg_desc_chs": "这颗蛋似乎由石灰石构成。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Olive",
+    "breed_chs": "橄榄龙",
+    "egg_desc": "This egg smells musty, like rotting leaves.",
+    "egg_desc_chs": "这颗蛋闻起来发霉了，像腐烂的树叶。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pillow",
+    "breed_chs": "软枕龙",
+    "egg_desc": "This egg has a velvety texture.",
+    "egg_desc_chs": "这颗蛋有天鹅绒般的质地。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pink",
+    "breed_chs": "粉龙",
+    "egg_desc": "It's bright. And pink.",
+    "egg_desc_chs": "它是明亮的。而且是粉色的。",
+    "wiki_path": "/zh/wiki/%E7%B2%89%E9%BE%8D"
+  },
+  {
+    "breed": "Plated Colossus",
+    "breed_chs": "装甲巨龙",
+    "egg_desc": "This massive egg is covered with thick plates.",
+    "egg_desc_chs": "这颗巨大的蛋被装甲包覆。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Purple",
+    "breed_chs": "紫龙",
+    "egg_desc": "Wow, purple isn't a color of egg you expected to see.",
+    "egg_desc_chs": "哇，紫色不是你想象中会在蛋上看到的颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pyralspite Almandine",
+    "breed_chs": "铝榴石龙",
+    "egg_desc": "This egg feels like polished stone.",
+    "egg_desc_chs": "这颗蛋就像是剖光过的宝石。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pyrovar",
+    "breed_chs": "火沸龙",
+    "egg_desc": "This glassy egg is too hot to hold with your bare hands.",
+    "egg_desc_chs": "这颗玻璃蛋烫到不能直接用手拿著。",
+    "wiki_path": "/zh/wiki/%E7%81%AB%E6%B2%B8%E9%BE%8D"
+  },
+  {
+    "breed": "Razorcrest Wyvern",
+    "breed_chs": "剃刀羽冠翼龙",
+    "egg_desc": "This blue and bronze egg piques your curiosity.",
+    "egg_desc_chs": "这颗蓝铜色蛋激起你的好奇心。",
+    "wiki_path": "/zh/wiki/%E5%89%83%E5%88%80%E7%BE%BD%E5%86%A0%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Red",
+    "breed_chs": "红龙",
+    "egg_desc": "This egg is rather warm.",
+    "egg_desc_chs": "这颗蛋相当温暖。",
+    "wiki_path": "/zh/wiki/%E7%B4%85%E9%BE%8D"
+  },
+  {
+    "breed": "Red-finned Tidal",
+    "breed_chs": "红鳍潮汐龙",
+    "egg_desc": "This egg is wet from the waves and has bright red stripes.",
+    "egg_desc_chs": "这颗蛋被浪打湿并有明亮的红色条纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Purple Ridgewing",
+    "breed_chs": "脊翼龙",
+    "egg_desc": "A cool mountain breeze blows around this egg.",
+    "egg_desc_chs": "清凉的山风在这颗蛋四周吹拂。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Rift Wyrm",
+    "breed_chs": "裂谷龙",
+    "egg_desc": "This egg radiates an otherworldly chill.",
+    "egg_desc_chs": "这颗蛋散发出超自然的寒意。",
+    "wiki_path": "/zh/wiki/%E8%A3%82%E8%B0%B7%E9%BE%8D"
+  },
+  {
+    "breed": "Risensong",
+    "breed_chs": "旭歌龙",
+    "egg_desc": "This bright egg shines in the morning sunlight.",
+    "egg_desc_chs": "这颗亮眼的蛋在朝曦中闪耀著光芒。",
+    "wiki_path": "/zh/wiki/%E6%97%AD%E6%AD%8C%E9%BE%8D"
+  },
+  {
+    "breed": "Royal Blue",
+    "breed_chs": "皇家蓝龙",
+    "egg_desc": "This egg shines in the moonlight.",
+    "egg_desc_chs": "这颗蛋在月色下闪耀。",
+    "wiki_path": "/zh/wiki/%E7%9A%87%E5%AE%B6%E8%97%8D%E9%BE%8D"
+  },
+  {
+    "breed": "Royal Crimson",
+    "breed_chs": "皇家绯红龙",
+    "egg_desc": "This large egg is a dark crimson color.",
+    "egg_desc_chs": "这颗巨大的蛋有黯沉的绯红色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Sandwaste",
+    "breed_chs": "沙荒龙",
+    "egg_desc": "This egg was buried in a sand dune..",
+    "egg_desc_chs": "这颗蛋被埋在沙堆下。",
+    "wiki_path": "/zh/wiki/%E6%B2%99%E8%8D%92%E9%BE%8D"
+  },
+  {
+    "breed": "Sapphire",
+    "breed_chs": "蓝宝石龙",
+    "egg_desc": "This egg looks like a beautiful blue stone.",
+    "egg_desc_chs": "这颗蛋看起来像是颗漂亮的蓝石头。",
+    "wiki_path": "/zh/wiki/%E8%97%8D%E5%AF%B6%E7%9F%B3%E9%BE%8D"
+  },
+  {
+    "breed": "Scimitar-wing Wyvern",
+    "breed_chs": "弯刀翼龙",
+    "egg_desc": "This egg seems quite harmless.",
+    "egg_desc_chs": "这颗蛋看起来很无害。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Script",
+    "breed_chs": "符纹龙",
+    "egg_desc": "This egg is covered in mysterious patterns.",
+    "egg_desc_chs": "这颗蛋布满了神秘的符文。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Spring",
+    "breed_chs": "季龙",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "egg_desc_chs": "这颗蛋上的花纹与外面的季节相对应。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Seragamma Wyvern",
+    "breed_chs": "黄昏火山翼龙",
+    "egg_desc": "This plain-looking egg has faint speckles.",
+    "egg_desc_chs": "这颗平凡的蛋上有淡淡的斑点。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Setsong",
+    "breed_chs": "暮歌龙",
+    "egg_desc": "This dark egg shines in the evening sunlight.",
+    "egg_desc_chs": "这颗暗沉的蛋在暮色中闪耀著光芒。",
+    "wiki_path": "/zh/wiki/%E6%9A%AE%E6%AD%8C%E9%BE%8D"
+  },
+  {
+    "breed": "Shallow Water",
+    "breed_chs": "浅水龙",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "egg_desc_chs": "这颗蛋似乎覆着鳞。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Tercorn",
+    "breed_chs": "三角龙",
+    "egg_desc": "Water glistens on this egg’s shimmering shell.",
+    "egg_desc_chs": "水珠在这颗蛋晶莹璀璨的壳上闪闪发光。",
+    "wiki_path": "/zh/wiki/%E4%B8%89%E8%A7%92%E9%BE%8D"
+  },
+  {
+    "breed": "Gold Shimmer-scale",
+    "breed_chs": "烁鳞龙",
+    "egg_desc": "This egg is very reflective, almost metallic looking.",
+    "egg_desc_chs": "这颗蛋有著近似金属的高反光外壳。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Silver",
+    "breed_chs": "银龙",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "egg_desc_chs": "这颗蛋散发出美丽的光芒。",
+    "wiki_path": "/zh/wiki/%E9%8A%80%E9%BE%8D"
+  },
+  {
+    "breed": "Sinii Krai",
+    "breed_chs": "青尼廓蓝龙",
+    "egg_desc": "This striped egg has a warm glow.",
+    "egg_desc_chs": "这颗条纹蛋散发著温和光芒。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Siyat",
+    "breed_chs": "夏特龙",
+    "egg_desc": "This egg seems to be glowing in spots.",
+    "egg_desc_chs": "这颗蛋上的斑点看起来在发光。",
+    "wiki_path": "/zh/wiki/%E5%A4%8F%E7%89%B9%E9%BE%8D"
+  },
+  {
+    "breed": "Skysilk",
+    "breed_chs": "天丝龙",
+    "egg_desc": "This light egg has very vibrant colors.",
+    "egg_desc_chs": "这颗轻巧的蛋色彩斑斓。",
+    "wiki_path": "/zh/wiki/%E5%A4%A9%E7%B5%B2%E9%BE%8D"
+  },
+  {
+    "breed": "Skywing",
+    "breed_chs": "空翼龙",
+    "egg_desc": "This egg has strange markings on it.",
+    "egg_desc_chs": "这颗蛋上有奇怪的花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Soulpeace",
+    "breed_chs": "安魂龙",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "egg_desc_chs": "这颗蛋散发出美丽的光芒。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Speckle-Throated",
+    "breed_chs": "斑喉龙",
+    "egg_desc": "This egg has a rough—yet shiny—shell.",
+    "egg_desc_chs": "这颗蛋有个粗糙——然而闪亮的壳。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Spinel Wyvern violet",
+    "breed_chs": "尖晶石翼龙",
+    "egg_desc": "This glassy egg has a single stripe on it.",
+    "egg_desc_chs": "这颗玻璃般的蛋上有一道条纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Spirit Ward",
+    "breed_chs": "守灵龙",
+    "egg_desc": "This egg glows from within.",
+    "egg_desc_chs": "这颗蛋自内而外散发著光芒。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Spitfire",
+    "breed_chs": "烈火龙",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "egg_desc_chs": "这颗蛋上有色泽明亮的花纹。",
+    "wiki_path": "/zh/wiki/%E7%83%88%E7%81%AB%E9%BE%8D"
+  },
+  {
+    "breed": "Spotted Greenwing",
+    "breed_chs": "斑点绿翼龙",
+    "egg_desc": "This egg is covered in bright spots.",
+    "egg_desc_chs": "这颗蛋覆盖着明亮的斑点。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Stone",
+    "breed_chs": "石龙",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "egg_desc_chs": "这颗蛋重且粗糙，仿佛由岩石构成。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Storm",
+    "breed_chs": "风暴龙",
+    "egg_desc": "This egg is surrounded by fog.",
+    "egg_desc_chs": "这颗蛋被雾笼罩。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Storm-Rider",
+    "breed_chs": "风暴驾驭龙",
+    "egg_desc": "You can feel the static electricity that surrounds this egg.",
+    "egg_desc_chs": "你可以感受到静电环绕著这颗蛋。",
+    "wiki_path": "/zh/wiki/%E9%A2%A8%E6%9A%B4%E9%A7%95%E9%A6%AD%E9%BE%8D"
+  },
+  {
+    "breed": "Stratos",
+    "breed_chs": "斯特拉托斯龙",
+    "egg_desc": "This egg is very large, but light for its size.",
+    "egg_desc_chs": "这蛋虽大，却没那么重。",
+    "wiki_path": "/zh/wiki/%E6%96%AF%E7%89%B9%E6%8B%89%E6%89%98%E6%96%AF%E9%BE%8D"
+  },
+  {
+    "breed": "White Striped",
+    "breed_chs": "条纹龙",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "egg_desc_chs": "这颗蛋上有色泽明亮的花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Striped River",
+    "breed_chs": "条纹河龙",
+    "egg_desc": "A small puddle of condensation has collected under this egg.",
+    "egg_desc_chs": "小小的水滩凝聚在这颗蛋下。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Sunrise-Sunset",
+    "breed_chs": "落日龙",
+    "egg_desc": "This egg is glowing as brightly as the sun.",
+    "egg_desc_chs": "这颗蛋闪耀得像太阳。",
+    "wiki_path": "#cite_note-sunrise-sunset-13"
+  },
+  {
+    "breed": "Sunsong Amphiptere",
+    "breed_chs": "日歌翼蛇",
+    "egg_desc": "This egg changes colors in the sunlight.",
+    "egg_desc_chs": "这颗蛋在阳光下变幻着颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Sunstone",
+    "breed_chs": "太阳石龙",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "egg_desc_chs": "这颗蛋像一颗闪闪发光的石头。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Swallowtail",
+    "breed_chs": "燕尾龙",
+    "egg_desc": "This egg has a very thin shell.",
+    "egg_desc_chs": "这颗蛋的壳非常薄。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Terrae",
+    "breed_chs": "土壤龙",
+    "egg_desc": "This egg is a lush green hue.",
+    "egg_desc_chs": "这颗蛋有绿意盎然的色调。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Tetra",
+    "breed_chs": "灯鱼龙",
+    "egg_desc": "This egg has faint markings.",
+    "egg_desc_chs": "这颗蛋有著发出微光的花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Thunder",
+    "breed_chs": "雷龙",
+    "egg_desc": "Whenever you go near this egg your hair stands on end.",
+    "egg_desc_chs": "当你靠近这颗蛋时你的头发根根竖立。",
+    "wiki_path": "/zh/wiki/%E9%9B%B7%E9%BE%8D"
+  },
+  {
+    "breed": "Gold Tinsel",
+    "breed_chs": "饰龙",
+    "egg_desc": "This egg is very reflective, almost metallic looking.",
+    "egg_desc_chs": "这颗蛋有著近似金属的高反光外壳。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Tri-Horn Wyvern",
+    "breed_chs": "三角翼龙",
+    "egg_desc": "This brown egg is covered in intricate designs.",
+    "egg_desc_chs": "这颗棕色的蛋覆盖在错综复杂的纹样下。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Tsunami Wyvern",
+    "breed_chs": "海啸翼龙",
+    "egg_desc": "This egg is rocking back and forth in a puddle, creating small waves.",
+    "egg_desc_chs": "这颗蛋在水坑里摇摇晃晃，引起了小小的波澜。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Turpentine",
+    "breed_chs": "松节油龙",
+    "egg_desc": "This egg smells strongly of turpentine.",
+    "egg_desc_chs": "这颗蛋闻起来有浓烈的松节油气味。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Two-Finned Bluna",
+    "breed_chs": "双鳍布鲁纳",
+    "egg_desc": "This egg has colored speckles on it.",
+    "egg_desc_chs": "这颗蛋有彩色的斑纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Ultraviolet",
+    "breed_chs": "紫外光龙",
+    "egg_desc": "This egg is very warm, as if it has been sitting out in strong sunlight.",
+    "egg_desc_chs": "这颗蛋非常温暖，仿佛一直位于强烈的阳光下。",
+    "wiki_path": "/zh/wiki/%E7%B4%AB%E5%A4%96%E5%85%89%E9%BE%8D"
+  },
+  {
+    "breed": "Undine",
+    "breed_chs": "温蒂妮龙",
+    "egg_desc": "There is a thin layer of moisture coating this egg.",
+    "egg_desc_chs": "这颗蛋被一层薄薄的水膜包裹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Vampire",
+    "breed_chs": "吸血龙",
+    "egg_desc": "This egg is stone cold and smells rotten.",
+    "egg_desc_chs": "这颗蛋冰冷如石而且闻起来堕落。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Venturis",
+    "breed_chs": "文丘里斯龙",
+    "egg_desc": "An aura of serenity surrounds this iridescent egg.",
+    "egg_desc_chs": "宁静的氛围环绕在这颗虹蛋四周。",
+    "wiki_path": "/zh/wiki/%E6%96%87%E4%B8%98%E9%87%8C%E6%96%AF%E9%BE%8D"
+  },
+  {
+    "breed": "Water",
+    "breed_chs": "水龙",
+    "egg_desc": "This egg is sitting in a shallow puddle.",
+    "egg_desc_chs": "这颗蛋位于一个浅浅的水坑中。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Water Walker",
+    "breed_chs": "水行龙",
+    "egg_desc": "This egg seems to be floating on a puddle.",
+    "egg_desc_chs": "这颗蛋似乎漂浮在水坑上。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Water Horse",
+    "breed_chs": "水马龙",
+    "egg_desc": "This egg is slimy and blue.",
+    "egg_desc_chs": "这颗蛋又光滑又蓝。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Whiptail",
+    "breed_chs": "鞭尾龙",
+    "egg_desc": "This egg shakes from time to time, as if it is eager to hatch.",
+    "egg_desc_chs": "这颗蛋不时地摇摆，似乎渴望孵化。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "White",
+    "breed_chs": "白龙",
+    "egg_desc": "This egg has a very clean look; it's completely devoid of dirt and scratches.",
+    "egg_desc_chs": "这颗蛋看起来非常洁净，没有一点污垢和划痕。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Astrapi Xenowyrm",
+    "breed_chs": "阿斯忒拉庇异形蛇龙",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/%E9%98%BF%E6%96%AF%E5%BF%92%E6%8B%89%E5%BA%87%E7%95%B0%E5%BD%A2%E8%9B%87%E9%BE%8D"
+  },
+  {
+    "breed": "Chrono Xenowyrm",
+    "breed_chs": "森林",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/Category:%E6%A3%AE%E6%9E%97"
+  },
+  {
+    "breed": "Gaia Xenowyrm",
+    "breed_chs": "丛林",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/Category:%E5%8F%A2%E6%9E%97"
+  },
+  {
+    "breed": "Mageia Xenowyrm",
+    "breed_chs": "沙漠",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/Category:%E6%B2%99%E6%BC%A0"
+  },
+  {
+    "breed": "Pyro Xenowyrm",
+    "breed_chs": "火山",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/Category:%E7%81%AB%E5%B1%B1"
+  },
+  {
+    "breed": "Thalassa Xenowyrm",
+    "breed_chs": "海岸",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "egg_desc_chs": "魔力从这玻璃般的蛋散发出来。",
+    "wiki_path": "/zh/wiki/Category:%E6%B5%B7%E5%B2%B8"
+  },
+  {
+    "breed": "Xol blue",
+    "breed_chs": "柯索龙",
+    "egg_desc": "This dull egg feels cozily warm.",
+    "egg_desc_chs": "这颗色彩不鲜明蛋让人感到舒适温和。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Yellow-Crowned",
+    "breed_chs": "黄冠龙",
+    "egg_desc": "The air shimmers around this egg, as if from heat.",
+    "egg_desc_chs": "这颗蛋周遭的空气摇晃扭曲，仿佛蜃气楼。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Zyumorph alpine",
+    "breed_chs": "赛尔莫夫龙",
+    "egg_desc": "This shiny egg seems to radiate power.",
+    "egg_desc_chs": "这颗闪亮的蛋似乎正放射出能量。",
+    "wiki_path": "/zh/wiki/%E8%B3%BD%E7%88%BE%E8%8E%AB%E5%A4%AB%E9%BE%8D"
+  },
+  {
+    "breed": "Baikala blue",
+    "breed_chs": "贝加尔龙",
+    "egg_desc": "This heavy egg has a soft, yielding shell.",
+    "egg_desc_chs": "这颗沉重的蛋外壳柔软。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Bauta",
+    "breed_chs": "假面龙",
+    "egg_desc": "This egg has raised golden ridges.",
+    "egg_desc_chs": "这颗蛋上有著金色浮雕般的隆起。",
+    "wiki_path": "/zh/wiki/Bauta_Dragon"
+  },
+  {
+    "breed": "Blancblack",
+    "breed_chs": "白黑龙",
+    "egg_desc": "This egg is dark with light speckles...or maybe it's light with dark speckles.",
+    "egg_desc_chs": "这颗深色的蛋上有浅色斑点……还是浅色蛋上有暗色斑点呢？",
+    "wiki_path": "/zh/wiki/%E7%99%BD%E9%BB%91%E9%BE%8D"
+  },
+  {
+    "breed": "Duotone",
+    "breed_chs": "双色龙",
+    "egg_desc": "This egg can't seem to make up its mind on what color it is.",
+    "egg_desc_chs": "这颗蛋似乎仍未决定好它是什么颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Geminae",
+    "breed_chs": "双子龙",
+    "egg_desc": "This shiny egg gives you a headache when you get close.",
+    "egg_desc_chs": "你靠近这颗发著光的蛋就头痛。",
+    "wiki_path": "/zh/wiki/%E9%9B%99%E5%AD%90%E9%BE%8D"
+  },
+  {
+    "breed": "Gilded Bloodscale",
+    "breed_chs": "镀金血鳞龙",
+    "egg_desc": "This egg glitters oddly in the light.",
+    "egg_desc_chs": "这颗蛋在光下奇异地闪烁。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Hooktalon",
+    "breed_chs": "勾爪龙",
+    "egg_desc": "The surface of this egg is rough and sharp.",
+    "egg_desc_chs": "蛋的表面又粗糙又尖锐。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Nexus",
+    "breed_chs": "连龙",
+    "egg_desc": "This dense, crystalline egg seems dangerously unstable.",
+    "egg_desc_chs": "这颗高密度、如结晶般的蛋看起来极为不稳定。",
+    "wiki_path": "/zh/wiki/%E9%80%A3%E9%BE%8D"
+  },
+  {
+    "breed": "Split",
+    "breed_chs": "分龙",
+    "egg_desc": "This egg is split down the middle into two colors.",
+    "egg_desc_chs": "这颗蛋从中间分成两个颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Two-headed Lindwurm blue",
+    "breed_chs": "双头鳞龙",
+    "egg_desc": "This opalescent egg shimmers in the moonlight.",
+    "egg_desc_chs": "这种发着乳白色光的蛋在月光下闪闪发光。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Avea Pygmy",
+    "breed_chs": "阿维亚侏儒龙",
+    "egg_desc": "This tiny egg is rather light.",
+    "egg_desc_chs": "这个小蛋很轻。",
+    "wiki_path": "/zh/wiki/%E9%98%BF%E7%B6%AD%E4%BA%9E%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Pygmy",
+    "breed_chs": "侏儒龙",
+    "egg_desc": "This egg is so tiny you almost didn't see it.",
+    "egg_desc_chs": "这颗蛋太小了以至于你几乎没有看到它。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Coral Pygmy Wyvern",
+    "breed_chs": "珊瑚侏儒翼龙",
+    "egg_desc": "This tiny egg is striped and feels coarse.",
+    "egg_desc_chs": "这颗有条纹的小蛋感觉很粗糙。",
+    "wiki_path": "/zh/wiki/%E7%8F%8A%E7%91%9A%E4%BE%8F%E5%84%92%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Crimson Flare Pygmy",
+    "breed_chs": "红火侏儒龙",
+    "egg_desc": "This egg is tiny and brightly colored.",
+    "egg_desc_chs": "这颗蛋很小并有明亮的颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Dark Myst Pygmy",
+    "breed_chs": "黑雾侏儒龙",
+    "egg_desc": "This tiny egg is mysterious and dark.",
+    "egg_desc_chs": "这颗小蛋神秘而黑暗。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Dusk Pygmy",
+    "breed_chs": "薄暮侏儒龙",
+    "egg_desc": "This tiny egg is cold to the touch.",
+    "egg_desc_chs": "这颗娇小的蛋触手冰凉。",
+    "wiki_path": "/zh/wiki/%E8%96%84%E6%9A%AE%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Glowback Pygmy",
+    "breed_chs": "曜背侏儒龙",
+    "egg_desc": "This tiny egg gives off a colorful glow.",
+    "egg_desc_chs": "这颗小蛋闪著彩光。",
+    "wiki_path": "/zh/wiki/%E6%9B%9C%E8%83%8C%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Kovos Pygmy",
+    "breed_chs": "克伏弑侏儒龙",
+    "egg_desc": "This tiny, dark egg fills you with existential dread.",
+    "egg_desc_chs": "这颗深色小蛋使你充满畏惧。",
+    "wiki_path": "/zh/wiki/%E5%85%8B%E4%BC%8F%E5%BC%92%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Kyanite Pygmy",
+    "breed_chs": "蓝晶石侏儒龙",
+    "egg_desc": "This tiny cobalt egg has a crystalline sheen.",
+    "egg_desc_chs": "这颗钴蓝色的小蛋有著结晶的光泽。",
+    "wiki_path": "/zh/wiki/%E8%97%8D%E6%99%B6%E7%9F%B3%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Magelight Pygmy Wyvern",
+    "breed_chs": "魔光侏儒龙",
+    "egg_desc": "This small egg is engulfed in a cool, purple flame.",
+    "egg_desc_chs": "这枚小蛋被包裹在清凉的紫色火焰中。",
+    "wiki_path": "/zh/wiki/%E9%AD%94%E5%85%89%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Mariner",
+    "breed_chs": "水手侏儒龙",
+    "egg_desc": "This tiny egg smells like the sea.",
+    "egg_desc_chs": "这颗小蛋闻起来像是大海。",
+    "wiki_path": "/zh/wiki/%E6%B0%B4%E6%89%8B%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Mimic Pygmy",
+    "breed_chs": "模仿侏儒龙",
+    "egg_desc": "This tiny glowing egg tempts you to follow its light.",
+    "egg_desc_chs": "这颗发光的小蛋诱使你跟著光线走。",
+    "wiki_path": "/zh/wiki/%E6%A8%A1%E4%BB%BF%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Misfit Pygmy",
+    "breed_chs": "捣蛋侏儒龙",
+    "egg_desc": "This tiny egg has crazy swirls on it.",
+    "egg_desc_chs": "这颗小蛋上有繁复的漩涡纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Nilia Pygmy",
+    "breed_chs": "妮莉亚侏儒龙",
+    "egg_desc": "This tiny egg is heavier than you expected.",
+    "egg_desc_chs": "这颗小小的蛋比你预期的要重。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pipio Pygmy",
+    "breed_chs": "咕啾侏儒龙",
+    "egg_desc": "This little egg is soft with a few feathers stuck to it.",
+    "egg_desc_chs": "这颗轻柔的蛋上黏了些羽毛。",
+    "wiki_path": "/zh/wiki/%E5%92%95%E5%95%BE%E4%BE%8F%E5%84%92%E9%BE%8D"
+  },
+  {
+    "breed": "Red-Tailed Wyrm",
+    "breed_chs": "红尾长龙",
+    "egg_desc": "This tiny egg has a bold red streak on it.",
+    "egg_desc_chs": "这颗小蛋上面有道醒目的红色凸起。",
+    "wiki_path": "/zh/wiki/%E7%B4%85%E5%B0%BE%E9%95%B7%E9%BE%8D"
+  },
+  {
+    "breed": "Seawyrm Pygmy",
+    "breed_chs": "侏儒海龙",
+    "egg_desc": "This tiny egg shines like a pearl.",
+    "egg_desc_chs": "这颗小蛋有珍珠的光泽。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Glory Drake",
+    "breed_chs": "日耀德雷克",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "egg_desc_chs": "这颗蛋呈现出昼与夜的颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Glaucus Drake",
+    "breed_chs": "海神德雷克",
+    "egg_desc": "This striped egg feels moist.",
+    "egg_desc_chs": "这颗条纹蛋感觉很潮湿。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Greater Spotted Drake",
+    "breed_chs": "大斑德雷克",
+    "egg_desc": "This egg is speckled with rosette-like markings.",
+    "egg_desc_chs": "这颗蛋布满了玫瑰花纹般的班点。",
+    "wiki_path": "/zh/wiki/%E5%A4%A7%E6%96%91%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Honey Drake",
+    "breed_chs": "蜂蜜德雷克",
+    "egg_desc": "This egg is covered in tiny golden scales.",
+    "egg_desc_chs": "这颗蛋布满小小的黄金麟片。",
+    "wiki_path": "/zh/wiki/%E8%9C%82%E8%9C%9C%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Howler Drake",
+    "breed_chs": "咆啸德雷克",
+    "egg_desc": "You hear strange noises coming from inside this egg.",
+    "egg_desc_chs": "你听到奇怪的声音从这颗蛋里传出。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Morphodrake",
+    "breed_chs": "闪蝶德雷克",
+    "egg_desc": "A few bright markings decorate this egg's shell.",
+    "egg_desc_chs": "有些亮眼的斑点装饰了这颗蛋的壳。",
+    "wiki_path": "/zh/wiki/%E9%96%83%E8%9D%B6%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Glory Drake",
+    "breed_chs": "夜耀德雷克",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "egg_desc_chs": "这颗蛋呈现出昼与夜的颜色。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Ochredrake",
+    "breed_chs": "赭黄德雷克",
+    "egg_desc": "This egg has strange markings on it.",
+    "egg_desc_chs": "这颗蛋上有奇怪的花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Tarantula Hawk Drake",
+    "breed_chs": "沙漠蛛蜂德雷克",
+    "egg_desc": "A delicate web-like pattern decorates this egg's shell.",
+    "egg_desc_chs": "精致的网状图案妆点了这颗蛋的壳。",
+    "wiki_path": "/zh/wiki/%E6%B2%99%E6%BC%A0%E8%9B%9B%E8%9C%82%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Tatterdrake",
+    "breed_chs": "碎裂德雷克",
+    "egg_desc": "This egg has a rough shell.",
+    "egg_desc_chs": "这颗蛋有著粗糙的壳。",
+    "wiki_path": "/zh/wiki/%E7%A2%8E%E8%A3%82%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Birthday 2019 green",
+    "breed_chs": "时间德雷克",
+    "egg_desc": "This smooth green egg looks vaguely familiar.",
+    "egg_desc_chs": "这颗平滑的绿蛋似曾相识。",
+    "wiki_path": "/zh/wiki/%E6%99%82%E9%96%93%E5%BE%B7%E9%9B%B7%E5%85%8B"
+  },
+  {
+    "breed": "Blue Dino",
+    "breed_chs": "蓝恐龙",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+    "egg_desc_chs": "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Cheese",
+    "breed_chs": "起司龙",
+    "egg_desc": "This egg is soft and smells uncannily like cheese.",
+    "egg_desc_chs": "这颗蛋是柔软的而且气味与乳酪惊人地相似。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Chicken Egg.gif",
+    "breed_chs": "鸡",
+    "egg_desc": "This egg is much smaller than the others.",
+    "egg_desc_chs": "这颗蛋比其他的更小。",
+    "wiki_path": "/zh/wiki/%E9%9B%9E"
+  },
+  {
+    "breed": "Green Dino",
+    "breed_chs": "绿恐龙",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots.",
+    "egg_desc_chs": "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Paper",
+    "breed_chs": "纸龙",
+    "egg_desc": "This egg is tiny and made out of several pieces of paper folded together.",
+    "egg_desc_chs": "这颗蛋很小，由几张纸叠在一起。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Purple Dino",
+    "breed_chs": "紫恐龙",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+    "egg_desc_chs": "这颗蛋看起来不属于这里；它有鲜艳的白斑，而且比其他蛋轻太多了。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Red Dino",
+    "breed_chs": "红恐龙",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much warmer than the rest of the eggs.",
+    "egg_desc_chs": "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其馀的蛋暖和很多。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Yellow Dino",
+    "breed_chs": "黄恐龙",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much heavier than the other eggs.",
+    "egg_desc_chs": "这颗蛋看起来不属于这里；它颜色鲜亮并有白色斑点。它比其他的蛋重很多。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Valentine",
+    "breed_chs": "瓦伦泰龙",
+    "egg_desc": "This egg is speckled and very fragile.",
+    "egg_desc_chs": "这颗附着着斑点的蛋非常脆弱。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Sweetling",
+    "breed_chs": "甜心龙",
+    "egg_desc": "This egg looks delicate and sweet.",
+    "egg_desc_chs": "这颗蛋看起来精致而甜美。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Rosebud",
+    "breed_chs": "玫瑰花蕾龙",
+    "egg_desc": "This sweet smelling egg is covered by a ribbon.",
+    "egg_desc_chs": "这颗甜蜜的蛋系着一根丝带。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Heartseeker",
+    "breed_chs": "觅心龙",
+    "egg_desc": "This scarlet egg has a faintly sweet aroma.",
+    "egg_desc_chs": "这深红色的蛋有淡淡的甜香。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Arsani",
+    "breed_chs": "阿莎妮龙",
+    "egg_desc": "This egg is a deep pink.",
+    "egg_desc_chs": "这颗蛋是深粉色的。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Radiant Angel",
+    "breed_chs": "辉煌天使龙",
+    "egg_desc": "This radiant white egg has red and gold swirls on it.",
+    "egg_desc_chs": "这颗发光的白色蛋上有红色与金色的涡形。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Heartstealing",
+    "breed_chs": "偷心龙",
+    "egg_desc": "This egg is so shiny it makes you want to take it.",
+    "egg_desc_chs": "这颗富有光泽的蛋令你忍不住想要将它据为己有。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Mutamore",
+    "breed_chs": "穆塔莫龙",
+    "egg_desc": "This lovely egg has rolled off to the side.",
+    "egg_desc_chs": "这颗可爱的蛋滚到一边去了。",
+    "wiki_path": "/zh/wiki/%E7%A9%86%E5%A1%94%E8%8E%AB%E9%BE%8D"
+  },
+  {
+    "breed": "Soulstone",
+    "breed_chs": "灵魂石龙",
+    "egg_desc": "This deep purple egg shimmers like a pearl.",
+    "egg_desc_chs": "这颗深紫色的蛋如珍珠般闪烁著。",
+    "wiki_path": "/zh/wiki/%E9%9D%88%E9%AD%82%E7%9F%B3%E9%BE%8D"
+  },
+  {
+    "breed": "Floral-Crowned",
+    "breed_chs": "花冠龙",
+    "egg_desc": "This egg has a sweet, floral scent.",
+    "egg_desc_chs": "这颗蛋散发著甜美的花香。",
+    "wiki_path": "/zh/wiki/%E8%8A%B1%E5%86%A0%E9%BE%8D"
+  },
+  {
+    "breed": "Sakuhana Wyvern",
+    "breed_chs": "花绽双足翼龙",
+    "egg_desc": "This warm egg is surrounded by plants.",
+    "egg_desc_chs": "这颗温暖的蛋被植物环绕著。",
+    "wiki_path": "/zh/wiki/%E8%8A%B1%E7%B6%BB%E9%9B%99%E8%B6%B3%E7%BF%BC%E9%BE%8D"
+  },
+  {
+    "breed": "Erador Lindwyrm",
+    "breed_chs": "爱拉托麟龙",
+    "egg_desc": "This regal egg feels oddly light.",
+    "egg_desc_chs": "这颗华丽的蛋轻得令人难以置信。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Vampire",
+    "breed_chs": "吸血龙",
+    "egg_desc": "This egg is stone cold and smells rotten.",
+    "egg_desc_chs": "这颗蛋冰冷而且有腐臭味。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Pumpkin",
+    "breed_chs": "南瓜龙",
+    "egg_desc": "This egg smells like the autumn harvest.",
+    "egg_desc_chs": "这颗蛋闻起来有丰收的味道。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Black Marrow",
+    "breed_chs": "黑髓龙",
+    "egg_desc": "This egg is covered in a dark crust.",
+    "egg_desc_chs": "这颗蛋被黑暗的外壳覆盖。",
+    "wiki_path": "/zh/wiki/%E9%BB%91%E9%AB%93%E9%BE%8D"
+  },
+  {
+    "breed": "Shadow Walker",
+    "breed_chs": "影行龙",
+    "egg_desc": "This egg fades into the shadows.",
+    "egg_desc_chs": "这颗蛋湮没在阴影中。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Cavern Lurker",
+    "breed_chs": "蛰窟龙",
+    "egg_desc": "This egg is wedged in a dark corner.",
+    "egg_desc_chs": "这颗蛋楔在一个黑暗的角落里。",
+    "wiki_path": "/zh/wiki/%E8%9F%84%E7%AA%9F%E9%BE%8D"
+  },
+  {
+    "breed": "Grave",
+    "breed_chs": "墓穴龙",
+    "egg_desc": "This egg appears to have an evil grin.",
+    "egg_desc_chs": "这颗蛋似乎露出了邪恶的笑容。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Desipis",
+    "breed_chs": "德西比斯龙",
+    "egg_desc": "Being near this egg makes it hard to think clearly.",
+    "egg_desc_chs": "一靠近这颗蛋就让人思绪紊乱。",
+    "wiki_path": "/zh/wiki/%E5%BE%B7%E8%A5%BF%E6%AF%94%E6%96%AF%E9%BE%8D"
+  },
+  {
+    "breed": "Caligene",
+    "breed_chs": "暗龙",
+    "egg_desc": "The pattern on this egg's shell is unsettling..",
+    "egg_desc_chs": "这颗蛋上的花纹令人不安…",
+    "wiki_path": "/zh/wiki/%E9%97%87%E9%BE%8D"
+  },
+  {
+    "breed": "Witchlight",
+    "breed_chs": "魔光龙",
+    "egg_desc": "This downy egg is hidden in brambles.",
+    "egg_desc_chs": "这颗毛茸茸的蛋藏在荆棘里。",
+    "wiki_path": "/zh/wiki/%E9%AD%94%E5%85%89%E9%BE%8D"
+  },
+  {
+    "breed": "Omen Wyrm",
+    "breed_chs": "恶兆龙",
+    "egg_desc": "This warm egg is tangled in the roots of a dead tree.",
+    "egg_desc_chs": "这颗温暖的蛋被枯木的树根裹著。",
+    "wiki_path": "/zh/wiki/%E6%83%A1%E5%85%86%E9%BE%8D"
+  },
+  {
+    "breed": "Arcana",
+    "breed_chs": "阿尔克那龙",
+    "egg_desc": "This egg has reflective spots that remind you of gems, or eyes.",
+    "egg_desc_chs": "这蛋上会反光的斑点使你想到了钻石，或眼睛。",
+    "wiki_path": "/zh/wiki/%E9%98%BF%E7%88%BE%E5%85%8B%E9%82%A3%E9%BE%8D"
+  },
+  {
+    "breed": "Kohraki",
+    "breed_chs": "柯拉奇龙",
+    "egg_desc": "A fine mist rolls over this cool, scaly egg.",
+    "egg_desc_chs": "浓密的厚雾包裹著这颗冰冷可怖的蛋。",
+    "wiki_path": "/zh/wiki/%E6%9F%AF%E6%8B%89%E5%A5%87%E9%BE%8D"
+  },
+  {
+    "breed": "Holly",
+    "breed_chs": "冬青龙",
+    "egg_desc": "This egg has a holly leaf stuck to it.",
+    "egg_desc_chs": "这颗蛋上卡着一片冬青叶。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Yulebuck",
+    "breed_chs": "圣诞鹿龙",
+    "egg_desc": "This egg is covered with bright, festive stripes.",
+    "egg_desc_chs": "这颗蛋有着明亮的节日花纹。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Snow Angel",
+    "breed_chs": "雪天使龙",
+    "egg_desc": "This egg fills you with holiday cheer.",
+    "egg_desc_chs": "这颗蛋使你充满节日的喜乐。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Ribbon Dancer",
+    "breed_chs": "缎带舞者龙",
+    "egg_desc": "This egg shines like a holiday ribbon.",
+    "egg_desc_chs": "这颗蛋耀眼得像是节日彩带。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Winter Magi",
+    "breed_chs": "冬贤龙",
+    "egg_desc": "This colorful egg is covered by a light layer of snow.",
+    "egg_desc_chs": "这颗五彩缤纷的蛋被一层薄雪覆盖着。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Wrapping-Wing",
+    "breed_chs": "彩纸龙",
+    "egg_desc": "This egg has a rich, shiny pattern on it.",
+    "egg_desc_chs": "这颗蛋有个丰富、闪亮的花样。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Solstice",
+    "breed_chs": "冬至龙",
+    "egg_desc": "This egg emits a soft, heartwarming glow.",
+    "egg_desc_chs": "这颗蛋会发出柔和、温馨的光芒。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Mistletoe",
+    "breed_chs": "榭寄生龙",
+    "egg_desc": "This colorful egg gleams in the light.",
+    "egg_desc_chs": "这颗缤纷的蛋在光芒下闪闪发光。",
+    "wiki_path": ""
+  },
+  {
+    "breed": "Aegis",
+    "breed_chs": "庇护之龙",
+    "egg_desc": "A wintry chill swirls just beneath the surface of this egg.",
+    "egg_desc_chs": "冰冷的寒气在蛋里旋转。",
+    "wiki_path": "/zh/wiki/%E5%BA%87%E8%AD%B7%E4%B9%8B%E9%BE%8D"
+  },
+  {
+    "breed": "Snow",
+    "breed_chs": "雪龙",
+    "egg_desc": "This egg is surrounded by frost.",
+    "egg_desc_chs": "这颗蛋被冰霜包裹。",
+    "wiki_path": "/zh/wiki/%E9%9B%AA%E9%BE%8D"
+  },
+  {
+    "breed": "Garland",
+    "breed_chs": "花环龙",
+    "egg_desc": "This festive egg gives off comforting warmth.",
+    "egg_desc_chs": "这颗喜庆的蛋带给人舒适的温暖。",
+    "wiki_path": "/zh/wiki/%E8%8A%B1%E7%92%B0%E9%BE%8D"
+  },
+  {
+    "breed": "Starsinger",
+    "breed_chs": "吟星龙",
+    "egg_desc": "This egg glows with a soft, soothing light.",
+    "egg_desc_chs": "这颗蛋上发出抚慰人心的暖光。",
+    "wiki_path": "/zh/wiki/%E5%90%9F%E6%98%9F%E9%BE%8D"
+  },
+  {
+    "breed": "Wintertide",
+    "breed_chs": "玄英龙",
+    "egg_desc": "This egg emanates a gentle chime when met with the winter breeze.",
+    "egg_desc_chs": "每当有冬季微风吹拂而过，这颗蛋就会发出轻柔的敲钟声。",
+    "wiki_path": "/zh/wiki/%E7%8E%84%E8%8B%B1%E9%BE%8D"
+  }
+]
