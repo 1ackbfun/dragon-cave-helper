@@ -200,7 +200,9 @@ class Spider():
                             cls.WIKI['dragon_list.zh']['path'], False)
         soup = BeautifulSoup(html, 'lxml')
         result = []
+        table_index = -1
         for table in soup.select('.article-table > tbody'):
+            table_index += 1
             if table.find('th').text.strip() != '蛋':
                 continue
             temp_egg_desc = ''
@@ -225,7 +227,9 @@ class Spider():
                         'breed':
                         data[0].find('img')['alt'].split(' egg')[0],
                         'breed_chs':
-                        re.sub(r'\[.*\]$', '', data[-2].text.strip()),
+                        re.sub(
+                            r'\[.*\]$', '',
+                            data[2 if table_index == 5 else -2].text.strip()),
                         'egg_desc':
                         f'{egg_desc[:separator_index-1]}.',
                         'egg_desc_chs':

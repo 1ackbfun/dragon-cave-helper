@@ -154,6 +154,7 @@ def integrate() -> None:
             if dragon['breed'][0] == new_info['breed'] or similar(
                     have_desc, new_desc) > 0.9:
                 dragon_found = True
+                dragon['breed'][1] = new_info['breed_chs']
                 dragon['egg'][1] = new_info['egg_desc_chs']
                 dragon['wiki'][1] = new_info['wiki_path']
                 break
@@ -175,7 +176,7 @@ def integrate() -> None:
                     #       similar(dragon['egg'][0], new_info['egg_desc']))
                     # print(f"龙蛋清单: {dragon['egg'][0]}")
                     # print(f"条目单页: {new_info['egg_desc']}\n")
-                    dragon['egg'][0] = new_info['egg_desc']
+                    dragon['egg'][0] = new_info['egg_desc'].replace('\'', '’')
                 dragon['breed'][0] = new_info['breed']
                 dragon['release_at'] = new_info['release_at']
                 dragon['elemental'] = new_info['elemental']
@@ -203,7 +204,12 @@ def integrate() -> None:
         for dragon in database:
             if dragon['breed'][0] == new_info['breed']:
                 dragon_found = True
-                dragon['breed'][1] = new_info['breed_chs']
+                if dragon['breed'][1] != '' and dragon['breed'][1] != new_info[
+                        'breed_chs']:
+                    print(
+                        f"[WARN] 龙蛋列表和单页翻译的中文种群名称不一致 {dragon['breed'][1]} {new_info['breed_chs']}"
+                    )
+                    #dragon['breed'][1] = new_info['breed_chs']
                 if new_info['rarity'] == '':
                     new_info['rarity'] = 'Unknown'
                 elif '节' in new_info['rarity']:
