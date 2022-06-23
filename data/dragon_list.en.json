@@ -1580,9 +1580,19 @@
     }
   },
   {
-    "breed": "Sunset",
+    "breed": "Sunset Dragon",
     "egg_desc": "This egg is glowing as brightly as the sun.",
-    "wiki_path": "https://static.wikia.nocookie.net/dragcave/images/5/5b/Sunrise-Sunset_egg.gif/revision/latest?cb=20100326235413",
+    "wiki_path": "/wiki/Sunset_Dragon",
+    "rarity": "Unknown",
+    "egg_sprite": {
+      "filename": "Sunrise-Sunset_egg.gif",
+      "url": "https://static.wikia.nocookie.net/dragcave/images/5/5b/Sunrise-Sunset_egg.gif/revision/latest?cb=20100326235413"
+    }
+  },
+  {
+    "breed": "Sunrise Dragon",
+    "egg_desc": "This egg is glowing as brightly as the sun.",
+    "wiki_path": "/wiki/Sunrise_Dragon",
     "rarity": "Unknown",
     "egg_sprite": {
       "filename": "Sunrise-Sunset_egg.gif",

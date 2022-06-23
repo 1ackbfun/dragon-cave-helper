@@ -8,13 +8,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [
-      "Enrage",
-      "Pacify"
-    ],
+    "bsa": "Enrage",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1584"
+    "encyclopedia_id": "1584"
   },
   {
     "breed": "Aeon Wyvern",
@@ -24,12 +21,10 @@
       "Time"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [
-      "Precognition"
-    ],
+    "bsa": "Precognition",
     "price": "1,700 - 2,000 shards",
     "habitats": "Alpine, Forest",
-    "encyclopedia_id": "/1587"
+    "encyclopedia_id": "1587"
   },
   {
     "breed": "Aeria Gloris Dragon",
@@ -40,10 +35,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 400 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1652"
+    "encyclopedia_id": "1652"
   },
   {
     "breed": "Aether Wyvern",
@@ -53,10 +48,10 @@
       "Air"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/176"
+    "encyclopedia_id": "176"
   },
   {
     "breed": "Albino Dragon",
@@ -66,10 +61,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Alpine",
-    "encyclopedia_id": "/3"
+    "encyclopedia_id": "3"
   },
   {
     "breed": "Alcedine Wyvern",
@@ -79,10 +74,10 @@
       "Air"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1676"
+    "encyclopedia_id": "1676"
   },
   {
     "breed": "Almerald Dragon",
@@ -92,10 +87,10 @@
       "Light"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 - 400 shards",
     "habitats": "Alpine, Forest",
-    "encyclopedia_id": "/1594"
+    "encyclopedia_id": "1594"
   },
   {
     "breed": "Amalthean Dragon",
@@ -106,10 +101,10 @@
       "Water"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1677"
+    "encyclopedia_id": "1677"
   },
   {
     "breed": "Amarignis Dragon",
@@ -120,10 +115,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1692"
+    "encyclopedia_id": "1692"
   },
   {
     "breed": "Anagallis Dragon",
@@ -133,10 +128,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Desert, Forest, Jungle",
-    "encyclopedia_id": "/4"
+    "encyclopedia_id": "4"
   },
   {
     "breed": "Antarean Dragon",
@@ -147,10 +142,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/175"
+    "encyclopedia_id": "175"
   },
   {
     "breed": "Aqualis Dragon",
@@ -160,10 +155,10 @@
       "Water"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1643"
+    "encyclopedia_id": "1643"
   },
   {
     "breed": "Aquilo Xenowyrm",
@@ -173,10 +168,10 @@
       "Air"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1687"
+    "encyclopedia_id": "1687"
   },
   {
     "breed": "Aranoa Dragon",
@@ -186,10 +181,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast, Jungle",
-    "encyclopedia_id": "/1662"
+    "encyclopedia_id": "1662"
   },
   {
     "breed": "Arcana Dragon",
@@ -199,10 +194,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited-release)",
-    "encyclopedia_id": "/1631"
+    "encyclopedia_id": "1631"
   },
   {
     "breed": "Aria Dragon",
@@ -212,10 +207,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1586"
+    "encyclopedia_id": "1586"
   },
   {
     "breed": "Arsani Dragon",
@@ -225,10 +220,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/124"
+    "encyclopedia_id": "124"
   },
   {
     "breed": "Ash Dragon",
@@ -238,10 +233,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Forest, Volcano",
-    "encyclopedia_id": "/177"
+    "encyclopedia_id": "177"
   },
   {
     "breed": "Aso Xenowyrm",
@@ -251,10 +246,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1683"
+    "encyclopedia_id": "1683"
   },
   {
     "breed": "Astaarus Dragon",
@@ -265,10 +260,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1666"
+    "encyclopedia_id": "1666"
   },
   {
     "breed": "Astralophyne Dragon",
@@ -279,12 +274,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1715"
+    "encyclopedia_id": "1715"
   },
   {
     "breed": "Astrapi Xenowyrm",
@@ -294,10 +287,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1425"
+    "encyclopedia_id": "1425"
   },
   {
     "breed": "Avatar of Change",
@@ -307,10 +300,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/137"
+    "encyclopedia_id": "137"
   },
   {
     "breed": "Avatar of Creation",
@@ -320,10 +313,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/138"
+    "encyclopedia_id": "138"
   },
   {
     "breed": "Avatar of Destruction",
@@ -333,10 +326,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/136"
+    "encyclopedia_id": "136"
   },
   {
     "breed": "Avea Pygmy",
@@ -346,10 +339,10 @@
       "Air"
     ],
     "morphology": "Pygmy Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "All Habitats (Rotating)",
-    "encyclopedia_id": "/178"
+    "encyclopedia_id": "178"
   },
   {
     "breed": "Avin Pygmy",
@@ -359,10 +352,10 @@
       "Neutral"
     ],
     "morphology": "Pygmy dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1712"
+    "encyclopedia_id": "1712"
   },
   {
     "breed": "Azure Glacewing Dragon",
@@ -372,10 +365,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1595"
+    "encyclopedia_id": "1595"
   },
   {
     "breed": "Baikala Dragon",
@@ -385,10 +378,10 @@
       "Water"
     ],
     "morphology": "Two-headed Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 700 shards",
     "habitats": "Forest, Jungle (green); Coast (blue)",
-    "encyclopedia_id": "/1614"
+    "encyclopedia_id": "1614"
   },
   {
     "breed": "Balloon Dragon",
@@ -398,10 +391,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 - 400 shards",
     "habitats": "Coast, Forest, Jungle, Alpine",
-    "encyclopedia_id": "/5"
+    "encyclopedia_id": "5"
   },
   {
     "breed": "Bauta Dragon",
@@ -409,10 +402,10 @@
     "release_at": "September 30, 2017",
     "elemental": [],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 600 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1623"
+    "encyclopedia_id": "1623"
   },
   {
     "breed": "Blacktip Dragon",
@@ -422,10 +415,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/8"
+    "encyclopedia_id": "8"
   },
   {
     "breed": "Black Capped Teimarr Dragon",
@@ -435,10 +428,10 @@
       "Water"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/110"
+    "encyclopedia_id": "110"
   },
   {
     "breed": "Black Dragon",
@@ -448,10 +441,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/6"
+    "encyclopedia_id": "6"
   },
   {
     "breed": "Black Marrow Dragon",
@@ -461,10 +454,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/53"
+    "encyclopedia_id": "53"
   },
   {
     "breed": "Black Tea Dragon",
@@ -474,10 +467,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/7"
+    "encyclopedia_id": "7"
   },
   {
     "breed": "Black Truffle Dragon",
@@ -487,10 +480,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 900 shards",
     "habitats": "All Habitats",
-    "encyclopedia_id": "/179"
+    "encyclopedia_id": "179"
   },
   {
     "breed": "Blancblack Dragon",
@@ -501,10 +494,10 @@
       "Dark"
     ],
     "morphology": "Two-headed dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 700 shards",
     "habitats": "Desert, Forest, Volcano",
-    "encyclopedia_id": "/1644"
+    "encyclopedia_id": "1644"
   },
   {
     "breed": "Blazeback Dragon",
@@ -514,10 +507,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1693"
+    "encyclopedia_id": "1693"
   },
   {
     "breed": "Bleeding Moon Dragon",
@@ -527,10 +520,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/9"
+    "encyclopedia_id": "9"
   },
   {
     "breed": "Holiday Dragon (2011)Blizzard Wizard",
@@ -540,10 +533,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/25"
+    "encyclopedia_id": "25"
   },
   {
     "breed": "Blue-Banded Dragon",
@@ -553,10 +546,10 @@
       "Water"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/11"
+    "encyclopedia_id": "11"
   },
   {
     "breed": "Triceratops horridusBlue Dino",
@@ -564,10 +557,10 @@
     "release_at": "May 21, 2006 (Original breed)",
     "elemental": [],
     "morphology": "Non-dragon",
-    "bsa": [],
+    "bsa": "",
     "price": "2,000 - 2,400 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/131"
+    "encyclopedia_id": "131"
   },
   {
     "breed": "Blusang Lindwyrm",
@@ -577,10 +570,10 @@
       "Water"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,100 - 1,300 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/13"
+    "encyclopedia_id": "13"
   },
   {
     "breed": "Bolt Dragon",
@@ -590,12 +583,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [
-      "Stun"
-    ],
+    "bsa": "Stun",
     "price": "100 - 200 shards",
     "habitats": "Alpine, Forest",
-    "encyclopedia_id": "/1588"
+    "encyclopedia_id": "1588"
   },
   {
     "breed": "Boreal Dragon",
@@ -605,10 +596,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/180"
+    "encyclopedia_id": "180"
   },
   {
     "breed": "Bright-Breasted Wyvern",
@@ -618,10 +609,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/14"
+    "encyclopedia_id": "14"
   },
   {
     "breed": "Brimstone Dragon",
@@ -631,10 +622,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert, Volcano",
-    "encyclopedia_id": "/15"
+    "encyclopedia_id": "15"
   },
   {
     "breed": "Brute Dragon",
@@ -644,10 +635,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/16"
+    "encyclopedia_id": "16"
   },
   {
     "breed": "Caligene Dragon",
@@ -657,10 +648,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1583"
+    "encyclopedia_id": "1583"
   },
   {
     "breed": "Candelabra Dragon",
@@ -670,10 +661,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 shards",
     "habitats": "Jungle, Coast",
-    "encyclopedia_id": "/174"
+    "encyclopedia_id": "174"
   },
   {
     "breed": "Canopy Dragon",
@@ -683,10 +674,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/17"
+    "encyclopedia_id": "17"
   },
   {
     "breed": "Cantormaris Dragon",
@@ -697,10 +688,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast, Volcano, Jungle",
-    "encyclopedia_id": "/1673"
+    "encyclopedia_id": "1673"
   },
   {
     "breed": "Carina Dragon",
@@ -710,10 +701,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1618"
+    "encyclopedia_id": "1618"
   },
   {
     "breed": "Carmine Wyvern",
@@ -723,10 +714,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/18"
+    "encyclopedia_id": "18"
   },
   {
     "breed": "Cassare Dragon",
@@ -736,10 +727,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/141"
+    "encyclopedia_id": "141"
   },
   {
     "breed": "Cavern Lurker Dragon",
@@ -749,10 +740,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/55"
+    "encyclopedia_id": "55"
   },
   {
     "breed": "Celestial Dragon",
@@ -762,12 +753,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Corporealize"
-    ],
+    "bsa": "Corporealize",
     "price": "300 - 400 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/973"
+    "encyclopedia_id": "973"
   },
   {
     "breed": "Cheese Dragon",
@@ -775,10 +764,10 @@
     "release_at": "July 15, 2009",
     "elemental": [],
     "morphology": "Enchanted construct (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "2,000 - 2,600 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/19"
+    "encyclopedia_id": "19"
   },
   {
     "breed": "Gallus gallus domesticusChicken",
@@ -786,10 +775,10 @@
     "release_at": "June 2, 2007",
     "elemental": [],
     "morphology": "Chicken",
-    "bsa": [],
+    "bsa": "",
     "price": "3,100 - 4,200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/20"
+    "encyclopedia_id": "20"
   },
   {
     "breed": "Chrono Xenowyrm",
@@ -799,10 +788,10 @@
       "Time"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1423"
+    "encyclopedia_id": "1423"
   },
   {
     "breed": "Ciriax Lindwyrm",
@@ -812,10 +801,10 @@
       "Dark"
     ],
     "morphology": "Two-headed dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 800 shards",
     "habitats": "Forest (green), Alpine (blue)",
-    "encyclopedia_id": "/2"
+    "encyclopedia_id": "2"
   },
   {
     "breed": "Cloudplume Dragon",
@@ -825,10 +814,10 @@
       "Air"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1678"
+    "encyclopedia_id": "1678"
   },
   {
     "breed": "Coastal Waverunner",
@@ -838,10 +827,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/28"
+    "encyclopedia_id": "28"
   },
   {
     "breed": "Common Pygmy",
@@ -849,10 +838,10 @@
     "release_at": "July 15, 2009",
     "elemental": [],
     "morphology": "Pygmy dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle, Alpine",
-    "encyclopedia_id": "/88"
+    "encyclopedia_id": "88"
   },
   {
     "breed": "Copper Dragon",
@@ -862,10 +851,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,300 - 1,600 shards",
     "habitats": "Liver of Sulfur: Desert, VolcanoRainbow: Alpine, ForestVerdigris: Coast, JunglePennybright: None (bred only)",
-    "encyclopedia_id": "/29"
+    "encyclopedia_id": "29"
   },
   {
     "breed": "Coral Pygmy Wyvern",
@@ -875,10 +864,10 @@
       "Water"
     ],
     "morphology": "Pygmy dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1645"
+    "encyclopedia_id": "1645"
   },
   {
     "breed": "Crimson Flare Pygmy",
@@ -886,10 +875,10 @@
     "release_at": "May 21, 2011",
     "elemental": [],
     "morphology": "Pygmy dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/83"
+    "encyclopedia_id": "83"
   },
   {
     "breed": "Crystalline Dragon",
@@ -899,10 +888,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1660"
+    "encyclopedia_id": "1660"
   },
   {
     "breed": "Dark Green Dragon",
@@ -913,10 +902,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/30"
+    "encyclopedia_id": "30"
   },
   {
     "breed": "Dark Lumina Dragon",
@@ -926,10 +915,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1601"
+    "encyclopedia_id": "1601"
   },
   {
     "breed": "Daydream Dragon",
@@ -939,10 +928,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast, Forest, Jungle",
-    "encyclopedia_id": "/31"
+    "encyclopedia_id": "31"
   },
   {
     "breed": "Deep Sea Dragon",
@@ -952,10 +941,10 @@
       "Water"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/33"
+    "encyclopedia_id": "33"
   },
   {
     "breed": "Desipis Dragon",
@@ -966,10 +955,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1270"
+    "encyclopedia_id": "1270"
   },
   {
     "breed": "Diamondwing Dragon",
@@ -979,10 +968,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Alpine, Volcano",
-    "encyclopedia_id": "/173"
+    "encyclopedia_id": "173"
   },
   {
     "breed": "Dorsal Dragon",
@@ -992,10 +981,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/34"
+    "encyclopedia_id": "34"
   },
   {
     "breed": "Duotone Dragon",
@@ -1003,10 +992,10 @@
     "release_at": "August 4, 2013",
     "elemental": [],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/35"
+    "encyclopedia_id": "35"
   },
   {
     "breed": "Dusk Pygmy",
@@ -1014,10 +1003,10 @@
     "release_at": "June 25, 2017",
     "elemental": [],
     "morphology": "Pygmy dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1609"
+    "encyclopedia_id": "1609"
   },
   {
     "breed": "Electric Dragon",
@@ -1027,10 +1016,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/36"
+    "encyclopedia_id": "36"
   },
   {
     "breed": "Elux Lucis Dragon",
@@ -1041,10 +1030,10 @@
       "Air"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1671"
+    "encyclopedia_id": "1671"
   },
   {
     "breed": "Ember Dragon",
@@ -1054,10 +1043,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/37"
+    "encyclopedia_id": "37"
   },
   {
     "breed": "Equinox Dragon",
@@ -1068,10 +1057,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Forest (Autumn), Volcano (Winter), Jungle (Spring), Alpine (Summer)",
-    "encyclopedia_id": "/1674"
+    "encyclopedia_id": "1674"
   },
   {
     "breed": "Erador Lindwyrm",
@@ -1082,10 +1071,10 @@
       "Life"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1664"
+    "encyclopedia_id": "1664"
   },
   {
     "breed": "Falconiform Wyvern",
@@ -1095,10 +1084,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/38"
+    "encyclopedia_id": "38"
   },
   {
     "breed": "Fanalea Dragon",
@@ -1108,12 +1097,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1721"
+    "encyclopedia_id": "1721"
   },
   {
     "breed": "Fell Dragon",
@@ -1123,10 +1110,10 @@
       "Death"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "500 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1596"
+    "encyclopedia_id": "1596"
   },
   {
     "breed": "Fever Wyvern",
@@ -1136,10 +1123,10 @@
       "Death"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/39"
+    "encyclopedia_id": "39"
   },
   {
     "breed": "Fire Gem Dragon",
@@ -1149,10 +1136,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "800 - 1,000 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1606"
+    "encyclopedia_id": "1606"
   },
   {
     "breed": "Flamingo Wyvern",
@@ -1162,10 +1149,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast, Jungle",
-    "encyclopedia_id": "/40"
+    "encyclopedia_id": "40"
   },
   {
     "breed": "Floral-Crowned Dragon",
@@ -1175,10 +1162,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1626"
+    "encyclopedia_id": "1626"
   },
   {
     "breed": "Alstroemeria Floret Wyvern",
@@ -1188,10 +1175,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1705"
+    "encyclopedia_id": "1705"
   },
   {
     "breed": "Floret Wyvern (Iris)",
@@ -1201,10 +1188,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "500 - 700 shards",
     "habitats": "Alpine (gold), Forest (purple), bred only (pink)",
-    "encyclopedia_id": "/1619"
+    "encyclopedia_id": "1619"
   },
   {
     "breed": "Freckled Dragon",
@@ -1214,10 +1201,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert, Jungle",
-    "encyclopedia_id": "/1620"
+    "encyclopedia_id": "1620"
   },
   {
     "breed": "Frilled Dragon",
@@ -1227,10 +1214,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/42"
+    "encyclopedia_id": "42"
   },
   {
     "breed": "Frostbite Dragon",
@@ -1240,10 +1227,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/140"
+    "encyclopedia_id": "140"
   },
   {
     "breed": "Furor Pygmy",
@@ -1251,12 +1238,10 @@
     "release_at": "May 21, 2022",
     "elemental": [],
     "morphology": "Pygmy dragon (Wingless)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1716"
+    "encyclopedia_id": "1716"
   },
   {
     "breed": "Gaia Xenowyrm",
@@ -1266,10 +1251,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1424"
+    "encyclopedia_id": "1424"
   },
   {
     "breed": "Galvanic Wyvern",
@@ -1280,10 +1265,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 500 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1654"
+    "encyclopedia_id": "1654"
   },
   {
     "breed": "Holiday Dragon (2017)Garland Dragon",
@@ -1293,10 +1278,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1625"
+    "encyclopedia_id": "1625"
   },
   {
     "breed": "Geminae Dragon",
@@ -1306,10 +1291,10 @@
       "Magi"
     ],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 400 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1657"
+    "encyclopedia_id": "1657"
   },
   {
     "breed": "Gemshard Dragon",
@@ -1319,10 +1304,10 @@
       "Air"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/972"
+    "encyclopedia_id": "972"
   },
   {
     "breed": "Geode Dragon",
@@ -1332,10 +1317,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/43"
+    "encyclopedia_id": "43"
   },
   {
     "breed": "Ghanser Dragon",
@@ -1345,10 +1330,10 @@
       "Time"
     ],
     "morphology": "Two-headed dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/1713"
+    "encyclopedia_id": "1713"
   },
   {
     "breed": "Gilded Bloodscale Dragon",
@@ -1356,10 +1341,10 @@
     "release_at": "May 23, 2013",
     "elemental": [],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "900 - 1,100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/10"
+    "encyclopedia_id": "10"
   },
   {
     "breed": "Glaucus Drake",
@@ -1367,10 +1352,10 @@
     "release_at": "April 6, 2014",
     "elemental": [],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/460"
+    "encyclopedia_id": "460"
   },
   {
     "breed": "Glowback Pygmy",
@@ -1380,10 +1365,10 @@
       "Light"
     ],
     "morphology": "Pygmy dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/1646"
+    "encyclopedia_id": "1646"
   },
   {
     "breed": "Holiday Dragon (2020)Glystere Wyrm",
@@ -1394,12 +1379,10 @@
       "Light"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [
-      "Redecorate"
-    ],
+    "bsa": "Redecorate",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1691"
+    "encyclopedia_id": "1691"
   },
   {
     "breed": "Gold-horned Tangar",
@@ -1409,10 +1392,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/109"
+    "encyclopedia_id": "109"
   },
   {
     "breed": "Golden Wyvern",
@@ -1422,10 +1405,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,400 - 1,800 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/51"
+    "encyclopedia_id": "51"
   },
   {
     "breed": "Gold Dragon",
@@ -1435,10 +1418,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,900 - 2,700 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/45"
+    "encyclopedia_id": "45"
   },
   {
     "breed": "Grave Dragon",
@@ -1448,10 +1431,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/56"
+    "encyclopedia_id": "56"
   },
   {
     "breed": "Greater Spotted Drake",
@@ -1459,10 +1442,10 @@
     "release_at": "May 21, 2015",
     "elemental": [],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1590"
+    "encyclopedia_id": "1590"
   },
   {
     "breed": "Parasaurolophus cyrtocristatusGreen Dino",
@@ -1470,10 +1453,10 @@
     "release_at": "May 21, 2006",
     "elemental": [],
     "morphology": "Non-dragon",
-    "bsa": [],
+    "bsa": "",
     "price": "1,500 - 1,900 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/132"
+    "encyclopedia_id": "132"
   },
   {
     "breed": "Green Dragon",
@@ -1483,12 +1466,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Earthquake"
-    ],
+    "bsa": "Earthquake",
     "price": "200 shards",
     "habitats": "Forest, Volcano",
-    "encyclopedia_id": "/48"
+    "encyclopedia_id": "48"
   },
   {
     "breed": "Guardian Dragon",
@@ -1499,10 +1480,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/50"
+    "encyclopedia_id": "50"
   },
   {
     "breed": "Guardian of Nature",
@@ -1512,10 +1493,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Must be Summoned)",
-    "encyclopedia_id": "/64"
+    "encyclopedia_id": "64"
   },
   {
     "breed": "Harvest Dragon",
@@ -1525,10 +1506,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 700 shards",
     "habitats": "Alpine (Winter)Forest (Spring to Autumn)",
-    "encyclopedia_id": "/57"
+    "encyclopedia_id": "57"
   },
   {
     "breed": "Heartseeker Dragon",
@@ -1538,10 +1519,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/123"
+    "encyclopedia_id": "123"
   },
   {
     "breed": "Heartstealing Dragon",
@@ -1551,10 +1532,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1420"
+    "encyclopedia_id": "1420"
   },
   {
     "breed": "Hellfire Wyvern",
@@ -1564,10 +1545,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/58"
+    "encyclopedia_id": "58"
   },
   {
     "breed": "Hellhorse Dragon",
@@ -1577,10 +1558,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/59"
+    "encyclopedia_id": "59"
   },
   {
     "breed": "Holiday Dragon (2007)Holly Dragon",
@@ -1590,10 +1571,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/21"
+    "encyclopedia_id": "21"
   },
   {
     "breed": "Honey Drake",
@@ -1603,10 +1584,10 @@
       "Life"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Coast, Forest, Jungle",
-    "encyclopedia_id": "/1597"
+    "encyclopedia_id": "1597"
   },
   {
     "breed": "Hooded Murkling Dragon",
@@ -1617,12 +1598,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1717"
+    "encyclopedia_id": "1717"
   },
   {
     "breed": "Hooktalon Dragon",
@@ -1630,10 +1609,10 @@
     "release_at": "May 21, 2015",
     "elemental": [],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1591"
+    "encyclopedia_id": "1591"
   },
   {
     "breed": "Horse Dragon",
@@ -1643,10 +1622,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/60"
+    "encyclopedia_id": "60"
   },
   {
     "breed": "Howler Drake",
@@ -1654,10 +1633,10 @@
     "release_at": "April 6, 2014",
     "elemental": [],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1042"
+    "encyclopedia_id": "1042"
   },
   {
     "breed": "Hydrophidius Dragon",
@@ -1667,10 +1646,10 @@
       "Water"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1703"
+    "encyclopedia_id": "1703"
   },
   {
     "breed": "Ice Dragon",
@@ -1680,12 +1659,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Summon"
-    ],
+    "bsa": "Summon",
     "price": "2,900 - 3,700 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/61"
+    "encyclopedia_id": "61"
   },
   {
     "breed": "Imperial Fleshcrowne Dragon",
@@ -1695,10 +1672,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 1,100 shards",
     "habitats": "All habitats (Rotating)",
-    "encyclopedia_id": "/41"
+    "encyclopedia_id": "41"
   },
   {
     "breed": "Iridichi Dragon",
@@ -1709,10 +1686,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1707"
+    "encyclopedia_id": "1707"
   },
   {
     "breed": "Jester Dragon",
@@ -1722,10 +1699,10 @@
       "Death"
     ],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1679"
+    "encyclopedia_id": "1679"
   },
   {
     "breed": "Ke'maro Xenowyrm",
@@ -1735,10 +1712,10 @@
       "Death"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1688"
+    "encyclopedia_id": "1688"
   },
   {
     "breed": "Khusa Dragon",
@@ -1748,10 +1725,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine, Desert",
-    "encyclopedia_id": "/1621"
+    "encyclopedia_id": "1621"
   },
   {
     "breed": "Kingcrowne Dragon",
@@ -1762,10 +1739,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "700 - 900 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1598"
+    "encyclopedia_id": "1598"
   },
   {
     "breed": "Kohraki Dragon",
@@ -1776,10 +1753,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1659"
+    "encyclopedia_id": "1659"
   },
   {
     "breed": "Kovos Pygmy",
@@ -1790,10 +1767,10 @@
       "Death"
     ],
     "morphology": "Pygmy (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1655"
+    "encyclopedia_id": "1655"
   },
   {
     "breed": "Kyanite Pygmy",
@@ -1803,10 +1780,10 @@
       "Earth"
     ],
     "morphology": "Pygmy (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 700 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1600"
+    "encyclopedia_id": "1600"
   },
   {
     "breed": "Labradorite Dragon",
@@ -1817,10 +1794,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1680"
+    "encyclopedia_id": "1680"
   },
   {
     "breed": "Lacula Dragon",
@@ -1830,10 +1807,10 @@
       "Water"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1627"
+    "encyclopedia_id": "1627"
   },
   {
     "breed": "Leodon Dragon",
@@ -1843,10 +1820,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1628"
+    "encyclopedia_id": "1628"
   },
   {
     "breed": "Lihnseyre Dragon",
@@ -1857,10 +1834,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1656"
+    "encyclopedia_id": "1656"
   },
   {
     "breed": "Lotaan Dragon",
@@ -1870,10 +1847,10 @@
       "Water"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1714"
+    "encyclopedia_id": "1714"
   },
   {
     "breed": "Lumina Dragon",
@@ -1883,10 +1860,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/65"
+    "encyclopedia_id": "65"
   },
   {
     "breed": "Luminox Dragon",
@@ -1896,10 +1873,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 400 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1647"
+    "encyclopedia_id": "1647"
   },
   {
     "breed": "Lunar Herald Dragon",
@@ -1910,10 +1887,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine, Desert, Volcano",
-    "encyclopedia_id": "/1427"
+    "encyclopedia_id": "1427"
   },
   {
     "breed": "Mageia Xenowyrm",
@@ -1923,10 +1900,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1422"
+    "encyclopedia_id": "1422"
   },
   {
     "breed": "Magelight Pygmy",
@@ -1934,10 +1911,10 @@
     "release_at": "May 21, 2015",
     "elemental": [],
     "morphology": "Pygmy (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 - 500 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1593"
+    "encyclopedia_id": "1593"
   },
   {
     "breed": "Magi Dragon",
@@ -1947,12 +1924,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Teleport"
-    ],
+    "bsa": "Teleport",
     "price": "100 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/66"
+    "encyclopedia_id": "66"
   },
   {
     "breed": "Magma Dragon",
@@ -1962,12 +1937,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [
-      "Summon"
-    ],
+    "bsa": "Summon",
     "price": "4,000 - 4,900 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/67"
+    "encyclopedia_id": "67"
   },
   {
     "breed": "Magnesium Amphiptere",
@@ -1977,10 +1950,10 @@
       "Fire"
     ],
     "morphology": "Two-headed dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert (brown variant), Volcano (grey variant)",
-    "encyclopedia_id": "/1694"
+    "encyclopedia_id": "1694"
   },
   {
     "breed": "Mariner Pygmy",
@@ -1990,10 +1963,10 @@
       "Neutral"
     ],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1648"
+    "encyclopedia_id": "1648"
   },
   {
     "breed": "Melismor Dragon",
@@ -2003,10 +1976,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1629"
+    "encyclopedia_id": "1629"
   },
   {
     "breed": "Mimic Pygmy",
@@ -2016,10 +1989,10 @@
       "Magi"
     ],
     "morphology": "Pygmy (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/181"
+    "encyclopedia_id": "181"
   },
   {
     "breed": "Mint Dragon",
@@ -2029,10 +2002,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast, Forest, Jungle, Alpine, Volcano",
-    "encyclopedia_id": "/68"
+    "encyclopedia_id": "68"
   },
   {
     "breed": "Mirisia Amphiptere",
@@ -2042,10 +2015,10 @@
       "Life"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine, Forest, Jungle",
-    "encyclopedia_id": "/1706"
+    "encyclopedia_id": "1706"
   },
   {
     "breed": "Misfit Pygmy",
@@ -2053,10 +2026,10 @@
     "release_at": "May 21, 2011",
     "elemental": [],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/85"
+    "encyclopedia_id": "85"
   },
   {
     "breed": "Holiday Dragon (2013)Solstice Dragon",
@@ -2066,10 +2039,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/27"
+    "encyclopedia_id": "27"
   },
   {
     "breed": "Mistlet Pygmy",
@@ -2077,10 +2050,10 @@
     "release_at": "May 21, 2011",
     "elemental": [],
     "morphology": "Pygmy dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/84"
+    "encyclopedia_id": "84"
   },
   {
     "breed": "Mistra Dragon",
@@ -2090,10 +2063,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast, Jungle",
-    "encyclopedia_id": "/1667"
+    "encyclopedia_id": "1667"
   },
   {
     "breed": "Monarch Dragon",
@@ -2103,10 +2076,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle, Forest, Desert",
-    "encyclopedia_id": "/169"
+    "encyclopedia_id": "169"
   },
   {
     "breed": "Moonglow Drake",
@@ -2114,10 +2087,10 @@
     "release_at": "May 26, 2010",
     "elemental": [],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/553"
+    "encyclopedia_id": "553"
   },
   {
     "breed": "Moonstone Dragon",
@@ -2127,10 +2100,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/69"
+    "encyclopedia_id": "69"
   },
   {
     "breed": "Morphodrake",
@@ -2140,10 +2113,10 @@
       "Light"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/170"
+    "encyclopedia_id": "170"
   },
   {
     "breed": "Heartstealing Dragon",
@@ -2153,10 +2126,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1420"
+    "encyclopedia_id": "1420"
   },
   {
     "breed": "Nebula Dragon",
@@ -2166,10 +2139,10 @@
       "Light"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 800 shards",
     "habitats": "Alpine, Desert",
-    "encyclopedia_id": "/70"
+    "encyclopedia_id": "70"
   },
   {
     "breed": "Neglected Dragon",
@@ -2177,10 +2150,10 @@
     "release_at": "June 2, 2007",
     "elemental": [],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown",
-    "encyclopedia_id": "/95"
+    "encyclopedia_id": "95"
   },
   {
     "breed": "Neotropical Dragon",
@@ -2190,10 +2163,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/71"
+    "encyclopedia_id": "71"
   },
   {
     "breed": "Nexus Dragon",
@@ -2203,10 +2176,10 @@
       "Dark"
     ],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,500 - 1,800 shards",
     "habitats": "Alpine, Volcano",
-    "encyclopedia_id": "/172"
+    "encyclopedia_id": "172"
   },
   {
     "breed": "Nhiostrife Wyvern",
@@ -2216,10 +2189,10 @@
       "Air"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/117"
+    "encyclopedia_id": "117"
   },
   {
     "breed": "Nilia Pygmy",
@@ -2227,10 +2200,10 @@
     "release_at": "May 21, 2011May 21, 2021 (Green variant)",
     "elemental": [],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/86"
+    "encyclopedia_id": "86"
   },
   {
     "breed": "Nobleshield Dragon",
@@ -2241,10 +2214,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1670"
+    "encyclopedia_id": "1670"
   },
   {
     "breed": "Nocturne Dragon",
@@ -2254,10 +2227,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine, Forest",
-    "encyclopedia_id": "/72"
+    "encyclopedia_id": "72"
   },
   {
     "breed": "Obidar Xenowyrm",
@@ -2267,10 +2240,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1685"
+    "encyclopedia_id": "1685"
   },
   {
     "breed": "Ochredrake",
@@ -2280,10 +2253,10 @@
       "Neutral"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/73"
+    "encyclopedia_id": "73"
   },
   {
     "breed": "Olive Dragon",
@@ -2293,10 +2266,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/74"
+    "encyclopedia_id": "74"
   },
   {
     "breed": "Omen Wyrm",
@@ -2307,10 +2280,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1624"
+    "encyclopedia_id": "1624"
   },
   {
     "breed": "Oracle Wyrm",
@@ -2320,10 +2293,10 @@
       "Light"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine, Coast, Forest, Jungle",
-    "encyclopedia_id": "/1701"
+    "encyclopedia_id": "1701"
   },
   {
     "breed": "Paper Dragon",
@@ -2331,10 +2304,10 @@
     "release_at": "December 3, 2007",
     "elemental": [],
     "morphology": "Enchanted construct (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "2,200 - 2,800 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/75"
+    "encyclopedia_id": "75"
   },
   {
     "breed": "Pargulus Pygmy",
@@ -2344,10 +2317,10 @@
       "Life"
     ],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Alpine, Coast (blue variant); Desert, Jungle (green variant); Forest, Volcano (red variant)",
-    "encyclopedia_id": "/1681"
+    "encyclopedia_id": "1681"
   },
   {
     "breed": "Pharos Xenowyrm",
@@ -2357,10 +2330,10 @@
       "Light"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1684"
+    "encyclopedia_id": "1684"
   },
   {
     "breed": "Pillow Dragon",
@@ -2370,10 +2343,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/77"
+    "encyclopedia_id": "77"
   },
   {
     "breed": "Pink Dragon",
@@ -2383,12 +2356,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Influence"
-    ],
+    "bsa": "Influence",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/79"
+    "encyclopedia_id": "79"
   },
   {
     "breed": "Pipio Pygmy",
@@ -2398,10 +2369,10 @@
       "Air"
     ],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 - 500 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/182"
+    "encyclopedia_id": "182"
   },
   {
     "breed": "Pitfire Dragon",
@@ -2411,10 +2382,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1690"
+    "encyclopedia_id": "1690"
   },
   {
     "breed": "Plated Colossus Dragon",
@@ -2424,10 +2395,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/974"
+    "encyclopedia_id": "974"
   },
   {
     "breed": "Holiday Dragon (2021)Pryanost Lindwyrm",
@@ -2438,10 +2409,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1708"
+    "encyclopedia_id": "1708"
   },
   {
     "breed": "Pseudo-wyvern Drake",
@@ -2451,10 +2422,10 @@
       "Neutral"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1665"
+    "encyclopedia_id": "1665"
   },
   {
     "breed": "Pumpkin Dragon",
@@ -2462,10 +2433,10 @@
     "release_at": "October 31, 2009",
     "elemental": [],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/52"
+    "encyclopedia_id": "52"
   },
   {
     "breed": "Pterodactylus maximusPurple Dino",
@@ -2473,10 +2444,10 @@
     "release_at": "July 15, 2009",
     "elemental": [],
     "morphology": "Non-dragon",
-    "bsa": [],
+    "bsa": "",
     "price": "1,900 - 2,400 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/133"
+    "encyclopedia_id": "133"
   },
   {
     "breed": "Purple Dragon",
@@ -2486,12 +2457,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Fertility"
-    ],
+    "bsa": "Fertility",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/82"
+    "encyclopedia_id": "82"
   },
   {
     "breed": "Pyralspite Dragon",
@@ -2501,10 +2470,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "600 - 800 shards",
     "habitats": "Alpine (Almandine), Volcano (Pyrope), Coast (Spessartine)",
-    "encyclopedia_id": "/975"
+    "encyclopedia_id": "975"
   },
   {
     "breed": "Pyropellis Wyvern",
@@ -2514,10 +2483,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1697"
+    "encyclopedia_id": "1697"
   },
   {
     "breed": "Pyrovar Dragon",
@@ -2527,10 +2496,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/183"
+    "encyclopedia_id": "183"
   },
   {
     "breed": "Pyro Xenowyrm",
@@ -2540,10 +2509,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1426"
+    "encyclopedia_id": "1426"
   },
   {
     "breed": "Pyrrhichios Dragon",
@@ -2553,12 +2522,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1718"
+    "encyclopedia_id": "1718"
   },
   {
     "breed": "Radiant Angel Dragon",
@@ -2568,10 +2535,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/125"
+    "encyclopedia_id": "125"
   },
   {
     "breed": "Razorcrest Wyvern",
@@ -2581,10 +2548,10 @@
       "Air"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1630"
+    "encyclopedia_id": "1630"
   },
   {
     "breed": "Red-Tailed Wyrm",
@@ -2594,10 +2561,10 @@
       "Air"
     ],
     "morphology": "Pygmy Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "300 - 400 shards",
     "habitats": "Desert, Forest, Jungle",
-    "encyclopedia_id": "/1615"
+    "encyclopedia_id": "1615"
   },
   {
     "breed": "Stegosaurus stenopsRed Dino",
@@ -2605,10 +2572,10 @@
     "release_at": "June 19, 2007",
     "elemental": [],
     "morphology": "Non-dragon",
-    "bsa": [],
+    "bsa": "",
     "price": "2,000 - 2,500 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/134"
+    "encyclopedia_id": "134"
   },
   {
     "breed": "Red Dragon",
@@ -2618,12 +2585,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Incubate"
-    ],
+    "bsa": "Incubate",
     "price": "600 - 700 shards",
     "habitats": "Desert, Volcano",
-    "encyclopedia_id": "/89"
+    "encyclopedia_id": "89"
   },
   {
     "breed": "Holiday Dragon (2010)Ribbon Dancer",
@@ -2633,10 +2598,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/24"
+    "encyclopedia_id": "24"
   },
   {
     "breed": "Ridgewing Dragon",
@@ -2646,10 +2611,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/90"
+    "encyclopedia_id": "90"
   },
   {
     "breed": "Rift Wyrm",
@@ -2660,10 +2625,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 500 shards",
     "habitats": "All habitats (rotating, see trivia)",
-    "encyclopedia_id": "/1649"
+    "encyclopedia_id": "1649"
   },
   {
     "breed": "Risensong Dragon",
@@ -2673,10 +2638,10 @@
       "Light"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1610"
+    "encyclopedia_id": "1610"
   },
   {
     "breed": "Rosebud Dragon",
@@ -2686,10 +2651,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/122"
+    "encyclopedia_id": "122"
   },
   {
     "breed": "Royal Blue Dragon",
@@ -2699,10 +2664,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/91"
+    "encyclopedia_id": "91"
   },
   {
     "breed": "Royal Crimson Dragon",
@@ -2712,10 +2677,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/92"
+    "encyclopedia_id": "92"
   },
   {
     "breed": "Royal Eminence Dragon",
@@ -2725,10 +2690,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1704"
+    "encyclopedia_id": "1704"
   },
   {
     "breed": "Sabertooth Bull Drake",
@@ -2738,10 +2703,10 @@
       "Neutral"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1702"
+    "encyclopedia_id": "1702"
   },
   {
     "breed": "Sakuhana Wyvern",
@@ -2751,10 +2716,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1633"
+    "encyclopedia_id": "1633"
   },
   {
     "breed": "Sandwaste Dragon",
@@ -2764,10 +2729,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/1661"
+    "encyclopedia_id": "1661"
   },
   {
     "breed": "Sapo Dragon",
@@ -2777,10 +2742,10 @@
       "Water"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/1682"
+    "encyclopedia_id": "1682"
   },
   {
     "breed": "Sapphire Dragon",
@@ -2790,10 +2755,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/168"
+    "encyclopedia_id": "168"
   },
   {
     "breed": "Sawtooth Dragon",
@@ -2804,10 +2769,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1696"
+    "encyclopedia_id": "1696"
   },
   {
     "breed": "Scimitar-wing Wyvern",
@@ -2817,10 +2782,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Desert, Volcano",
-    "encyclopedia_id": "/1613"
+    "encyclopedia_id": "1613"
   },
   {
     "breed": "Scourgekeeper Dragon",
@@ -2831,10 +2796,10 @@
       "Life"
     ],
     "morphology": "Two-headed dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Must be allied after an Adventure)",
-    "encyclopedia_id": "/1719"
+    "encyclopedia_id": "1719"
   },
   {
     "breed": "Script Dragon",
@@ -2844,10 +2809,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1616"
+    "encyclopedia_id": "1616"
   },
   {
     "breed": "Scymrian Pygmy",
@@ -2857,10 +2822,10 @@
       "Life"
     ],
     "morphology": "Pygmy (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1695"
+    "encyclopedia_id": "1695"
   },
   {
     "breed": "Seasonal Dragon (Autumn)",
@@ -2870,10 +2835,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1079"
+    "encyclopedia_id": "1079"
   },
   {
     "breed": "Seasonal Dragon (Spring)",
@@ -2883,10 +2848,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1077"
+    "encyclopedia_id": "1077"
   },
   {
     "breed": "Seasonal Dragon (Summer)",
@@ -2896,10 +2861,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1078"
+    "encyclopedia_id": "1078"
   },
   {
     "breed": "Seasonal Dragon (Winter)",
@@ -2909,10 +2874,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1080"
+    "encyclopedia_id": "1080"
   },
   {
     "breed": "Seawyrm Pygmy",
@@ -2920,10 +2885,10 @@
     "release_at": "May 21, 2011",
     "elemental": [],
     "morphology": "Pygmy dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/87"
+    "encyclopedia_id": "87"
   },
   {
     "breed": "Serrati Wyvern",
@@ -2933,10 +2898,10 @@
       "Death"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/94"
+    "encyclopedia_id": "94"
   },
   {
     "breed": "Setsong Dragon",
@@ -2946,10 +2911,10 @@
       "Light"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1611"
+    "encyclopedia_id": "1611"
   },
   {
     "breed": "Shadow Walker",
@@ -2959,10 +2924,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/54"
+    "encyclopedia_id": "54"
   },
   {
     "breed": "Shallow Water Dragon",
@@ -2972,12 +2937,10 @@
       "Water"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [
-      "Splash"
-    ],
+    "bsa": "Splash",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/46"
+    "encyclopedia_id": "46"
   },
   {
     "breed": "Shimmer-scale Dragon",
@@ -2987,10 +2950,10 @@
       "Water"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Prize dragon)",
-    "encyclopedia_id": "/81"
+    "encyclopedia_id": "81"
   },
   {
     "breed": "Shumoga Dragon",
@@ -3000,10 +2963,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine, Desert",
-    "encyclopedia_id": "/1699"
+    "encyclopedia_id": "1699"
   },
   {
     "breed": "Silver Dragon",
@@ -3013,10 +2976,10 @@
       "Light"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,600 - 2,000 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/96"
+    "encyclopedia_id": "96"
   },
   {
     "breed": "Sinii Krai Dragon",
@@ -3024,10 +2987,10 @@
     "release_at": "April 28, 2017",
     "elemental": [],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/153"
+    "encyclopedia_id": "153"
   },
   {
     "breed": "Siyat Dragon",
@@ -3037,10 +3000,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Alpine, Coast, Forest",
-    "encyclopedia_id": "/184"
+    "encyclopedia_id": "184"
   },
   {
     "breed": "Skysilk Dragon",
@@ -3050,10 +3013,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Desert, Jungle",
-    "encyclopedia_id": "/1650"
+    "encyclopedia_id": "1650"
   },
   {
     "breed": "Skystrider Dragon",
@@ -3063,10 +3026,10 @@
       "Air"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine, Forest, Coast",
-    "encyclopedia_id": "/1669"
+    "encyclopedia_id": "1669"
   },
   {
     "breed": "Skywing Dragon",
@@ -3076,10 +3039,10 @@
       "Air"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/97"
+    "encyclopedia_id": "97"
   },
   {
     "breed": "Holiday Dragon (2009)Snow Angel",
@@ -3089,10 +3052,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/23"
+    "encyclopedia_id": "23"
   },
   {
     "breed": "Holiday Dragon (2016)Snow Dragon",
@@ -3102,10 +3065,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1603"
+    "encyclopedia_id": "1603"
   },
   {
     "breed": "Holiday Dragon (2013)Solstice Dragon",
@@ -3115,10 +3078,10 @@
       "Time"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/27"
+    "encyclopedia_id": "27"
   },
   {
     "breed": "Sophrosyne Dragon",
@@ -3128,12 +3091,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Remove Curse"
-    ],
+    "bsa": "Remove Curse",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/98"
+    "encyclopedia_id": "98"
   },
   {
     "breed": "Soulstone Dragon",
@@ -3143,10 +3104,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1604"
+    "encyclopedia_id": "1604"
   },
   {
     "breed": "Speckle-Throated Dragon",
@@ -3156,10 +3117,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/99"
+    "encyclopedia_id": "99"
   },
   {
     "breed": "Spinel Wyvern",
@@ -3169,10 +3130,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Desert, Volcano",
-    "encyclopedia_id": "/1617"
+    "encyclopedia_id": "1617"
   },
   {
     "breed": "Spirit Ward Dragon",
@@ -3182,10 +3143,10 @@
       "Light"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Forest, Alpine",
-    "encyclopedia_id": "/976"
+    "encyclopedia_id": "976"
   },
   {
     "breed": "Spitfire Dragon",
@@ -3195,10 +3156,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/100"
+    "encyclopedia_id": "100"
   },
   {
     "breed": "Split Dragon",
@@ -3208,10 +3169,10 @@
       "Neutral"
     ],
     "morphology": "Two-headed dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1"
+    "encyclopedia_id": "1"
   },
   {
     "breed": "Spotted Greenwing",
@@ -3221,10 +3182,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/49"
+    "encyclopedia_id": "49"
   },
   {
     "breed": "Spotted Teal Drake",
@@ -3234,10 +3195,10 @@
       "Earth"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1698"
+    "encyclopedia_id": "1698"
   },
   {
     "breed": "Holiday Dragon (2018)Starsinger Dragon",
@@ -3247,10 +3208,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1632"
+    "encyclopedia_id": "1632"
   },
   {
     "breed": "Staterae Xenowyrm",
@@ -3260,10 +3221,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "1,400 - 5,700 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1689"
+    "encyclopedia_id": "1689"
   },
   {
     "breed": "Stone Dragon",
@@ -3273,10 +3234,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Desert, Alpine, Volcano",
-    "encyclopedia_id": "/101"
+    "encyclopedia_id": "101"
   },
   {
     "breed": "Storm-Rider Dragon",
@@ -3286,10 +3247,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/1589"
+    "encyclopedia_id": "1589"
   },
   {
     "breed": "Storm Dragon",
@@ -3299,10 +3260,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/47"
+    "encyclopedia_id": "47"
   },
   {
     "breed": "Stratos Dragon",
@@ -3313,10 +3274,10 @@
       "Light"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine, Desert, Jungle",
-    "encyclopedia_id": "/1672"
+    "encyclopedia_id": "1672"
   },
   {
     "breed": "Striped Dragon",
@@ -3326,10 +3287,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/102"
+    "encyclopedia_id": "102"
   },
   {
     "breed": "Striped River Dragon",
@@ -3339,10 +3300,10 @@
       "Water"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/971"
+    "encyclopedia_id": "971"
   },
   {
     "breed": "Sunbeam Drake",
@@ -3350,10 +3311,10 @@
     "release_at": "May 26, 2010",
     "elemental": [],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/44"
+    "encyclopedia_id": "44"
   },
   {
     "breed": "Sunrise Dragon",
@@ -3363,10 +3324,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Alpine",
-    "encyclopedia_id": "/104"
+    "encyclopedia_id": "104"
   },
   {
     "breed": "Sunset Dragon",
@@ -3376,10 +3337,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Alpine",
-    "encyclopedia_id": "/105"
+    "encyclopedia_id": "105"
   },
   {
     "breed": "Sunsong Amphiptere",
@@ -3389,10 +3350,10 @@
       "Light"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/106"
+    "encyclopedia_id": "106"
   },
   {
     "breed": "Sunstone Dragon",
@@ -3402,10 +3363,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/107"
+    "encyclopedia_id": "107"
   },
   {
     "breed": "Swallowtail Dragon",
@@ -3415,10 +3376,10 @@
       "Air"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/108"
+    "encyclopedia_id": "108"
   },
   {
     "breed": "Valentine Dragon",
@@ -3428,10 +3389,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/120"
+    "encyclopedia_id": "120"
   },
   {
     "breed": "Tarantula Hawk Drake",
@@ -3441,10 +3402,10 @@
       "Earth"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/171"
+    "encyclopedia_id": "171"
   },
   {
     "breed": "Tatterdrake",
@@ -3454,10 +3415,10 @@
       "Dark"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Jungle",
-    "encyclopedia_id": "/1622"
+    "encyclopedia_id": "1622"
   },
   {
     "breed": "Temple Wyrm",
@@ -3467,10 +3428,10 @@
       "Light"
     ],
     "morphology": "Two-headed dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Desert,  Jungle",
-    "encyclopedia_id": "/1700"
+    "encyclopedia_id": "1700"
   },
   {
     "breed": "Tercorn Dragon",
@@ -3481,10 +3442,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1651"
+    "encyclopedia_id": "1651"
   },
   {
     "breed": "Terrae Dragon",
@@ -3494,10 +3455,10 @@
       "Earth"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/111"
+    "encyclopedia_id": "111"
   },
   {
     "breed": "Tetra Dragon",
@@ -3507,10 +3468,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast, Jungle",
-    "encyclopedia_id": "/1605"
+    "encyclopedia_id": "1605"
   },
   {
     "breed": "Thalassa Xenowyrm",
@@ -3520,10 +3481,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "400 - 500 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/1421"
+    "encyclopedia_id": "1421"
   },
   {
     "breed": "Thundersnow Dragon",
@@ -3534,12 +3495,10 @@
       "Lightning"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [
-      "Adventure"
-    ],
+    "bsa": "Adventure",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1720"
+    "encyclopedia_id": "1720"
   },
   {
     "breed": "Thunder Dragon",
@@ -3549,9 +3508,7 @@
       "Lightning"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Summon"
-    ],
+    "bsa": "Summon",
     "price": "2,700 - 3,700 shards",
     "habitats": "Desert",
     "encyclopedia_id": ""
@@ -3564,10 +3521,10 @@
       "Water"
     ],
     "morphology": "Dragon (Lindwyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/113"
+    "encyclopedia_id": "113"
   },
   {
     "breed": "Tinsel Dragon",
@@ -3577,10 +3534,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Prize dragon)",
-    "encyclopedia_id": "/80"
+    "encyclopedia_id": "80"
   },
   {
     "breed": "Tri-Horn Wyvern",
@@ -3590,10 +3547,10 @@
       "Ice"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/114"
+    "encyclopedia_id": "114"
   },
   {
     "breed": "Tsunami Wyvern",
@@ -3603,10 +3560,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 - 300 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/115"
+    "encyclopedia_id": "115"
   },
   {
     "breed": "Turpentine Dragon",
@@ -3616,10 +3573,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/116"
+    "encyclopedia_id": "116"
   },
   {
     "breed": "Two-Finned Bluna",
@@ -3629,10 +3586,10 @@
       "Water"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/12"
+    "encyclopedia_id": "12"
   },
   {
     "breed": "Ultraviolet Dragon",
@@ -3642,10 +3599,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Hybrid)",
-    "encyclopedia_id": "/118"
+    "encyclopedia_id": "118"
   },
   {
     "breed": "Umbra Xenowyrm",
@@ -3655,10 +3612,10 @@
       "Dark"
     ],
     "morphology": "Dragon (Wyrm)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/1686"
+    "encyclopedia_id": "1686"
   },
   {
     "breed": "Undine Dragon",
@@ -3668,10 +3625,10 @@
       "Water"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest, Alpine",
-    "encyclopedia_id": "/119"
+    "encyclopedia_id": "119"
   },
   {
     "breed": "Valentine Dragon",
@@ -3681,10 +3638,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/120"
+    "encyclopedia_id": "120"
   },
   {
     "breed": "Vampire Dragon",
@@ -3694,12 +3651,10 @@
       "Death"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Bite"
-    ],
+    "bsa": "Bite",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/126"
+    "encyclopedia_id": "126"
   },
   {
     "breed": "Venturis Dragon",
@@ -3709,10 +3664,10 @@
       "Time"
     ],
     "morphology": "Dragon (Eastern)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Alpine",
-    "encyclopedia_id": "/1668"
+    "encyclopedia_id": "1668"
   },
   {
     "breed": "Vermeil Dragon",
@@ -3722,10 +3677,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wyvern)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1709"
+    "encyclopedia_id": "1709"
   },
   {
     "breed": "Vremya Drake",
@@ -3735,10 +3690,10 @@
       "Time"
     ],
     "morphology": "Drake",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1653"
+    "encyclopedia_id": "1653"
   },
   {
     "breed": "Waterhorse Dragon",
@@ -3748,10 +3703,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/127"
+    "encyclopedia_id": "127"
   },
   {
     "breed": "Water Dragon",
@@ -3761,10 +3716,10 @@
       "Water"
     ],
     "morphology": "Dragon (Sea serpent)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Coast",
-    "encyclopedia_id": "/63"
+    "encyclopedia_id": "63"
   },
   {
     "breed": "Water Walker Dragon",
@@ -3774,10 +3729,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Coast, Forest, Jungle",
-    "encyclopedia_id": "/128"
+    "encyclopedia_id": "128"
   },
   {
     "breed": "Whiptail Dragon",
@@ -3787,10 +3742,10 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "200 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/129"
+    "encyclopedia_id": "129"
   },
   {
     "breed": "White Dragon",
@@ -3801,12 +3756,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [
-      "Ward"
-    ],
+    "bsa": "Ward",
     "price": "200 shards",
     "habitats": "All habitats",
-    "encyclopedia_id": "/130"
+    "encyclopedia_id": "130"
   },
   {
     "breed": "Holiday Dragon (2019)Wintertide Dragon",
@@ -3817,10 +3770,10 @@
       "Fire"
     ],
     "morphology": "Dragon (Amphiptere)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1663"
+    "encyclopedia_id": "1663"
   },
   {
     "breed": "Wisteria Dragon",
@@ -3830,10 +3783,10 @@
       "Life"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Forest",
-    "encyclopedia_id": "/1710"
+    "encyclopedia_id": "1710"
   },
   {
     "breed": "Witchlight Dragon",
@@ -3844,10 +3797,10 @@
       "Magi"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/1602"
+    "encyclopedia_id": "1602"
   },
   {
     "breed": "Holiday Dragon (2012)Wrapping-Wing",
@@ -3857,10 +3810,10 @@
       "Life"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/26"
+    "encyclopedia_id": "26"
   },
   {
     "breed": "Xol Dragon",
@@ -3871,10 +3824,10 @@
       "Water"
     ],
     "morphology": "Dragon (Wingless)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 - 200 shards",
     "habitats": "Volcano",
-    "encyclopedia_id": "/1675"
+    "encyclopedia_id": "1675"
   },
   {
     "breed": "Yellow-Crowned Dragon",
@@ -3884,10 +3837,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "100 shards",
     "habitats": "Desert",
-    "encyclopedia_id": "/103"
+    "encyclopedia_id": "103"
   },
   {
     "breed": "Diplodocus carnegiiYellow Dino",
@@ -3895,10 +3848,10 @@
     "release_at": "June 19, 2007",
     "elemental": [],
     "morphology": "Non-dragon",
-    "bsa": [],
+    "bsa": "",
     "price": "1,800 - 2,400 shards",
     "habitats": "Jungle",
-    "encyclopedia_id": "/135"
+    "encyclopedia_id": "135"
   },
   {
     "breed": "Holiday Dragon (2008)Yulebuck",
@@ -3908,10 +3861,10 @@
       "Light"
     ],
     "morphology": "Dragon (Western)",
-    "bsa": [],
+    "bsa": "",
     "price": "N/A",
     "habitats": "Unknown (Limited release)",
-    "encyclopedia_id": "/22"
+    "encyclopedia_id": "22"
   },
   {
     "breed": "Zyumorph",
@@ -3921,11 +3874,9 @@
       "Neutral"
     ],
     "morphology": "Dragon (Western, see trivia)",
-    "bsa": [
-      "Summon"
-    ],
+    "bsa": "Summon",
     "price": "N/A",
     "habitats": "All habitats",
-    "encyclopedia_id": "/1607"
+    "encyclopedia_id": "1607"
   }
 ]

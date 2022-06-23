@@ -1,6 +1,7 @@
 import os
 import re
 import time
+import copy
 import requests
 from bs4 import BeautifulSoup
 import lxml
@@ -95,7 +96,7 @@ class Spider():
                         rarity = 'Other'
                     elif index == 5:
                         rarity = 'Holiday'
-                    result.append({
+                    dragon = {
                         'breed':
                         re.sub(r'\[.*\]$', '', data[0].find('a')['title'])
                         if 'title' in data[0].find('a').attrs else re.sub(
@@ -118,7 +119,18 @@ class Spider():
                             if 'data-src' in data[0].find('img').attrs else
                             data[0].find('img')['src']
                         }
-                    })
+                    }
+                    if dragon['breed'] == 'Sunset':
+                        dragon['breed'] = 'Sunset Dragon'
+                        dragon[
+                            'wiki_path'] = '/wiki/' + dragon['breed'].replace(
+                                ' ', '_')
+                        result.append(copy.deepcopy(dragon))
+                        dragon['breed'] = 'Sunrise Dragon'
+                        dragon[
+                            'wiki_path'] = '/wiki/' + dragon['breed'].replace(
+                                ' ', '_')
+                    result.append(dragon)
                 except Exception as e:
                     print(f'[ERROR] parse failed {e}')
                     print(raw_data.prettify())
@@ -169,7 +181,8 @@ class Spider():
                 continue
             url = None
             page_path = f"cache\\dragon_zh\\{dragon['breed'].replace(' ', '_')}.html"
-            if dragon['wiki_path'].startswith('/'):
+            if dragon['wiki_path'].startswith(
+                    '/') and dragon['wiki_path'] != '/zh/wiki/Bauta_Dragon':
                 url = f"{cls.WIKI['root']}{dragon['wiki_path']}"
             else:
                 print(f"[{count}] 网址错误 {dragon['wiki_path']} 取消爬取")
