@@ -59,3 +59,7 @@ https://cdn.jsdelivr.net/gh/1ackbfun/dragon-cave-helper@main/data/dragon_db.json
 - [ ] 研究中文 Wiki 存在、英文 Wiki 反而缺失的龙类是怎么回事，目前已发现的有
   1. `{'breed': 'Red-finned Tidal', 'breed_chs': '红鳍潮汐龙', 'egg': 'This egg is wet from the waves and has bright red stripes.', 'egg_chs': '这颗蛋被浪打湿并有明亮的红色条纹。'}`
   2. `{'breed': 'Seragamma Wyvern', 'breed_chs': '黄昏火山翼龙', 'egg': 'This plain-looking egg has faint speckles.', 'egg_chs': '这颗平凡的蛋上有淡淡的斑点。'}`
+- [ ] 根据龙蛋图像判断 AP 区龙蛋种类
+  1. 前端获取官方龙蛋图像数据
+  2. 用颜色分布法计算图片指纹
+  3. 再与提前计算好的数据集比对，判断相似程度

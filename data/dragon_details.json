@@ -1,0 +1,3931 @@
+[
+  {
+    "breed": "Holiday Dragon (2015)Aegis Dragon",
+    "egg_desc": "A wintry chill swirls just beneath the surface of this egg.",
+    "release_at": "December 25, 2015",
+    "elemental": [
+      "Life",
+      "Ice"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [
+      "Enrage",
+      "Pacify"
+    ],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1584"
+  },
+  {
+    "breed": "Aeon Wyvern",
+    "egg_desc": "It’s almost like time is distorted around this egg.",
+    "release_at": "August 21, 2016",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [
+      "Precognition"
+    ],
+    "price": "1,700 - 2,000 shards",
+    "habitats": "Alpine, Forest",
+    "encyclopedia_id": "/1587"
+  },
+  {
+    "breed": "Aeria Gloris Dragon",
+    "egg_desc": "This crystalline egg almost looks like you could reach into its depths.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Magi",
+      "Lightning"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "200 - 400 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1652"
+  },
+  {
+    "breed": "Aether Wyvern",
+    "egg_desc": "Wind gusts around this egg.",
+    "release_at": "September 30, 2018",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/176"
+  },
+  {
+    "breed": "Albino Dragon",
+    "egg_desc": "You can see the baby dragon curled up inside this translucent egg.",
+    "release_at": "July 15, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Alpine",
+    "encyclopedia_id": "/3"
+  },
+  {
+    "breed": "Alcedine Wyvern",
+    "egg_desc": "The brilliant blue spots on this egg stand out.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1676"
+  },
+  {
+    "breed": "Almerald Dragon",
+    "egg_desc": "This glossy green egg is rather warm.",
+    "release_at": "August 21, 2016",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "300 - 400 shards",
+    "habitats": "Alpine, Forest",
+    "encyclopedia_id": "/1594"
+  },
+  {
+    "breed": "Amalthean Dragon",
+    "egg_desc": "This pristine egg sits in a clear pool of water.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Life",
+      "Water"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1677"
+  },
+  {
+    "breed": "Amarignis Dragon",
+    "egg_desc": "Dim flames spark up from this egg whenever joy sparks up in you.",
+    "release_at": "February 14, 2021",
+    "elemental": [
+      "Light",
+      "Fire"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1692"
+  },
+  {
+    "breed": "Anagallis Dragon",
+    "egg_desc": "This delicately patterned egg is sitting in the sunshine.",
+    "release_at": "April 26, 2015",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Desert, Forest, Jungle",
+    "encyclopedia_id": "/4"
+  },
+  {
+    "breed": "Antarean Dragon",
+    "egg_desc": "This egg is surrounded by mysterious, reflective dust.",
+    "release_at": "March 19, 2016",
+    "elemental": [
+      "Light",
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/175"
+  },
+  {
+    "breed": "Aqualis Dragon",
+    "egg_desc": "This drab egg rests far from the water’s edge.",
+    "release_at": "March 10, 2019",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1643"
+  },
+  {
+    "breed": "Aquilo Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1687"
+  },
+  {
+    "breed": "Aranoa Dragon",
+    "egg_desc": "The vibrant scales on this egg glisten in the sunlight.",
+    "release_at": "December 1, 2019",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast, Jungle",
+    "encyclopedia_id": "/1662"
+  },
+  {
+    "breed": "Arcana Dragon",
+    "egg_desc": "This egg has reflective spots that remind you of gems, or eyes.",
+    "release_at": "October 31, 2018",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited-release)",
+    "encyclopedia_id": "/1631"
+  },
+  {
+    "breed": "Aria Dragon",
+    "egg_desc": "This bright egg has a warm shell.",
+    "release_at": "May 21, 2016",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1586"
+  },
+  {
+    "breed": "Arsani Dragon",
+    "egg_desc": "This egg is a deep pink.",
+    "release_at": "February 14, 2013",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/124"
+  },
+  {
+    "breed": "Ash Dragon",
+    "egg_desc": "This ashen egg is smooth to the touch.",
+    "release_at": "August 26, 2018",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Forest, Volcano",
+    "encyclopedia_id": "/177"
+  },
+  {
+    "breed": "Aso Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1683"
+  },
+  {
+    "breed": "Astaarus Dragon",
+    "egg_desc": "This egg reminds you of the night sky.",
+    "release_at": "August 23, 2020",
+    "elemental": [
+      "Light",
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1666"
+  },
+  {
+    "breed": "Astralophyne Dragon",
+    "egg_desc": "This pleasant egg was placed in the path of a refreshing breeze.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Life",
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1715"
+  },
+  {
+    "breed": "Astrapi Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Lightning"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1425"
+  },
+  {
+    "breed": "Avatar of Change",
+    "egg_desc": "This iridescent egg radiates mysterious energy.",
+    "release_at": "May 21, 2014",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/137"
+  },
+  {
+    "breed": "Avatar of Creation",
+    "egg_desc": "This shimmering egg radiates primordial energy.",
+    "release_at": "May 21, 2014",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/138"
+  },
+  {
+    "breed": "Avatar of Destruction",
+    "egg_desc": "This smoldering egg radiates volatile energy.",
+    "release_at": "May 21, 2014",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/136"
+  },
+  {
+    "breed": "Avea Pygmy",
+    "egg_desc": "This tiny egg is rather light.",
+    "release_at": "June 30, 2019",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Pygmy Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "All Habitats (Rotating)",
+    "encyclopedia_id": "/178"
+  },
+  {
+    "breed": "Avin Pygmy",
+    "egg_desc": "This tiny white egg shakes sometimes.",
+    "release_at": "March 28, 2022",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Pygmy dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1712"
+  },
+  {
+    "breed": "Azure Glacewing Dragon",
+    "egg_desc": "This large egg has a lustrous sheen and appears to be covered in scales.",
+    "release_at": "November 26, 2016",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "400 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1595"
+  },
+  {
+    "breed": "Baikala Dragon",
+    "egg_desc": "This heavy egg has a soft, yielding shell.",
+    "release_at": "July 17, 2017",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Two-headed Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "600 - 700 shards",
+    "habitats": "Forest, Jungle (green); Coast (blue)",
+    "encyclopedia_id": "/1614"
+  },
+  {
+    "breed": "Balloon Dragon",
+    "egg_desc": "This light egg is floating in the air.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "300 - 400 shards",
+    "habitats": "Coast, Forest, Jungle, Alpine",
+    "encyclopedia_id": "/5"
+  },
+  {
+    "breed": "Bauta Dragon",
+    "egg_desc": "This egg has raised golden ridges.",
+    "release_at": "September 30, 2017",
+    "elemental": [],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "400 - 600 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1623"
+  },
+  {
+    "breed": "Blacktip Dragon",
+    "egg_desc": "This egg is off-white in color and smells a bit like salt.",
+    "release_at": "May 27, 2013",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/8"
+  },
+  {
+    "breed": "Black Capped Teimarr Dragon",
+    "egg_desc": "This egg has a black cap.",
+    "release_at": "May 22, 2013",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/110"
+  },
+  {
+    "breed": "Black Dragon",
+    "egg_desc": "This egg has a faint green glow around it.",
+    "release_at": "May 21, 2006 (Original breed)",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "300 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/6"
+  },
+  {
+    "breed": "Black Marrow Dragon",
+    "egg_desc": "This egg is covered in a dark crust.",
+    "release_at": "October 31, 2010",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/53"
+  },
+  {
+    "breed": "Black Tea Dragon",
+    "egg_desc": "This egg has a faintly exotic scent.",
+    "release_at": "May 24, 2013",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/7"
+  },
+  {
+    "breed": "Black Truffle Dragon",
+    "egg_desc": "This egg has a pleasant, musky smell.",
+    "release_at": "July 1, 2018",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "600 - 900 shards",
+    "habitats": "All Habitats",
+    "encyclopedia_id": "/179"
+  },
+  {
+    "breed": "Blancblack Dragon",
+    "egg_desc": "This egg is dark with light speckles...or maybe it’s light with dark speckles?",
+    "release_at": "March 10, 2019",
+    "elemental": [
+      "Light",
+      "Dark"
+    ],
+    "morphology": "Two-headed dragon (Eastern)",
+    "bsa": [],
+    "price": "400 - 700 shards",
+    "habitats": "Desert, Forest, Volcano",
+    "encyclopedia_id": "/1644"
+  },
+  {
+    "breed": "Blazeback Dragon",
+    "egg_desc": "This egg has a dull metallic luster and is hot to the touch.",
+    "release_at": "March 28, 2021",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1693"
+  },
+  {
+    "breed": "Bleeding Moon Dragon",
+    "egg_desc": "This egg shines brilliantly in moonlight, and is covered in red spots.",
+    "release_at": "July 7, 2013",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/9"
+  },
+  {
+    "breed": "Holiday Dragon (2011)Blizzard Wizard",
+    "egg_desc": "This colorful egg is covered by a light layer of snow.",
+    "release_at": "December 25, 2011",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/25"
+  },
+  {
+    "breed": "Blue-Banded Dragon",
+    "egg_desc": "This egg is covered in thick blue stripes.",
+    "release_at": "July 5, 2014",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/11"
+  },
+  {
+    "breed": "Triceratops horridusBlue Dino",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+    "release_at": "May 21, 2006 (Original breed)",
+    "elemental": [],
+    "morphology": "Non-dragon",
+    "bsa": [],
+    "price": "2,000 - 2,400 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/131"
+  },
+  {
+    "breed": "Blusang Lindwyrm",
+    "egg_desc": "This egg smells faintly like brine.",
+    "release_at": "August 15, 2012",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "1,100 - 1,300 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/13"
+  },
+  {
+    "breed": "Bolt Dragon",
+    "egg_desc": "This egg has a striking pattern.",
+    "release_at": "July 10, 2016",
+    "elemental": [
+      "Lightning"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [
+      "Stun"
+    ],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine, Forest",
+    "encyclopedia_id": "/1588"
+  },
+  {
+    "breed": "Boreal Dragon",
+    "egg_desc": "This egg is covered in pale blue spots.",
+    "release_at": "August 26, 2018",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/180"
+  },
+  {
+    "breed": "Bright-Breasted Wyvern",
+    "egg_desc": "This egg is covered in speckles.",
+    "release_at": "April 1, 2010",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/14"
+  },
+  {
+    "breed": "Brimstone Dragon",
+    "egg_desc": "This egg smells rather rancid.",
+    "release_at": "August 15, 2012",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert, Volcano",
+    "encyclopedia_id": "/15"
+  },
+  {
+    "breed": "Brute Dragon",
+    "egg_desc": "This egg is unusually large and heavy.",
+    "release_at": "March 2, 2014",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/16"
+  },
+  {
+    "breed": "Caligene Dragon",
+    "egg_desc": "The pattern on this egg’s shell is unsettling.",
+    "release_at": "October 31, 2015",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1583"
+  },
+  {
+    "breed": "Candelabra Dragon",
+    "egg_desc": "This mottled red egg almost glows from within.",
+    "release_at": "May 21, 2016",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "300 shards",
+    "habitats": "Jungle, Coast",
+    "encyclopedia_id": "/174"
+  },
+  {
+    "breed": "Canopy Dragon",
+    "egg_desc": "This egg is hidden by some leaves.",
+    "release_at": "January 15, 2010",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/17"
+  },
+  {
+    "breed": "Cantormaris Dragon",
+    "egg_desc": "Something about this egg seems to lure you in.",
+    "release_at": "January 24, 2021May 21, 2021 (Motus and Tutela)",
+    "elemental": [
+      "Water",
+      "Magi"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast, Volcano, Jungle",
+    "encyclopedia_id": "/1673"
+  },
+  {
+    "breed": "Carina Dragon",
+    "egg_desc": "This egg shimmers with dazzling constellations.",
+    "release_at": "August 28, 2017",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1618"
+  },
+  {
+    "breed": "Carmine Wyvern",
+    "egg_desc": "This pink and red egg wobbles occasionally.",
+    "release_at": "July 5, 2014",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/18"
+  },
+  {
+    "breed": "Cassare Dragon",
+    "egg_desc": "This egg makes you feel a bit uneasy.",
+    "release_at": "July 5, 2014",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/141"
+  },
+  {
+    "breed": "Cavern Lurker Dragon",
+    "egg_desc": "This egg is wedged in a dark corner.",
+    "release_at": "November 3, 2012",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/55"
+  },
+  {
+    "breed": "Celestial Dragon",
+    "egg_desc": "This translucent egg shines like starlight.",
+    "release_at": "April 1, 2016",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Corporealize"
+    ],
+    "price": "300 - 400 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/973"
+  },
+  {
+    "breed": "Cheese Dragon",
+    "egg_desc": "This egg is soft and smells uncannily like cheese.",
+    "release_at": "July 15, 2009",
+    "elemental": [],
+    "morphology": "Enchanted construct (Western)",
+    "bsa": [],
+    "price": "2,000 - 2,600 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/19"
+  },
+  {
+    "breed": "Gallus gallus domesticusChicken",
+    "egg_desc": "This egg is much smaller than the others.",
+    "release_at": "June 2, 2007",
+    "elemental": [],
+    "morphology": "Chicken",
+    "bsa": [],
+    "price": "3,100 - 4,200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/20"
+  },
+  {
+    "breed": "Chrono Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1423"
+  },
+  {
+    "breed": "Ciriax Lindwyrm",
+    "egg_desc": "This opalescent egg shimmers in the moonlight.",
+    "release_at": "August 4, 2013",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Two-headed dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "600 - 800 shards",
+    "habitats": "Forest (green), Alpine (blue)",
+    "encyclopedia_id": "/2"
+  },
+  {
+    "breed": "Cloudplume Dragon",
+    "egg_desc": "This soft egg was carefully nestled in feathers and snow.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1678"
+  },
+  {
+    "breed": "Coastal Waverunner",
+    "egg_desc": "This egg reminds you of the sea.",
+    "release_at": "July 4, 2010",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/28"
+  },
+  {
+    "breed": "Common Pygmy",
+    "egg_desc": "This egg is so tiny you almost didn't see it.",
+    "release_at": "July 15, 2009",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle, Alpine",
+    "encyclopedia_id": "/88"
+  },
+  {
+    "breed": "Copper Dragon",
+    "egg_desc": "This egg gleams with a reddish shine.",
+    "release_at": "May 26, 2013May 21, 2021 (Pennybright variant)",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "1,300 - 1,600 shards",
+    "habitats": "Liver of Sulfur: Desert, VolcanoRainbow: Alpine, ForestVerdigris: Coast, JunglePennybright: None (bred only)",
+    "encyclopedia_id": "/29"
+  },
+  {
+    "breed": "Coral Pygmy Wyvern",
+    "egg_desc": "This tiny egg is striped and feels coarse.",
+    "release_at": "September 1, 2019",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Pygmy dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1645"
+  },
+  {
+    "breed": "Crimson Flare Pygmy",
+    "egg_desc": "This egg is tiny and brightly colored.",
+    "release_at": "May 21, 2011",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/83"
+  },
+  {
+    "breed": "Crystalline Dragon",
+    "egg_desc": "This icy egg sparkles with frost.",
+    "release_at": "March 22, 2020",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1660"
+  },
+  {
+    "breed": "Dark Green Dragon",
+    "egg_desc": "This egg is sitting in a patch of grass and small flowers even though there's no sun in the cave.",
+    "release_at": "June, 2006",
+    "elemental": [
+      "Dark",
+      "Life"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/30"
+  },
+  {
+    "breed": "Dark Lumina Dragon",
+    "egg_desc": "This egg shines coldly in the moonlight.",
+    "release_at": "August 21, 2016",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1601"
+  },
+  {
+    "breed": "Daydream Dragon",
+    "egg_desc": "This egg is sitting on a cloud.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast, Forest, Jungle",
+    "encyclopedia_id": "/31"
+  },
+  {
+    "breed": "Deep Sea Dragon",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "release_at": "August 26, 2009",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/33"
+  },
+  {
+    "breed": "Desipis Dragon",
+    "egg_desc": "Being near this egg makes it hard to think clearly.",
+    "release_at": "October 31, 2014",
+    "elemental": [
+      "Dark",
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1270"
+  },
+  {
+    "breed": "Diamondwing Dragon",
+    "egg_desc": "This egg shines like a diamond.",
+    "release_at": "September 25, 2016",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Alpine, Volcano",
+    "encyclopedia_id": "/173"
+  },
+  {
+    "breed": "Dorsal Dragon",
+    "egg_desc": "This egg has multiple bands of color on it.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/34"
+  },
+  {
+    "breed": "Duotone Dragon",
+    "egg_desc": "This egg can’t seem to make up its mind what color it is.",
+    "release_at": "August 4, 2013",
+    "elemental": [],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/35"
+  },
+  {
+    "breed": "Dusk Pygmy",
+    "egg_desc": "This tiny egg is cold to the touch.",
+    "release_at": "June 25, 2017",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1609"
+  },
+  {
+    "breed": "Electric Dragon",
+    "egg_desc": "Bright sparks glide across the surface of this egg’s shell.",
+    "release_at": "January 15, 2010",
+    "elemental": [
+      "Lightning"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/36"
+  },
+  {
+    "breed": "Elux Lucis Dragon",
+    "egg_desc": "Starlight shimmers across this egg’s iridescent shell.",
+    "release_at": "July 26, 2020",
+    "elemental": [
+      "Light",
+      "Air"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1671"
+  },
+  {
+    "breed": "Ember Dragon",
+    "egg_desc": "This egg is really hot.",
+    "release_at": "October 10, 2010",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/37"
+  },
+  {
+    "breed": "Equinox Dragon",
+    "egg_desc": "This egg shakes slightly when taken out of the light.",
+    "release_at": "September 22, 2020",
+    "elemental": [
+      "Light",
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Forest (Autumn), Volcano (Winter), Jungle (Spring), Alpine (Summer)",
+    "encyclopedia_id": "/1674"
+  },
+  {
+    "breed": "Erador Lindwyrm",
+    "egg_desc": "This regal egg feels oddly light.",
+    "release_at": "February 14, 2020",
+    "elemental": [
+      "Magi",
+      "Life"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1664"
+  },
+  {
+    "breed": "Falconiform Wyvern",
+    "egg_desc": "Cold flames dance across the surface of this egg.",
+    "release_at": "May 3, 2014",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/38"
+  },
+  {
+    "breed": "Fanalea Dragon",
+    "egg_desc": "This egg has delicate markings that curl around its shell.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1721"
+  },
+  {
+    "breed": "Fell Dragon",
+    "egg_desc": "This mottled egg looks positively ancient.",
+    "release_at": "November 26, 2016",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "500 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1596"
+  },
+  {
+    "breed": "Fever Wyvern",
+    "egg_desc": "This egg is patterned with an orange flare.",
+    "release_at": "March 2, 2014",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/39"
+  },
+  {
+    "breed": "Fire Gem Dragon",
+    "egg_desc": "This rough egg has shimmering veins of crystal running across its surface.",
+    "release_at": "March 19, 2017",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "800 - 1,000 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1606"
+  },
+  {
+    "breed": "Flamingo Wyvern",
+    "egg_desc": "It's bright. And pink.",
+    "release_at": "August 28, 2010",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast, Jungle",
+    "encyclopedia_id": "/40"
+  },
+  {
+    "breed": "Floral-Crowned Dragon",
+    "egg_desc": "This egg has a sweet, floral scent.",
+    "release_at": "February 14, 2018",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1626"
+  },
+  {
+    "breed": "Alstroemeria Floret Wyvern",
+    "egg_desc": "This shiny egg smells faintly like flowers.",
+    "release_at": "May 21, 2021",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1705"
+  },
+  {
+    "breed": "Floret Wyvern (Iris)",
+    "egg_desc": "This shiny egg smells faintly like flowers.",
+    "release_at": "March 25, 2018",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "500 - 700 shards",
+    "habitats": "Alpine (gold), Forest (purple), bred only (pink)",
+    "encyclopedia_id": "/1619"
+  },
+  {
+    "breed": "Freckled Dragon",
+    "egg_desc": "This egg is yellow with orange speckling.",
+    "release_at": "March 25, 2018",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert, Jungle",
+    "encyclopedia_id": "/1620"
+  },
+  {
+    "breed": "Frilled Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "release_at": "February 10, 2009 (Original release)May 21, 2016 (Reintroduced)",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/42"
+  },
+  {
+    "breed": "Frostbite Dragon",
+    "egg_desc": "Frost is creeping over this cold egg.",
+    "release_at": "May 3, 2014",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/140"
+  },
+  {
+    "breed": "Furor Pygmy",
+    "egg_desc": "Grabbing this tiny egg makes you feel reckless.",
+    "release_at": "May 21, 2022",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Wingless)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1716"
+  },
+  {
+    "breed": "Gaia Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1424"
+  },
+  {
+    "breed": "Galvanic Wyvern",
+    "egg_desc": "Powerful energy emanates from this egg.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Dark",
+      "Lightning"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 - 500 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1654"
+  },
+  {
+    "breed": "Holiday Dragon (2017)Garland Dragon",
+    "egg_desc": "This festive egg gives off comforting warmth.",
+    "release_at": "December 25, 2017",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1625"
+  },
+  {
+    "breed": "Geminae Dragon",
+    "egg_desc": "This shiny egg gives you a headache when you get close.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "200 - 400 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1657"
+  },
+  {
+    "breed": "Gemshard Dragon",
+    "egg_desc": "This egg is encrusted with colorful gemstones.",
+    "release_at": "March 28, 2015May 21, 2021 (Amethyst, Aqua, Citrine)",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/972"
+  },
+  {
+    "breed": "Geode Dragon",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "release_at": "February 10, 2009",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/43"
+  },
+  {
+    "breed": "Ghanser Dragon",
+    "egg_desc": "This egg has spots that glow brightly when touched.",
+    "release_at": "April 24, 2022",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Two-headed dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/1713"
+  },
+  {
+    "breed": "Gilded Bloodscale Dragon",
+    "egg_desc": "This egg glitters oddly in the light.",
+    "release_at": "May 23, 2013",
+    "elemental": [],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "900 - 1,100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/10"
+  },
+  {
+    "breed": "Glaucus Drake",
+    "egg_desc": "This striped egg feels moist.",
+    "release_at": "April 6, 2014",
+    "elemental": [],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/460"
+  },
+  {
+    "breed": "Glowback Pygmy",
+    "egg_desc": "This tiny egg gives off a colorful glow.",
+    "release_at": "July 21, 2019",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Pygmy dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/1646"
+  },
+  {
+    "breed": "Holiday Dragon (2020)Glystere Wyrm",
+    "egg_desc": "Colorful light twinkles within this frozen egg.",
+    "release_at": "December 25, 2020",
+    "elemental": [
+      "Ice",
+      "Light"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [
+      "Redecorate"
+    ],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1691"
+  },
+  {
+    "breed": "Gold-horned Tangar",
+    "egg_desc": "This egg has bright orange and green markings.",
+    "release_at": "September 17, 2011",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/109"
+  },
+  {
+    "breed": "Golden Wyvern",
+    "egg_desc": "This egg shimmers like gold.",
+    "release_at": "January 23, 2012",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "1,400 - 1,800 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/51"
+  },
+  {
+    "breed": "Gold Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic-looking.",
+    "release_at": "June 2, 2007 (Original breed)",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "1,900 - 2,700 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/45"
+  },
+  {
+    "breed": "Grave Dragon",
+    "egg_desc": "This egg appears to have an evil grin.",
+    "release_at": "October 31, 2013",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/56"
+  },
+  {
+    "breed": "Greater Spotted Drake",
+    "egg_desc": "This egg is speckled with rosette-like markings.",
+    "release_at": "May 21, 2015",
+    "elemental": [],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1590"
+  },
+  {
+    "breed": "Parasaurolophus cyrtocristatusGreen Dino",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots.",
+    "release_at": "May 21, 2006",
+    "elemental": [],
+    "morphology": "Non-dragon",
+    "bsa": [],
+    "price": "1,500 - 1,900 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/132"
+  },
+  {
+    "breed": "Green Dragon",
+    "egg_desc": "This egg is sitting in a pile of small pebbles.",
+    "release_at": "May 21, 2006",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Earthquake"
+    ],
+    "price": "200 shards",
+    "habitats": "Forest, Volcano",
+    "encyclopedia_id": "/48"
+  },
+  {
+    "breed": "Guardian Dragon",
+    "egg_desc": "This egg is sitting in front of the others.",
+    "release_at": "August 30, 2008",
+    "elemental": [
+      "Light",
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/50"
+  },
+  {
+    "breed": "Guardian of Nature",
+    "egg_desc": "This egg glows mysteriously.",
+    "release_at": "March 26, 2010",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Must be Summoned)",
+    "encyclopedia_id": "/64"
+  },
+  {
+    "breed": "Harvest Dragon",
+    "egg_desc": "This heavy egg feels slightly warm.",
+    "release_at": "October 10, 2010",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 700 shards",
+    "habitats": "Alpine (Winter)Forest (Spring to Autumn)",
+    "encyclopedia_id": "/57"
+  },
+  {
+    "breed": "Heartseeker Dragon",
+    "egg_desc": "This scarlet egg has a faintly sweet aroma.",
+    "release_at": "February 14, 2012",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/123"
+  },
+  {
+    "breed": "Heartstealing Dragon",
+    "egg_desc": "This egg is so shiny it makes you want to take it.",
+    "release_at": "February 14, 2015",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1420"
+  },
+  {
+    "breed": "Hellfire Wyvern",
+    "egg_desc": "This egg radiates the heat of a fell flame.",
+    "release_at": "April 1, 2010",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/58"
+  },
+  {
+    "breed": "Hellhorse Dragon",
+    "egg_desc": "This hot egg shakes violently when you touch it.",
+    "release_at": "May 25, 2013",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/59"
+  },
+  {
+    "breed": "Holiday Dragon (2007)Holly Dragon",
+    "egg_desc": "This egg has a holly leaf stuck to it.",
+    "release_at": "December 25, 2007",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/21"
+  },
+  {
+    "breed": "Honey Drake",
+    "egg_desc": "This egg is covered in tiny golden scales.",
+    "release_at": "November 26, 2016",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Coast, Forest, Jungle",
+    "encyclopedia_id": "/1597"
+  },
+  {
+    "breed": "Hooded Murkling Dragon",
+    "egg_desc": "This shady egg seems to be lurking just out of sight.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Dark",
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1717"
+  },
+  {
+    "breed": "Hooktalon Dragon",
+    "egg_desc": "The surface of this egg is rough and sharp.",
+    "release_at": "May 21, 2015",
+    "elemental": [],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1591"
+  },
+  {
+    "breed": "Horse Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "release_at": "August 24, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/60"
+  },
+  {
+    "breed": "Howler Drake",
+    "egg_desc": "You hear strange noises coming from inside this egg.",
+    "release_at": "April 6, 2014",
+    "elemental": [],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1042"
+  },
+  {
+    "breed": "Hydrophidius Dragon",
+    "egg_desc": "This striped egg is surprisingly heavy.",
+    "release_at": "March 28, 2021",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1703"
+  },
+  {
+    "breed": "Ice Dragon",
+    "egg_desc": "This egg has icicles forming on it.",
+    "release_at": "November 22, 2009",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Summon"
+    ],
+    "price": "2,900 - 3,700 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/61"
+  },
+  {
+    "breed": "Imperial Fleshcrowne Dragon",
+    "egg_desc": "This egg is hidden in the trees.",
+    "release_at": "July 7, 2013",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 1,100 shards",
+    "habitats": "All habitats (Rotating)",
+    "encyclopedia_id": "/41"
+  },
+  {
+    "breed": "Iridichi Dragon",
+    "egg_desc": "Your eyes struggle to completely focus on the light coming through this cloudy egg.",
+    "release_at": "October 31, 2021",
+    "elemental": [
+      "Death",
+      "Magi"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1707"
+  },
+  {
+    "breed": "Jester Dragon",
+    "egg_desc": "This egg has a checkered shell.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1679"
+  },
+  {
+    "breed": "Ke'maro Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1688"
+  },
+  {
+    "breed": "Khusa Dragon",
+    "egg_desc": "This egg is smooth and shiny.",
+    "release_at": "August 27, 2017",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine, Desert",
+    "encyclopedia_id": "/1621"
+  },
+  {
+    "breed": "Kingcrowne Dragon",
+    "egg_desc": "This shiny egg gives off an almost magical aura.",
+    "release_at": "August 21, 2016",
+    "elemental": [
+      "Light",
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "700 - 900 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1598"
+  },
+  {
+    "breed": "Kohraki Dragon",
+    "egg_desc": "A fine mist rolls over this cool, scaly egg.",
+    "release_at": "October 31, 2019",
+    "elemental": [
+      "Air",
+      "Dark"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1659"
+  },
+  {
+    "breed": "Kovos Pygmy",
+    "egg_desc": "This tiny, dark egg fills you with existential dread.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Water",
+      "Death"
+    ],
+    "morphology": "Pygmy (Lindwyrm)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1655"
+  },
+  {
+    "breed": "Kyanite Pygmy",
+    "egg_desc": "This tiny cobalt egg has a crystalline sheen.",
+    "release_at": "August 21, 2016",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Pygmy (Eastern)",
+    "bsa": [],
+    "price": "600 - 700 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1600"
+  },
+  {
+    "breed": "Labradorite Dragon",
+    "egg_desc": "This shimmering egg was hidden far from the others.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Dark",
+      "Earth"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1680"
+  },
+  {
+    "breed": "Lacula Dragon",
+    "egg_desc": "This green and silver egg lurks in the shadows, tempting you to steal it.",
+    "release_at": "May 21, 2018",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1627"
+  },
+  {
+    "breed": "Leodon Dragon",
+    "egg_desc": "This red and gold egg sits before the others, almost daring you to grab it.",
+    "release_at": "May 21, 2018",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1628"
+  },
+  {
+    "breed": "Lihnseyre Dragon",
+    "egg_desc": "This glowing egg seems to tug at your very core.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Life",
+      "Magi"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1656"
+  },
+  {
+    "breed": "Lotaan Dragon",
+    "egg_desc": "This scaly egg seems to disappear in the depths.",
+    "release_at": "April 24, 2022",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1714"
+  },
+  {
+    "breed": "Lumina Dragon",
+    "egg_desc": "This egg shines brightly in the sunlight.",
+    "release_at": "May 22, 2012",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/65"
+  },
+  {
+    "breed": "Luminox Dragon",
+    "egg_desc": "The markings on this egg glow brightly in the shadows.",
+    "release_at": "July 21, 2019",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 - 400 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1647"
+  },
+  {
+    "breed": "Lunar Herald Dragon",
+    "egg_desc": "This metallic egg shows faint iridescence in moonlight.",
+    "release_at": "August 29, 2015",
+    "elemental": [
+      "Light",
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine, Desert, Volcano",
+    "encyclopedia_id": "/1427"
+  },
+  {
+    "breed": "Mageia Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1422"
+  },
+  {
+    "breed": "Magelight Pygmy",
+    "egg_desc": "This small egg is engulfed in a cool, purple flame.",
+    "release_at": "May 21, 2015",
+    "elemental": [],
+    "morphology": "Pygmy (Wyvern)",
+    "bsa": [],
+    "price": "300 - 500 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1593"
+  },
+  {
+    "breed": "Magi Dragon",
+    "egg_desc": "This egg has an orange aura radiating from it.",
+    "release_at": "June 2006",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Teleport"
+    ],
+    "price": "100 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/66"
+  },
+  {
+    "breed": "Magma Dragon",
+    "egg_desc": "This egg is almost too hot to touch.",
+    "release_at": "November 22, 2009",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [
+      "Summon"
+    ],
+    "price": "4,000 - 4,900 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/67"
+  },
+  {
+    "breed": "Magnesium Amphiptere",
+    "egg_desc": "This shiny grey egg smells of burnt metal.",
+    "release_at": "April 25, 2021",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Two-headed dragon (Amphiptere)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert (brown variant), Volcano (grey variant)",
+    "encyclopedia_id": "/1694"
+  },
+  {
+    "breed": "Mariner Pygmy",
+    "egg_desc": "This tiny egg smells like the sea.",
+    "release_at": "April 27, 2019",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1648"
+  },
+  {
+    "breed": "Melismor Dragon",
+    "egg_desc": "This heavy egg has an earthy scent, like freshly-tilled soil.",
+    "release_at": "May 21, 2018",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1629"
+  },
+  {
+    "breed": "Mimic Pygmy",
+    "egg_desc": "This tiny glowing egg tempts you to follow its light.",
+    "release_at": "July 29, 2018",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Pygmy (Wyvern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/181"
+  },
+  {
+    "breed": "Mint Dragon",
+    "egg_desc": "This egg is hidden behind the others, as if it is shy.",
+    "release_at": "May 21, 2006",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast, Forest, Jungle, Alpine, Volcano",
+    "encyclopedia_id": "/68"
+  },
+  {
+    "breed": "Mirisia Amphiptere",
+    "egg_desc": "This egg emanates a peculiar smell.",
+    "release_at": "September 26, 2021",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine, Forest, Jungle",
+    "encyclopedia_id": "/1706"
+  },
+  {
+    "breed": "Misfit Pygmy",
+    "egg_desc": "This tiny egg has crazy swirls on it.",
+    "release_at": "May 21, 2011",
+    "elemental": [],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/85"
+  },
+  {
+    "breed": "Holiday Dragon (2013)Solstice Dragon",
+    "egg_desc": "This egg emits a soft, heartwarming glow.",
+    "release_at": "December 25, 2013",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/27"
+  },
+  {
+    "breed": "Mistlet Pygmy",
+    "egg_desc": "This tiny egg is mysterious and dark.",
+    "release_at": "May 21, 2011",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/84"
+  },
+  {
+    "breed": "Mistra Dragon",
+    "egg_desc": "You hear a soft melody as you approach this egg.",
+    "release_at": "September 22, 2020",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast, Jungle",
+    "encyclopedia_id": "/1667"
+  },
+  {
+    "breed": "Monarch Dragon",
+    "egg_desc": "This egg is buried in leaf litter.",
+    "release_at": "September 25, 2016",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle, Forest, Desert",
+    "encyclopedia_id": "/169"
+  },
+  {
+    "breed": "Moonglow Drake",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "release_at": "May 26, 2010",
+    "elemental": [],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/553"
+  },
+  {
+    "breed": "Moonstone Dragon",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "release_at": "July 18, 2011",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/69"
+  },
+  {
+    "breed": "Morphodrake",
+    "egg_desc": "A few bright markings decorate this egg’s shell.",
+    "release_at": "May 21, 2016",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/170"
+  },
+  {
+    "breed": "Heartstealing Dragon",
+    "egg_desc": "This egg is so shiny it makes you want to take it.",
+    "release_at": "February 14, 2015",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1420"
+  },
+  {
+    "breed": "Nebula Dragon",
+    "egg_desc": "This egg glows with a brilliant radiance.",
+    "release_at": "April 1, 2010",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "600 - 800 shards",
+    "habitats": "Alpine, Desert",
+    "encyclopedia_id": "/70"
+  },
+  {
+    "breed": "Neglected Dragon",
+    "egg_desc": "This egg is very sickly looking, like it has a disease.",
+    "release_at": "June 2, 2007",
+    "elemental": [],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown",
+    "encyclopedia_id": "/95"
+  },
+  {
+    "breed": "Neotropical Dragon",
+    "egg_desc": "This egg has strange yellow stripes.",
+    "release_at": "August 25, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/71"
+  },
+  {
+    "breed": "Nexus Dragon",
+    "egg_desc": "This dense, crystalline egg seems dangerously unstable.",
+    "release_at": "May 21, 2016",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "1,500 - 1,800 shards",
+    "habitats": "Alpine, Volcano",
+    "encyclopedia_id": "/172"
+  },
+  {
+    "breed": "Nhiostrife Wyvern",
+    "egg_desc": "This dull purple egg has two bright stripes on it.",
+    "release_at": "November 30, 2013",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/117"
+  },
+  {
+    "breed": "Nilia Pygmy",
+    "egg_desc": "This tiny egg is heavier than you expected.",
+    "release_at": "May 21, 2011May 21, 2021 (Green variant)",
+    "elemental": [],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/86"
+  },
+  {
+    "breed": "Nobleshield Dragon",
+    "egg_desc": "This tough egg has a protective ridge down its shell.",
+    "release_at": "January 24, 2021",
+    "elemental": [
+      "Neutral",
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1670"
+  },
+  {
+    "breed": "Nocturne Dragon",
+    "egg_desc": "This egg appears to be made of limestone.",
+    "release_at": "January 15, 2010",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine, Forest",
+    "encyclopedia_id": "/72"
+  },
+  {
+    "breed": "Obidar Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1685"
+  },
+  {
+    "breed": "Ochredrake",
+    "egg_desc": "This egg has strange markings on it.",
+    "release_at": "July 15, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/73"
+  },
+  {
+    "breed": "Olive Dragon",
+    "egg_desc": "This egg smells musty, like rotting leaves.",
+    "release_at": "August 15, 2012",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/74"
+  },
+  {
+    "breed": "Omen Wyrm",
+    "egg_desc": "This warm egg is tangled in the roots of a dead tree.",
+    "release_at": "October 31, 2017",
+    "elemental": [
+      "Fire",
+      "Dark"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1624"
+  },
+  {
+    "breed": "Oracle Wyrm",
+    "egg_desc": "It feels like this egg knew you were coming.",
+    "release_at": "July 25, 2021",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine, Coast, Forest, Jungle",
+    "encyclopedia_id": "/1701"
+  },
+  {
+    "breed": "Paper Dragon",
+    "egg_desc": "This egg is tiny and made out of several pieces of paper folded together.",
+    "release_at": "December 3, 2007",
+    "elemental": [],
+    "morphology": "Enchanted construct (Lindwyrm)",
+    "bsa": [],
+    "price": "2,200 - 2,800 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/75"
+  },
+  {
+    "breed": "Pargulus Pygmy",
+    "egg_desc": "This tiny egg resembles a seed.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Alpine, Coast (blue variant); Desert, Jungle (green variant); Forest, Volcano (red variant)",
+    "encyclopedia_id": "/1681"
+  },
+  {
+    "breed": "Pharos Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1684"
+  },
+  {
+    "breed": "Pillow Dragon",
+    "egg_desc": "This egg has a velvety texture.",
+    "release_at": "March 16, 2011",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/77"
+  },
+  {
+    "breed": "Pink Dragon",
+    "egg_desc": "It's bright. And pink.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Influence"
+    ],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/79"
+  },
+  {
+    "breed": "Pipio Pygmy",
+    "egg_desc": "This little egg is soft with a few feathers stuck to it.",
+    "release_at": "September 30, 2018",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "300 - 500 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/182"
+  },
+  {
+    "breed": "Pitfire Dragon",
+    "egg_desc": "Dead leaves obscure this egg’s scratched shell.",
+    "release_at": "October 31, 2020",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1690"
+  },
+  {
+    "breed": "Plated Colossus Dragon",
+    "egg_desc": "This massive egg is covered with thick plates.",
+    "release_at": "March 28, 2015",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/974"
+  },
+  {
+    "breed": "Holiday Dragon (2021)Pryanost Lindwyrm",
+    "egg_desc": "This warm brown egg smells faintly of spices.",
+    "release_at": "December 25, 2021",
+    "elemental": [
+      "Fire",
+      "Magi"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1708"
+  },
+  {
+    "breed": "Pseudo-wyvern Drake",
+    "egg_desc": "It almost looks like there are claw marks on this egg.",
+    "release_at": "July 26, 2020",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1665"
+  },
+  {
+    "breed": "Pumpkin Dragon",
+    "egg_desc": "This egg smells like the autumn harvest.",
+    "release_at": "October 31, 2009",
+    "elemental": [],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/52"
+  },
+  {
+    "breed": "Pterodactylus maximusPurple Dino",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much lighter than the other eggs.",
+    "release_at": "July 15, 2009",
+    "elemental": [],
+    "morphology": "Non-dragon",
+    "bsa": [],
+    "price": "1,900 - 2,400 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/133"
+  },
+  {
+    "breed": "Purple Dragon",
+    "egg_desc": "Wow, purple isn't a color of egg you expected to see.",
+    "release_at": "May 21, 2006",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Fertility"
+    ],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/82"
+  },
+  {
+    "breed": "Pyralspite Dragon",
+    "egg_desc": "This egg feels like polished stone.",
+    "release_at": "September 20, 2014",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "600 - 800 shards",
+    "habitats": "Alpine (Almandine), Volcano (Pyrope), Coast (Spessartine)",
+    "encyclopedia_id": "/975"
+  },
+  {
+    "breed": "Pyropellis Wyvern",
+    "egg_desc": "Tough ridges line the surface of this rough, mottled egg.",
+    "release_at": "August 22, 2021",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1697"
+  },
+  {
+    "breed": "Pyrovar Dragon",
+    "egg_desc": "This glassy egg is too hot to hold with your bare hands.",
+    "release_at": "July 1, 2018",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/183"
+  },
+  {
+    "breed": "Pyro Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1426"
+  },
+  {
+    "breed": "Pyrrhichios Dragon",
+    "egg_desc": "When you tap on this shell, the hatchling inside taps back.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1718"
+  },
+  {
+    "breed": "Radiant Angel Dragon",
+    "egg_desc": "This radiant white egg has red and gold swirls on it.",
+    "release_at": "February 14, 2014",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/125"
+  },
+  {
+    "breed": "Razorcrest Wyvern",
+    "egg_desc": "This blue and bronze egg piques your curiosity.",
+    "release_at": "May 21, 2018",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1630"
+  },
+  {
+    "breed": "Red-Tailed Wyrm",
+    "egg_desc": "This tiny egg has a bold red streak on it.",
+    "release_at": "April 22, 2018",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Pygmy Dragon (Wyrm)",
+    "bsa": [],
+    "price": "300 - 400 shards",
+    "habitats": "Desert, Forest, Jungle",
+    "encyclopedia_id": "/1615"
+  },
+  {
+    "breed": "Stegosaurus stenopsRed Dino",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much warmer than the rest of the eggs.",
+    "release_at": "June 19, 2007",
+    "elemental": [],
+    "morphology": "Non-dragon",
+    "bsa": [],
+    "price": "2,000 - 2,500 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/134"
+  },
+  {
+    "breed": "Red Dragon",
+    "egg_desc": "This egg is rather warm.",
+    "release_at": "August 5, 2007",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Incubate"
+    ],
+    "price": "600 - 700 shards",
+    "habitats": "Desert, Volcano",
+    "encyclopedia_id": "/89"
+  },
+  {
+    "breed": "Holiday Dragon (2010)Ribbon Dancer",
+    "egg_desc": "This egg shines like a holiday ribbon.",
+    "release_at": "December 25, 2010",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/24"
+  },
+  {
+    "breed": "Ridgewing Dragon",
+    "egg_desc": "A cool mountain breeze blows around this egg.",
+    "release_at": "August 28, 2010",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/90"
+  },
+  {
+    "breed": "Rift Wyrm",
+    "egg_desc": "This egg radiates an otherworldly chill.",
+    "release_at": "June 30, 2019",
+    "elemental": [
+      "Magi",
+      "Water"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "200 - 500 shards",
+    "habitats": "All habitats (rotating, see trivia)",
+    "encyclopedia_id": "/1649"
+  },
+  {
+    "breed": "Risensong Dragon",
+    "egg_desc": "This bright egg shines in the morning sunlight.",
+    "release_at": "June 25, 2017",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1610"
+  },
+  {
+    "breed": "Rosebud Dragon",
+    "egg_desc": "This sweet smelling egg is covered by a ribbon.",
+    "release_at": "February 14, 2011",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/122"
+  },
+  {
+    "breed": "Royal Blue Dragon",
+    "egg_desc": "This egg shines in the moonlight.",
+    "release_at": "January 23, 2012",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/91"
+  },
+  {
+    "breed": "Royal Crimson Dragon",
+    "egg_desc": "This large egg is a dark crimson color.",
+    "release_at": "April 7, 2013",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/92"
+  },
+  {
+    "breed": "Royal Eminence Dragon",
+    "egg_desc": "This magnificent purple egg shimmers in the light.",
+    "release_at": "May 21, 2021",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1704"
+  },
+  {
+    "breed": "Sabertooth Bull Drake",
+    "egg_desc": "This striped egg is surprisingly heavy.",
+    "release_at": "June 27, 2021",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1702"
+  },
+  {
+    "breed": "Sakuhana Wyvern",
+    "egg_desc": "This warm egg is surrounded by plants.",
+    "release_at": "February 14, 2019",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1633"
+  },
+  {
+    "breed": "Sandwaste Dragon",
+    "egg_desc": "This egg was buried in a sand dune.",
+    "release_at": "December 1, 2019",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/1661"
+  },
+  {
+    "breed": "Sapo Dragon",
+    "egg_desc": "This egg's shell is slippery and clean.",
+    "release_at": "May 21, 2020",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/1682"
+  },
+  {
+    "breed": "Sapphire Dragon",
+    "egg_desc": "This egg looks like a beautiful blue stone.",
+    "release_at": "March 19, 2016 (Blue variant)May 21, 2021 (Pink and yellow variants)",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/168"
+  },
+  {
+    "breed": "Sawtooth Dragon",
+    "egg_desc": "Soft chirping sounds are coming from inside the egg.",
+    "release_at": "April 25, 2021",
+    "elemental": [
+      "Water",
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1696"
+  },
+  {
+    "breed": "Scimitar-wing Wyvern",
+    "egg_desc": "This egg seems quite harmless.",
+    "release_at": "April 28, 2017",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Desert, Volcano",
+    "encyclopedia_id": "/1613"
+  },
+  {
+    "breed": "Scourgekeeper Dragon",
+    "egg_desc": "You feel a clawing dread the closer you get to this egg.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Time",
+      "Life"
+    ],
+    "morphology": "Two-headed dragon (Eastern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Must be allied after an Adventure)",
+    "encyclopedia_id": "/1719"
+  },
+  {
+    "breed": "Script Dragon",
+    "egg_desc": "This egg is covered in mysterious patterns.",
+    "release_at": "July 17, 2017",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1616"
+  },
+  {
+    "breed": "Scymrian Pygmy",
+    "egg_desc": "This tiny egg flashes in the sunlight.",
+    "release_at": "September 26, 2021",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Pygmy (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1695"
+  },
+  {
+    "breed": "Seasonal Dragon (Autumn)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "release_at": "November 28, 2008",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1079"
+  },
+  {
+    "breed": "Seasonal Dragon (Spring)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "release_at": "April 10, 2009",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1077"
+  },
+  {
+    "breed": "Seasonal Dragon (Summer)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "release_at": "September 14, 2008",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1078"
+  },
+  {
+    "breed": "Seasonal Dragon (Winter)",
+    "egg_desc": "The markings on this egg match the weather outside.",
+    "release_at": "December 21, 2008",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1080"
+  },
+  {
+    "breed": "Seawyrm Pygmy",
+    "egg_desc": "This tiny egg shines like a pearl.",
+    "release_at": "May 21, 2011",
+    "elemental": [],
+    "morphology": "Pygmy dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/87"
+  },
+  {
+    "breed": "Serrati Wyvern",
+    "egg_desc": "This egg has striations marking its rough shell.",
+    "release_at": "May 28, 2013",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/94"
+  },
+  {
+    "breed": "Setsong Dragon",
+    "egg_desc": "This dark egg shines in the evening sunlight.",
+    "release_at": "June 25, 2017",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1611"
+  },
+  {
+    "breed": "Shadow Walker",
+    "egg_desc": "This egg fades into the shadows.",
+    "release_at": "October 31, 2011",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/54"
+  },
+  {
+    "breed": "Shallow Water Dragon",
+    "egg_desc": "This egg appears to be covered in scales.",
+    "release_at": "May 26, 2010",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [
+      "Splash"
+    ],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/46"
+  },
+  {
+    "breed": "Shimmer-scale Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic looking.",
+    "release_at": "January 29, 2013",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Prize dragon)",
+    "encyclopedia_id": "/81"
+  },
+  {
+    "breed": "Shumoga Dragon",
+    "egg_desc": "This striped egg has a rough, ridged texture.",
+    "release_at": "August 22, 2021",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine, Desert",
+    "encyclopedia_id": "/1699"
+  },
+  {
+    "breed": "Silver Dragon",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "release_at": "September 22, 2007",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "1,600 - 2,000 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/96"
+  },
+  {
+    "breed": "Sinii Krai Dragon",
+    "egg_desc": "This striped egg has a warm glow.",
+    "release_at": "April 28, 2017",
+    "elemental": [],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/153"
+  },
+  {
+    "breed": "Siyat Dragon",
+    "egg_desc": "This egg seems to be glowing in spots.",
+    "release_at": "July 29, 2018",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Alpine, Coast, Forest",
+    "encyclopedia_id": "/184"
+  },
+  {
+    "breed": "Skysilk Dragon",
+    "egg_desc": "This light egg has very vibrant colors.",
+    "release_at": "April 27, 2019",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Desert, Jungle",
+    "encyclopedia_id": "/1650"
+  },
+  {
+    "breed": "Skystrider Dragon",
+    "egg_desc": "This plain blue egg almost seems to float.",
+    "release_at": "August 23, 2020",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine, Forest, Coast",
+    "encyclopedia_id": "/1669"
+  },
+  {
+    "breed": "Skywing Dragon",
+    "egg_desc": "This egg has strange markings on it.",
+    "release_at": "July 12, 2008",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/97"
+  },
+  {
+    "breed": "Holiday Dragon (2009)Snow Angel",
+    "egg_desc": "This egg fills you with holiday cheer.",
+    "release_at": "December 25, 2009",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/23"
+  },
+  {
+    "breed": "Holiday Dragon (2016)Snow Dragon",
+    "egg_desc": "This egg is surrounded by frost.",
+    "release_at": "December 25, 2016",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1603"
+  },
+  {
+    "breed": "Holiday Dragon (2013)Solstice Dragon",
+    "egg_desc": "This egg emits a soft, heartwarming glow.",
+    "release_at": "December 25, 2013",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/27"
+  },
+  {
+    "breed": "Sophrosyne Dragon",
+    "egg_desc": "This egg gives off a beautiful glow.",
+    "release_at": "April 7, 2013",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Remove Curse"
+    ],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/98"
+  },
+  {
+    "breed": "Soulstone Dragon",
+    "egg_desc": "This deep purple egg shimmers like a pearl.",
+    "release_at": "February 14, 2017",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1604"
+  },
+  {
+    "breed": "Speckle-Throated Dragon",
+    "egg_desc": "This egg has a rough—yet shiny—shell.",
+    "release_at": "March 4, 2013",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/99"
+  },
+  {
+    "breed": "Spinel Wyvern",
+    "egg_desc": "This glassy egg has a single stripe on it.",
+    "release_at": "September 30, 2017",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Desert, Volcano",
+    "encyclopedia_id": "/1617"
+  },
+  {
+    "breed": "Spirit Ward Dragon",
+    "egg_desc": "This egg glows from within.",
+    "release_at": "July 26, 2015",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Forest, Alpine",
+    "encyclopedia_id": "/976"
+  },
+  {
+    "breed": "Spitfire Dragon",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "release_at": "July 4, 2010",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/100"
+  },
+  {
+    "breed": "Split Dragon",
+    "egg_desc": "This egg is split down the middle into two colors.",
+    "release_at": "October 12, 2007",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Two-headed dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1"
+  },
+  {
+    "breed": "Spotted Greenwing",
+    "egg_desc": "This egg is covered in bright spots.",
+    "release_at": "September 17, 2011",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/49"
+  },
+  {
+    "breed": "Spotted Teal Drake",
+    "egg_desc": "You almost didn’t see this egg among the plants.",
+    "release_at": "June 27, 2021",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1698"
+  },
+  {
+    "breed": "Holiday Dragon (2018)Starsinger Dragon",
+    "egg_desc": "This egg glows with a soft, soothing light.",
+    "release_at": "December 25, 2018",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1632"
+  },
+  {
+    "breed": "Staterae Xenowyrm",
+    "egg_desc": "Mana flows like a current through this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "1,400 - 5,700 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1689"
+  },
+  {
+    "breed": "Stone Dragon",
+    "egg_desc": "This egg is heavy and rough, as if it were made out of rock.",
+    "release_at": "October 5, 2007",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Desert, Alpine, Volcano",
+    "encyclopedia_id": "/101"
+  },
+  {
+    "breed": "Storm-Rider Dragon",
+    "egg_desc": "You can feel the static electricity that surrounds this egg.",
+    "release_at": "July 10, 2016",
+    "elemental": [
+      "Lightning"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/1589"
+  },
+  {
+    "breed": "Storm Dragon",
+    "egg_desc": "This egg is surrounded by fog.",
+    "release_at": "June 19, 2007",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/47"
+  },
+  {
+    "breed": "Stratos Dragon",
+    "egg_desc": "This egg is very large, but light for its size.",
+    "release_at": "March 22, 2020",
+    "elemental": [
+      "Air",
+      "Light"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine, Desert, Jungle",
+    "encyclopedia_id": "/1672"
+  },
+  {
+    "breed": "Striped Dragon",
+    "egg_desc": "This egg has brightly colored markings on it.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/102"
+  },
+  {
+    "breed": "Striped River Dragon",
+    "egg_desc": "A small puddle of condensation has collected under this egg.",
+    "release_at": "March 28, 2015",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/971"
+  },
+  {
+    "breed": "Sunbeam Drake",
+    "egg_desc": "This egg displays the colors of both dawn and dusk.",
+    "release_at": "May 26, 2010",
+    "elemental": [],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/44"
+  },
+  {
+    "breed": "Sunrise Dragon",
+    "egg_desc": "This egg is glowing as brightly as the sun.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/104"
+  },
+  {
+    "breed": "Sunset Dragon",
+    "egg_desc": "This egg is glowing as brightly as the sun.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/105"
+  },
+  {
+    "breed": "Sunsong Amphiptere",
+    "egg_desc": "This egg changes colors in the sunlight.",
+    "release_at": "April 1, 2010",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/106"
+  },
+  {
+    "breed": "Sunstone Dragon",
+    "egg_desc": "This egg resembles a glowing stone.",
+    "release_at": "July 18, 2011",
+    "elemental": [
+      "Fire"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/107"
+  },
+  {
+    "breed": "Swallowtail Dragon",
+    "egg_desc": "This egg has a very thin shell.",
+    "release_at": "March 16, 2011",
+    "elemental": [
+      "Air"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/108"
+  },
+  {
+    "breed": "Valentine Dragon",
+    "egg_desc": "This egg is speckled and very fragile.",
+    "release_at": "February 14, 2009",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/120"
+  },
+  {
+    "breed": "Tarantula Hawk Drake",
+    "egg_desc": "A delicate web-like pattern decorates this egg’s shell.",
+    "release_at": "May 21, 2016",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/171"
+  },
+  {
+    "breed": "Tatterdrake",
+    "egg_desc": "This egg has a rough shell.",
+    "release_at": "April 22, 2018",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Jungle",
+    "encyclopedia_id": "/1622"
+  },
+  {
+    "breed": "Temple Wyrm",
+    "egg_desc": "This egg has a winding pattern on it.",
+    "release_at": "July 25, 2021",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Two-headed dragon (Wyrm)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Desert,  Jungle",
+    "encyclopedia_id": "/1700"
+  },
+  {
+    "breed": "Tercorn Dragon",
+    "egg_desc": "Water glistens on this egg’s shimmering shell.",
+    "release_at": "September 1, 2019",
+    "elemental": [
+      "Water",
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1651"
+  },
+  {
+    "breed": "Terrae Dragon",
+    "egg_desc": "This egg is a lush green hue.",
+    "release_at": "May 26, 2010",
+    "elemental": [
+      "Earth"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/111"
+  },
+  {
+    "breed": "Tetra Dragon",
+    "egg_desc": "This egg has faint markings.",
+    "release_at": "March 19, 2017",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast, Jungle",
+    "encyclopedia_id": "/1605"
+  },
+  {
+    "breed": "Thalassa Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2015",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "400 - 500 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/1421"
+  },
+  {
+    "breed": "Thundersnow Dragon",
+    "egg_desc": "Cold lightning arcs out from this egg’s shell if you try to touch it.",
+    "release_at": "May 21, 2022",
+    "elemental": [
+      "Ice",
+      "Lightning"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [
+      "Adventure"
+    ],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1720"
+  },
+  {
+    "breed": "Thunder Dragon",
+    "egg_desc": "Whenever you go near this egg, your hair stands on end.",
+    "release_at": "November 22, 2009",
+    "elemental": [
+      "Lightning"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Summon"
+    ],
+    "price": "2,700 - 3,700 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": ""
+  },
+  {
+    "breed": "Tideweaver Lindwyrm",
+    "egg_desc": "This egg has vivid red stripes, reminiscent of waves and flames at once.",
+    "release_at": "September 8, 2013",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Lindwyrm)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/113"
+  },
+  {
+    "breed": "Tinsel Dragon",
+    "egg_desc": "This egg is very reflective, almost metallic looking",
+    "release_at": "February 13, 2011",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Prize dragon)",
+    "encyclopedia_id": "/80"
+  },
+  {
+    "breed": "Tri-Horn Wyvern",
+    "egg_desc": "This brown egg is covered in intricate designs.",
+    "release_at": "November 23, 2012",
+    "elemental": [
+      "Ice"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/114"
+  },
+  {
+    "breed": "Tsunami Wyvern",
+    "egg_desc": "This egg is rocking back and forth in a puddle, creating small waves.",
+    "release_at": "May 22, 2012",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "200 - 300 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/115"
+  },
+  {
+    "breed": "Turpentine Dragon",
+    "egg_desc": "This egg smells strongly of turpentine.",
+    "release_at": "April 25, 2012",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/116"
+  },
+  {
+    "breed": "Two-Finned Bluna",
+    "egg_desc": "This egg has colored speckles on it.",
+    "release_at": "January 15, 2010",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/12"
+  },
+  {
+    "breed": "Ultraviolet Dragon",
+    "egg_desc": "This egg is very warm, as if it has been sitting out in strong sunlight.",
+    "release_at": "May 22, 2012",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Hybrid)",
+    "encyclopedia_id": "/118"
+  },
+  {
+    "breed": "Umbra Xenowyrm",
+    "egg_desc": "Mana courses throughout this glassy egg.",
+    "release_at": "June 27, 2020",
+    "elemental": [
+      "Dark"
+    ],
+    "morphology": "Dragon (Wyrm)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/1686"
+  },
+  {
+    "breed": "Undine Dragon",
+    "egg_desc": "There is a thin layer of moisture coating this egg.",
+    "release_at": "August 2, 2014",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest, Alpine",
+    "encyclopedia_id": "/119"
+  },
+  {
+    "breed": "Valentine Dragon",
+    "egg_desc": "This egg is speckled and very fragile.",
+    "release_at": "February 14, 2009",
+    "elemental": [
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/120"
+  },
+  {
+    "breed": "Vampire Dragon",
+    "egg_desc": "This egg is stone cold and smells rotten.",
+    "release_at": "October 31, 2008",
+    "elemental": [
+      "Death"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Bite"
+    ],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/126"
+  },
+  {
+    "breed": "Venturis Dragon",
+    "egg_desc": "An aura of serenity surrounds this iridescent egg.",
+    "release_at": "April 26, 2020",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Dragon (Eastern)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Alpine",
+    "encyclopedia_id": "/1668"
+  },
+  {
+    "breed": "Vermeil Dragon",
+    "egg_desc": "This egg smells pleasantly floral, maybe fruity.",
+    "release_at": "February 14, 2022",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wyvern)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1709"
+  },
+  {
+    "breed": "Vremya Drake",
+    "egg_desc": "This smooth green egg looks vaguely familiar.",
+    "release_at": "May 21, 2019",
+    "elemental": [
+      "Time"
+    ],
+    "morphology": "Drake",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1653"
+  },
+  {
+    "breed": "Waterhorse Dragon",
+    "egg_desc": "This egg is slimy and blue.",
+    "release_at": "August 25, 2009",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/127"
+  },
+  {
+    "breed": "Water Dragon",
+    "egg_desc": "This egg is sitting in a shallow puddle.",
+    "release_at": "May 31, 2007",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Sea serpent)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Coast",
+    "encyclopedia_id": "/63"
+  },
+  {
+    "breed": "Water Walker Dragon",
+    "egg_desc": "This egg seems to be floating on a puddle.",
+    "release_at": "August 25, 2009",
+    "elemental": [
+      "Water"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Coast, Forest, Jungle",
+    "encyclopedia_id": "/128"
+  },
+  {
+    "breed": "Whiptail Dragon",
+    "egg_desc": "This egg shakes from time to time, as if it is eager to hatch.",
+    "release_at": "April 22, 2009",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "200 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/129"
+  },
+  {
+    "breed": "White Dragon",
+    "egg_desc": "This egg has a very clean look; it's completely devoid of dirt and scratches.",
+    "release_at": "May 21, 2006",
+    "elemental": [
+      "Life",
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [
+      "Ward"
+    ],
+    "price": "200 shards",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/130"
+  },
+  {
+    "breed": "Holiday Dragon (2019)Wintertide Dragon",
+    "egg_desc": "This egg emanates a gentle chime when met with the winter breeze.",
+    "release_at": "December 25, 2019",
+    "elemental": [
+      "Life",
+      "Fire"
+    ],
+    "morphology": "Dragon (Amphiptere)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1663"
+  },
+  {
+    "breed": "Wisteria Dragon",
+    "egg_desc": "This egg is surrounded by beautiful flowers.",
+    "release_at": "March 28, 2022",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Forest",
+    "encyclopedia_id": "/1710"
+  },
+  {
+    "breed": "Witchlight Dragon",
+    "egg_desc": "This downy egg is hidden in brambles.",
+    "release_at": "October 31, 2016",
+    "elemental": [
+      "Dark",
+      "Magi"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/1602"
+  },
+  {
+    "breed": "Holiday Dragon (2012)Wrapping-Wing",
+    "egg_desc": "This egg has a rich, shiny pattern on it.",
+    "release_at": "December 25, 2012",
+    "elemental": [
+      "Life"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/26"
+  },
+  {
+    "breed": "Xol Dragon",
+    "egg_desc": "This dull egg feels cozily warm.",
+    "release_at": "April 26, 2020",
+    "elemental": [
+      "Fire",
+      "Water"
+    ],
+    "morphology": "Dragon (Wingless)",
+    "bsa": [],
+    "price": "100 - 200 shards",
+    "habitats": "Volcano",
+    "encyclopedia_id": "/1675"
+  },
+  {
+    "breed": "Yellow-Crowned Dragon",
+    "egg_desc": "The air shimmers around this egg, as if from heat.",
+    "release_at": "September 8, 2013",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "100 shards",
+    "habitats": "Desert",
+    "encyclopedia_id": "/103"
+  },
+  {
+    "breed": "Diplodocus carnegiiYellow Dino",
+    "egg_desc": "This egg looks like it doesn't belong; it is brightly colored with white spots. It's much heavier than the other eggs.",
+    "release_at": "June 19, 2007",
+    "elemental": [],
+    "morphology": "Non-dragon",
+    "bsa": [],
+    "price": "1,800 - 2,400 shards",
+    "habitats": "Jungle",
+    "encyclopedia_id": "/135"
+  },
+  {
+    "breed": "Holiday Dragon (2008)Yulebuck",
+    "egg_desc": "This egg is covered with bright, festive stripes.",
+    "release_at": "December 25, 2008",
+    "elemental": [
+      "Light"
+    ],
+    "morphology": "Dragon (Western)",
+    "bsa": [],
+    "price": "N/A",
+    "habitats": "Unknown (Limited release)",
+    "encyclopedia_id": "/22"
+  },
+  {
+    "breed": "Zyumorph",
+    "egg_desc": "This shiny egg seems to radiate power.",
+    "release_at": "May 21, 2017",
+    "elemental": [
+      "Neutral"
+    ],
+    "morphology": "Dragon (Western, see trivia)",
+    "bsa": [
+      "Summon"
+    ],
+    "price": "N/A",
+    "habitats": "All habitats",
+    "encyclopedia_id": "/1607"
+  }
+]

@@ -1,0 +1,592 @@
+[
+  {
+    "breed": "Aegis",
+    "breed_chs": "庇护之龙",
+    "rarity": "稀有 (圣诞节)"
+  },
+  {
+    "breed": "Aeon Wyvern",
+    "breed_chs": "永恒龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Aeria Gloris",
+    "breed_chs": "至高荣誉龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Aether Wyvern",
+    "breed_chs": "埃忒耳龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Albino",
+    "breed_chs": "白化龙",
+    "rarity": "非常普通"
+  },
+  {
+    "breed": "Almerald",
+    "breed_chs": "祖姆绿龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Antarean",
+    "breed_chs": "安塔利恩龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Aqualis",
+    "breed_chs": "水利司龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Aranoa",
+    "breed_chs": "艾拉诺亚龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Arcana",
+    "breed_chs": "阿尔克那龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Ash",
+    "breed_chs": "阴灰龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Astrapi Xenowyrm",
+    "breed_chs": "阿斯忒拉庇异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Avatar of Change",
+    "breed_chs": "变化的化身",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Avatar of Creation",
+    "breed_chs": "创造的化身",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Avatar of Destruction",
+    "breed_chs": "毁灭的化身",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Avea Pygmy",
+    "breed_chs": "阿维亚侏儒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Azure Glacewing",
+    "breed_chs": "苍冰翅龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Birthday 2019 green",
+    "breed_chs": "时间德雷克",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Black",
+    "breed_chs": "黑龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Black Marrow",
+    "breed_chs": "黑髓龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Black Truffle",
+    "breed_chs": "黑松露龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Blancblack",
+    "breed_chs": "白黑龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Bleeding Moon",
+    "breed_chs": "血月龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Bolt",
+    "breed_chs": "闪电龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Boreal",
+    "breed_chs": "北境龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Brimstone",
+    "breed_chs": "硫磺龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Brute",
+    "breed_chs": "狂龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Caligene",
+    "breed_chs": "暗龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Candelabra",
+    "breed_chs": "枝状烛台龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Carina",
+    "breed_chs": "星座龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Cavern Lurker",
+    "breed_chs": "蛰窟龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Celestial",
+    "breed_chs": "天龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Chicken Egg.gif",
+    "breed_chs": "鸡",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Chrono Xenowyrm",
+    "breed_chs": "克罗诺异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Coral Pygmy Wyvern",
+    "breed_chs": "珊瑚侏儒翼龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Crystalline",
+    "breed_chs": "结晶龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Dark Lumina",
+    "breed_chs": "黑暗绚光龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Deep Sea",
+    "breed_chs": "深海龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Desipis",
+    "breed_chs": "狂龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Diamondwing",
+    "breed_chs": "钻翼龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Dusk Pygmy",
+    "breed_chs": "薄暮侏儒龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Ember",
+    "breed_chs": "余焰龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Falconiform Wyvern",
+    "breed_chs": "隼形翼龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Fell",
+    "breed_chs": "猛龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Fire Gem blue",
+    "breed_chs": "火晶龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Floral-Crowned",
+    "breed_chs": "花冠龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Floret Wyvern",
+    "breed_chs": "小花双足翼龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Freckled",
+    "breed_chs": "雀斑龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Frostbite",
+    "breed_chs": "霜噬龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Gaia Xenowyrm",
+    "breed_chs": "盖亚异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Galvanic",
+    "breed_chs": "双足流导翼龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Garland",
+    "breed_chs": "花环龙",
+    "rarity": "稀有 (圣诞节)"
+  },
+  {
+    "breed": "Geminae",
+    "breed_chs": "双子龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Glowback Pygmy",
+    "breed_chs": "曜背侏儒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Gold",
+    "breed_chs": "金龙",
+    "rarity": "非常稀有"
+  },
+  {
+    "breed": "Golden Wyvern",
+    "breed_chs": "黄金翼龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Greater Spotted Drake",
+    "breed_chs": "大斑德雷克",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Guardian",
+    "breed_chs": "护卫龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Guardian of Nature",
+    "breed_chs": "自然守护者",
+    "rarity": ""
+  },
+  {
+    "breed": "Hellfire Wyvern",
+    "breed_chs": "地狱火龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Hellhorse",
+    "breed_chs": "狱马龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Honey Drake",
+    "breed_chs": "蜂蜜德雷克",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Horse",
+    "breed_chs": "悍马龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Ice",
+    "breed_chs": "冰龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Khusa",
+    "breed_chs": "酷沙龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Kingcrowne",
+    "breed_chs": "王冠龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Kohraki",
+    "breed_chs": "柯拉奇龙",
+    "rarity": "节庆"
+  },
+  {
+    "breed": "Kovos Pygmy",
+    "breed_chs": "克伏弑侏儒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Kyanite Pygmy",
+    "breed_chs": "蓝晶石侏儒龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Lacula",
+    "breed_chs": "拉库拉龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Leodon",
+    "breed_chs": "烈傲龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Lihnseyre",
+    "breed_chs": "宁视乐龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Luminox Wyvern",
+    "breed_chs": "夜明龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Mageia Xenowyrm",
+    "breed_chs": "玛杰亚异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Magelight Pygmy Wyvern",
+    "breed_chs": "梅莱侏儒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Magi",
+    "breed_chs": "贤龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Mariner",
+    "breed_chs": "水手侏儒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Melismor",
+    "breed_chs": "梅力斯莫龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Mimic Pygmy",
+    "breed_chs": "模仿侏儒龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Monarch",
+    "breed_chs": "帝王龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Morphodrake",
+    "breed_chs": "闪蝶德雷克",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Mutamore",
+    "breed_chs": "穆塔莫龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Nebula",
+    "breed_chs": "星云龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Nexus",
+    "breed_chs": "连龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Omen Wyrm",
+    "breed_chs": "恶兆龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Pink",
+    "breed_chs": "粉龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Pipio Pygmy",
+    "breed_chs": "咕啾侏儒龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Pyrovar",
+    "breed_chs": "火沸龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Pyro Xenowyrm",
+    "breed_chs": "皮罗异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Razorcrest Wyvern",
+    "breed_chs": "剃刀冠长龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Red-Tailed Wyrm",
+    "breed_chs": "红尾长龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Red",
+    "breed_chs": "红龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Rift Wyrm",
+    "breed_chs": "裂谷龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Risensong",
+    "breed_chs": "晨歌龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Royal Blue",
+    "breed_chs": "皇家蓝龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Sakuhana Wyvern",
+    "breed_chs": "花绽双足翼龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Sandwaste",
+    "breed_chs": "沙荒龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Sapphire",
+    "breed_chs": "蓝宝石龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Setsong",
+    "breed_chs": "暮歌龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Silver",
+    "breed_chs": "银龙",
+    "rarity": "非常稀有"
+  },
+  {
+    "breed": "Siyat",
+    "breed_chs": "夏特龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Skysilk",
+    "breed_chs": "天丝龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Snow",
+    "breed_chs": "雪龙",
+    "rarity": "稀有 (圣诞节)"
+  },
+  {
+    "breed": "Soulstone",
+    "breed_chs": "灵魂石龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Spitfire",
+    "breed_chs": "烈火龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Starsinger",
+    "breed_chs": "吟星龙",
+    "rarity": "稀有 (节日)"
+  },
+  {
+    "breed": "Storm-Rider",
+    "breed_chs": "风暴驾驭龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Stratos",
+    "breed_chs": "斯特拉托斯龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Tarantula Hawk Drake",
+    "breed_chs": "沙漠蛛蜂德雷克",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Tatterdrake",
+    "breed_chs": "碎裂德雷克",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Tercorn",
+    "breed_chs": "三角龙",
+    "rarity": "常见"
+  },
+  {
+    "breed": "Thalassa Xenowyrm",
+    "breed_chs": "塔拉萨异形蛇龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Thunder",
+    "breed_chs": "雷龙",
+    "rarity": "稀有"
+  },
+  {
+    "breed": "Ultraviolet",
+    "breed_chs": "紫外光龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Venturis",
+    "breed_chs": "文丘里斯龙",
+    "rarity": "不常见"
+  },
+  {
+    "breed": "Wintertide",
+    "breed_chs": "玄英龙",
+    "rarity": "节日龙"
+  },
+  {
+    "breed": "Witchlight",
+    "breed_chs": "魔光龙",
+    "rarity": "稀有 (节庆)"
+  },
+  {
+    "breed": "Zyumorph alpine",
+    "breed_chs": "赛尔莫夫龙",
+    "rarity": "不常见"
+  }
+]

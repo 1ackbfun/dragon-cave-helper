@@ -1,43 +1,9 @@
 import os
 import re
-import json
 import time
 import requests
-#import lxml
 from bs4 import BeautifulSoup
-import zhconv
-
-
-def similar(str1: str, str2: str) -> float:
-    str1 = str1 + ' ' * (len(str2) - len(str1))
-    str2 = str2 + ' ' * (len(str1) - len(str2))
-    return sum(1 if i == j else 0
-               for i, j in zip(str1, str2)) / float(len(str1))
-
-
-class JSONFile():
-
-    @staticmethod
-    def write(json_path: str, json_content: any) -> None:
-        with open(json_path, 'w', encoding='utf8') as f:
-            f.write(
-                json.dumps(json_content,
-                           ensure_ascii=False,
-                           sort_keys=False,
-                           indent=2,
-                           separators=(',', ': ')))
-            f.close()
-            print(f'[INFO] 写入到 JSON 文件 {json_path} 成功')
-        return
-
-    @staticmethod
-    def read(json_path: str) -> any:
-        result = None
-        with open(json_path, 'r', encoding='utf8') as f:
-            result = json.loads(f.read())
-            f.close()
-            print(f'[INFO] 读取 JSON 文件 {json_path} 成功')
-        return result
+import lxml
 
 
 class Spider():
@@ -104,7 +70,7 @@ class Spider():
                 with open(cache_path, 'w', encoding='utf8') as f:
                     f.write(html)
                     f.close()
-                    print(f'[INFO] 缓存网页 {url} 成功')
+                    print(f'[INFO] 缓存网页到 {cache_path} 成功')
             except Exception as e:
                 print(f'[ERROR] 缓存网页 {url} 失败\n{e}')
         return html
@@ -113,7 +79,7 @@ class Spider():
     def update_dragon_list(cls) -> list:
         html = cls.get_html(cls.WIKI['dragon_list.en']['url'],
                             cls.WIKI['dragon_list.en']['path'], False)
-        soup = BeautifulSoup(html, 'html.parser')  # html.parser / lxml
+        soup = BeautifulSoup(html, 'lxml')  # html.parser / lxml
         result = []
         index = 0
         for table in soup.select('.article-table > tbody'):
@@ -175,14 +141,14 @@ class Spider():
         count = 0
         for dragon in dragon_list:
             url = None
-            page_path = f"cache\\dragon\\{dragon['wiki_path'].split('/')[-1]}.html"
+            page_path = f"cache\\dragon_en\\{dragon['wiki_path'].split('/')[-1]}.html"
             if dragon['wiki_path'].startswith('/'):
                 url = f"{cls.WIKI['root']}{dragon['wiki_path']}"
             elif dragon['breed'] == 'Sunset':
                 url = 'https://dragcave.fandom.com/wiki/Sunset_Dragon'
-                page_path = 'cache\\dragon\\Sunset_Dragon.html'
+                page_path = 'cache\\dragon_en\\Sunset_Dragon.html'
                 # url = 'https://dragcave.fandom.com/wiki/Sunrise_Dragon'
-                # page_path = 'cache\\dragon\\Sunrise_Dragon.html'
+                # page_path = 'cache\\dragon_en\\Sunrise_Dragon.html'
             else:
                 print(f"[{count}] 网址错误 {dragon['wiki_path']} 取消爬取")
                 print(dragon)
@@ -195,10 +161,31 @@ class Spider():
         return
 
     @classmethod
+    def cache_dragon_data_html_2(cls, dragon_list: list) -> None:
+        count = -1
+        for dragon in dragon_list:
+            count += 1
+            if dragon['wiki_path'] == '':
+                continue
+            url = None
+            page_path = f"cache\\dragon_zh\\{dragon['breed'].replace(' ', '_')}.html"
+            if dragon['wiki_path'].startswith('/'):
+                url = f"{cls.WIKI['root']}{dragon['wiki_path']}"
+            else:
+                print(f"[{count}] 网址错误 {dragon['wiki_path']} 取消爬取")
+                print(dragon)
+                continue
+            if not os.access(page_path, os.R_OK):
+                time.sleep(1)
+                print(f"[{count}] 尝试缓存 {url}")
+                Spider.get_html(url, page_path)
+        return
+
+    @classmethod
     def update_dragon_list_zh(cls) -> list:
         html = cls.get_html(cls.WIKI['dragon_list.zh']['url'],
                             cls.WIKI['dragon_list.zh']['path'], False)
-        soup = BeautifulSoup(html, 'html.parser')  # html.parser / lxml
+        soup = BeautifulSoup(html, 'lxml')
         result = []
         for table in soup.select('.article-table > tbody'):
             if table.find('th').text.strip() != '蛋':
@@ -225,33 +212,21 @@ class Spider():
                         'breed':
                         data[0].find('img')['alt'].split(' egg')[0],
                         'breed_chs':
-                        re.sub(r'\[.*\]$', '', data[2].text.strip()),
+                        re.sub(r'\[.*\]$', '', data[-2].text.strip()),
                         'egg_desc':
                         f'{egg_desc[:separator_index-1]}.',
                         'egg_desc_chs':
                         re.sub(r'\[.*\]$', '',
                                egg_desc[separator_index:].strip()),
                         'wiki_path':
-                        data[2].find('a')['href']
-                        if data[2].find('a') is not None else ''
+                        data[-2].find('a')['href']
+                        if data[-2].find('a') is not None else '',
                     })
                 except Exception as e:
                     print(f'[ERROR] {e}')
                     print(raw_data.prettify())
         return result
 
-
-def main() -> None:
-    latest_list = Spider.update_dragon_list()
-    print(f'[INFO] 英文 Wiki 收录龙类数量 {len(latest_list)}')
-    JSONFile.write(r'data/dragon_list.en.json', latest_list)
-    Spider.cache_dragon_egg_sprites(latest_list)
-    Spider.cache_dragon_data_html(latest_list)
-    zh_list = Spider.update_dragon_list_zh()
-    print(f'[INFO] 中文 Wiki 收录龙类数量 {len(zh_list)}')
-    JSONFile.write(r'data/dragon_list.zh.json', zh_list)
-    # TODO 根据缓存的 HTML 文件解析数据并整合
-
-
-if __name__ == '__main__':
-    main()
+    @classmethod
+    def parse_dragon_data() -> None:
+        return
